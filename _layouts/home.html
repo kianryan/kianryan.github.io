@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<div>
+I'm Kian Ryan; a web developer, fencing coach, triathlete, maker, and occassional speaker based in the North West of England.  You can find out what I'm currently up to on my <a href="/now">Now</a> page.
+</div>
+
+<div>
+<a class="twitter-timeline" data-width="400" data-height="500" href="https://twitter.com/kianryan?ref_src=twsrc%5Etfw">Tweets by kianryan</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+
+<div class="home">
+  {% if page.title %}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {% endif %}
+
+  {{ content }}
+
+  {% if site.posts.size > 0 %}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Latest Posts" }}</h2>
+    <ul class="post-list">
+      {% for post in site.posts limit:5 %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+	<span class="post-meta">
+	{% assign categories = post.categories %}
+	{% for category in categories %}
+	  <a href="{{site.baseurl}}/blog/{{category|slugize}}">{{category}}</a>{% unless forloop.last %},{% endunless %}
+	{% endfor %}
+	</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {% if site.show_excerpts %}
+          {{ post.excerpt }}
+        {% endif %}
+      </li>
+    </ul>
+  {% endfor %}
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {% endif %}
+
+</div>
