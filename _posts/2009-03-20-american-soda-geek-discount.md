@@ -1,0 +1,31 @@
+---
+id: 169
+title: American Soda GEEK Discount
+date: 2009-03-20T16:35:48+00:00
+author: kianryan
+layout: post
+guid: http://www.kianryan.co.uk/2009/03/american-soda-geek-discount/
+permalink: /2009/03/american-soda-geek-discount/
+ljID:
+  - "117"
+ljxp_comments:
+  - "0"
+ljxp_privacy:
+  - "0"
+dsq_thread_id:
+  - "178212950"
+categories:
+  - Comment
+---
+<img alt="" src="http://www.americansoda.co.uk/img/logo_ontop.jpg" class="alignright" width="292" height="96" />I&#8217;ve been in discussions with one of my fine clients [American Soda](http://www.americansoda.co.uk/) securing a discount for our the needs of fellow geeks. They&#8217;re also hoping to sponsor some community events in the future, so if you&#8217;re running a BarCamp, local user group or some such give us a [ping](mailto:kian@kianryan.co.uk).
+
+For the moment though, American Soda is offering a 10% discount for the next seven days on presentation of the code **GEEK** at checkout. The more people that take up _this_ offer, the higher the likelihood they&#8217;ll run more offers in the future with potentially greater discounts. As a sample of their fine produce:
+
+  1. [Mountain Dew](http://www.americansoda.co.uk/uk/American-Soda/Home/Mountain-Dew.aspx)
+  2. [Mountain Dew](http://www.americansoda.co.uk/uk/American-Soda/Home/Mountain-Dew.aspx) (because yes &#8211; it needs mentioning twice)
+  3. [Tab Cola](http://www.americansoda.co.uk/uk/American-Soda/Home/Drinks/Diet-Soda/Tab-Cola.aspx)
+  4. [Paddy O&#8217;Brien&#8217;s Lucky Charms](http://www.americansoda.co.uk/uk/American-Soda/Home/Lucky-Charms.aspx)
+  5. [Teddy Grahams](http://www.americansoda.co.uk/uk/American-Soda/Home/Groceries/US-groceries/Teddy-Grahams---Cinnamon.aspx)
+  6. [Hershey&#8217;s Cookie and Cream](http://www.americansoda.co.uk/uk/American-Soda/Home/Candy/Chocolate/Hershey-Cookies-n-Cream-bar.aspx) (which I&#8217;m told are better than Oreos)]
+
+And just because I can: <img src="http://www.kianryan.co.uk/wp-content/uploads/2009/03/28w3v-0e3fb3146a08ef72ffeea4610e8e04b849c3c5eb-225x300.jpg" alt="Mountain Dew" title="Mountain Dew" width="225" height="300" class="aligncenter size-medium wp-image-171" srcset="http://www.kianryan.co.uk/wp-content/uploads/2009/03/28w3v-0e3fb3146a08ef72ffeea4610e8e04b849c3c5eb-225x300.jpg 225w, http://www.kianryan.co.uk/wp-content/uploads/2009/03/28w3v-0e3fb3146a08ef72ffeea4610e8e04b849c3c5eb.jpg 600w" sizes="(max-width: 225px) 100vw, 225px" />
