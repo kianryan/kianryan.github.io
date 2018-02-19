@@ -17,4 +17,4 @@ dsq_thread_id:
 categories:
   - Bob
 ---
-<img src="http://www.kianryan.co.uk/wp-content/uploads/2009/03/10-caffine.jpg" alt="10 - Caffine Bob" title="10 - Caffine Bob" width="600" height="441" class="alignnone size-full wp-image-181" srcset="http://www.kianryan.co.uk/wp-content/uploads/2009/03/10-caffine.jpg 600w, http://www.kianryan.co.uk/wp-content/uploads/2009/03/10-caffine-300x220.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
+<img src="/assets/images/2009/03/10-caffine.jpg" alt="10 - Caffine Bob" title="10 - Caffine Bob" width="600" height="441" class="alignnone size-full wp-image-181" srcset="/assets/images/2009/03/10-caffine.jpg 600w, /assets/images/2009/03/10-caffine-300x220.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />

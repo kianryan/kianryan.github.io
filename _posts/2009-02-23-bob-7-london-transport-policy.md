@@ -17,4 +17,4 @@ dsq_thread_id:
 categories:
   - Bob
 ---
-<img class="alignnone size-full wp-image-106" title="Bob 7 - London Travel" src="http://www.kianryan.co.uk/wp-content/uploads/2009/02/7-london-travel.jpg" alt="Bob 7 - London Travel" width="600" height="436" srcset="http://www.kianryan.co.uk/wp-content/uploads/2009/02/7-london-travel.jpg 600w, http://www.kianryan.co.uk/wp-content/uploads/2009/02/7-london-travel-300x218.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
+<img class="alignnone size-full wp-image-106" title="Bob 7 - London Travel" src="/assets/images/2009/02/7-london-travel.jpg" alt="Bob 7 - London Travel" width="600" height="436" srcset="/assets/images/2009/02/7-london-travel.jpg 600w, /assets/images/2009/02/7-london-travel-300x218.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />

@@ -13,4 +13,4 @@ dsq_thread_id:
 categories:
   - Bob
 ---
-![11 Bob Stimulus](http://www.kianryan.co.uk/wp-content/uploads/2009/04/11-bob-stimulus.jpg)
+![11 Bob Stimulus](/assets/images/2009/04/11-bob-stimulus.jpg)

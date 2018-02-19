@@ -19,7 +19,7 @@ There&#8217;s some coverage from the [Bolton News](http://www.theboltonnews.co.u
 
 The event runs over two days (7th &#8211; 8th August 2009), with &#8220;Walk The Talk&#8221; on Friday (entertainment, food and debate) and the actual Bazaar on the Saturday. The Bazaar is held at the [Victoria Hall](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=victoria+halls+bolton&sll=53.578646,-2.442913&sspn=0.065228,0.11879&ie=UTF8&ll=53.580965,-2.430854&spn=0.007835,0.014849&z=16&iwloc=A), in Bolton starting at 1830 (arriving from 1815) It gains a little coverage from the local press, but that&#8217;s about as far as media attention goes.
 
-![Bazzar](http://www.kianryan.co.uk/wp-content/uploads/2009/08/bazzar.jpg)
+![Bazzar](/assets/images/2009/08/bazzar.jpg)
 
 We&#8217;ve got 9 tickets for the Friday event and 9 tickets for the Saturday event to give away. I&#8217;d like to see bloggers attend the event and help gain some extra publicity for it. The more publicity, the more likely community driven events like this will continue.
 

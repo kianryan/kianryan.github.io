@@ -14,7 +14,7 @@ categories:
   - Comment
 ---
 
-![Clanger](http://www.kianryan.co.uk/wp-content/uploads/2010/04/clanger.jpg) [The Vote Now Show](http://www.bbc.co.uk/programmes/b00ry8mt) has been doing a sterling job of reporting on the events of the election campaigning for the past few weeks.
+![Clanger](/assets/images/2010/04/clanger.jpg) [The Vote Now Show](http://www.bbc.co.uk/programmes/b00ry8mt) has been doing a sterling job of reporting on the events of the election campaigning for the past few weeks.
 
 In return, they&#8217;ve only asked for one thing which has been denied of them &#8211; to be hated. So far, they&#8217;ve not received a single complaint. They&#8217;ve even gone so far as to shoot a clanger (artist&#8217;s rendering above) in an attempt to generate complaints.
 

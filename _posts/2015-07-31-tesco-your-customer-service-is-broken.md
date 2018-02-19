@@ -70,7 +70,7 @@ So at midnight on Thursday morning after a long shift with some highly resilient
 
 At quarter to eleven in the morning on Thursday I wander in to the store and head to the electrical desk. I ask to buy a Hudl2, at which point the sales person promptly disappears behind the door labelled &#8220;Tesco Direct&#8221;. Five minutes later, he returns with a unit and rings it through the till. I point out I want to pay using my Clubcard vouchers, and I&#8217;m informed that I have to do that online through Tesco Direct and wait until the following day, despite the clearly available stock (the unit is in front of me), and despite the advertising for Clubcard boost being everywhere where the Hudl is displayed in store, with no clear indication that this can only be done through Direct.
 
-[<img src="http://www.kianryan.co.uk/wp-content/uploads/2015/07/hudl2_clubcard.jpg" alt="hudl2_clubcard" width="433" height="769" class="aligncenter size-full wp-image-1228" />](http://www.kianryan.co.uk/wp-content/uploads/2015/07/hudl2_clubcard.jpg)
+[<img src="/assets/images/2015/07/hudl2_clubcard.jpg" alt="hudl2_clubcard" width="433" height="769" class="aligncenter size-full wp-image-1228" />](/assets/images/2015/07/hudl2_clubcard.jpg)
 
 At around half past eleven, while sat in a car in Milnrow waiting for a passenger, I place an order online, through Tesco Direct, for a Hudl2. Collection is at 3pm the following day from the Horwich store.
 
@@ -84,7 +84,7 @@ As I then passed through the security barrier, the alarms went off. I was asked 
 
 I take the unit home and open the box. There&#8217;s no partial charge (unusual for modern devices), so I plug the unit in with the included charger. No charging light appears which seems odd, so I leave it for a little while. Unit fails to turn on. When I plug it in to my 40W Anker desktop charger, the charging light turns on and it appears to start charging. I turn the unit on, and am promptly shown the Android recovery screen. I /really/ shouldn&#8217;t be seeing this on a first boot, but I restart the unit, and Android boots.
 
-[<img src="http://www.kianryan.co.uk/wp-content/uploads/2015/07/hudl2_recovery.jpg" alt="hudl2_recovery" width="1035" height="582" class="aligncenter size-full wp-image-1229" />](http://www.kianryan.co.uk/wp-content/uploads/2015/07/hudl2_recovery.jpg)
+[<img src="/assets/images/2015/07/hudl2_recovery.jpg" alt="hudl2_recovery" width="1035" height="582" class="aligncenter size-full wp-image-1229" />](/assets/images/2015/07/hudl2_recovery.jpg)
 
 When Android finally boots, I&#8217;m asked to connect to a Wifi network. Provide details for local network, device connects and promptly disconnects. And keeps doing so every few seconds. Clear DHCP on router, check other devices, reboot rooter, same behaviour. Wifi connects, then instantly drops. Oh, then the device powers down again.
 

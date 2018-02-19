@@ -13,7 +13,7 @@ categories:
 ---
 Today we go and pick up a new ball of fluff &#8211; notably, this ball of fluff:
 
-<a href="http://www.kianryan.co.uk/2012/05/name-the-kitten/kitten/" rel="attachment wp-att-744"><img src="http://www.kianryan.co.uk/wp-content/uploads/2012/05/kitten.jpg" alt="" title="kitten" width="300" height="400" class="alignnone size-full wp-image-744" srcset="http://www.kianryan.co.uk/wp-content/uploads/2012/05/kitten.jpg 600w, http://www.kianryan.co.uk/wp-content/uploads/2012/05/kitten-225x300.jpg 225w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href="http://www.kianryan.co.uk/2012/05/name-the-kitten/kitten/" rel="attachment wp-att-744"><img src="/assets/images/2012/05/kitten.jpg" alt="" title="kitten" width="300" height="400" class="alignnone size-full wp-image-744" srcset="/assets/images/2012/05/kitten.jpg 600w, /assets/images/2012/05/kitten-225x300.jpg 225w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
 The ball of fluff is currently named &#8220;Fay&#8221;, which is probably not going to stick around here. Our other fuzzballs have been/are named:
 

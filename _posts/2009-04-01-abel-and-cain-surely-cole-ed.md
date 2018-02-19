@@ -23,7 +23,7 @@ There&#8217;s also the benefit that Abel and Cole boxes are organically sourced,
 
 So, for a first time out we decided to order a mixed medium box, some mushrooms and a loaf. Pretty standard fare, except that we were told &#8220;order over £20, get a mixed box free&#8221;. Which meant that when the box arrived, we were greeted with this:
 
-<img src="http://www.kianryan.co.uk/wp-content/uploads/2009/04/abel-and-cole-300x200.jpg" alt="abel-and-cole" title="abel-and-cole" width="300" height="200" class="alignnone size-medium wp-image-188" srcset="http://www.kianryan.co.uk/wp-content/uploads/2009/04/abel-and-cole-300x200.jpg 300w, http://www.kianryan.co.uk/wp-content/uploads/2009/04/abel-and-cole.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
+<img src="/assets/images/2009/04/abel-and-cole-300x200.jpg" alt="abel-and-cole" title="abel-and-cole" width="300" height="200" class="alignnone size-medium wp-image-188" srcset="/assets/images/2009/04/abel-and-cole-300x200.jpg 300w, /assets/images/2009/04/abel-and-cole.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
 
 Oh holy, moly. That&#8217;s a lot of food. 🙂
 

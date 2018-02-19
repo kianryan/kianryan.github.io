@@ -13,19 +13,19 @@ dsq_thread_id:
 categories:
   - Code
 ---
-![Promotional](http://www.kianryan.co.uk/wp-content/uploads/2009/12/promotional.png)
+![Promotional](/assets/images/2009/12/promotional.png)
 
 Orange Tentacle have just released their latest Android application: Masque Mobile. Masque Mobile is a fencing referee&#8217;s friend designed to take the pain out of juggling scores, times and cards.
 
-![Screenshot 1](http://www.kianryan.co.uk/wp-content/uploads/2009/12/screenshot_1.png)
+![Screenshot 1](/assets/images/2009/12/screenshot_1.png)
 
 The UI has been built, and rebuilt around the ideal of a clean interface designed to minimise potential mistakes. The referee is presented with a clean UI, with only the score counters, cards and time on screen. A large button with haptic feedback means the timer can be started and stopped with the eyes away from the device.
 
-![Screenshot 3](http://www.kianryan.co.uk/wp-content/uploads/2009/12/screenshot_3.png)
+![Screenshot 3](/assets/images/2009/12/screenshot_3.png)
 
 If a penalty occurs during a bout, the referee can action a card by selecting the appropriate card outline. Optionally a full screen card can be presented to the offending party. The interface will keep track of the number of cards awarded and can also award hits to opponents.
 
-![Screenshot 4](http://www.kianryan.co.uk/wp-content/uploads/2009/12/screenshot_4.png)
+![Screenshot 4](/assets/images/2009/12/screenshot_4.png)
 
 Other features are cleverly hidden away. Priority resets, and breaks are all actioned from the menu, and preferences to define period length, and the amount and kinds of feedback the application provide can all be set from the preferences dialog.
 

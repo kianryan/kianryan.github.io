@@ -11,4 +11,4 @@ dsq_thread_id:
 categories:
   - Bob
 ---
-<img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://www.kianryan.co.uk/wp-content/uploads/2011/10/wpid-Sketch215157.png" />
+<img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="/assets/images/2011/10/wpid-Sketch215157.png" />

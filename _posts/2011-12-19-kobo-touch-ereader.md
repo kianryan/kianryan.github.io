@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Comment
 ---
-<img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://www.kianryan.co.uk/wp-content/uploads/2011/12/wpid-IMG_20111219_004228.jpg" />
+<img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="/assets/images/2011/12/wpid-IMG_20111219_004228.jpg" />
 
 A few days ago (17th November &#8230; cough), I picked up a new toy, a Kobo Touch E-Reader.  I made a tweet along the lines of&#8230;
 

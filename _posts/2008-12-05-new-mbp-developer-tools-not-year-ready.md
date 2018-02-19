@@ -21,7 +21,7 @@ tags:
   - mbp
   - wtf
 ---
-<img src="http://www.kianryan.co.uk/wp-content/uploads/2008/12/nwn_logo1-300x230.jpg" alt="" title="NeverWinter Nights Logo" width="300" height="230" class="alignleft size-medium wp-image-62" style="padding-right: 10px;" srcset="http://www.kianryan.co.uk/wp-content/uploads/2008/12/nwn_logo1-300x230.jpg 300w, http://www.kianryan.co.uk/wp-content/uploads/2008/12/nwn_logo1.jpg 365w" sizes="(max-width: 300px) 100vw, 300px" />I&#8217;ve just got off the phone from a Product Specialist at Apple Care.
+<img src="/assets/images/2008/12/nwn_logo1-300x230.jpg" alt="" title="NeverWinter Nights Logo" width="300" height="230" class="alignleft size-medium wp-image-62" style="padding-right: 10px;" srcset="/assets/images/2008/12/nwn_logo1-300x230.jpg 300w, /assets/images/2008/12/nwn_logo1.jpg 365w" sizes="(max-width: 300px) 100vw, 300px" />I&#8217;ve just got off the phone from a Product Specialist at Apple Care.
 
 One of the common tricks to perform to get older games to run stable under multi-core systems is to disable one of the cores. On my previous generation MacBook Black this was straightforward enough. Install XCode developer tools off the install CD, pop into:
 

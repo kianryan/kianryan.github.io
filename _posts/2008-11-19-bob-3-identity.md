@@ -15,4 +15,4 @@ dsq_thread_id:
 categories:
   - Bob
 ---
-<img style="border:5px solid #327EB0;" src="http://www.kianryan.co.uk/wp-content/uploads/2008/11/no3-identity.png" alt="Bob 3 - Identity" title="Bob 3 - Identity" class="size-full wp-image-36" srcset="http://www.kianryan.co.uk/wp-content/uploads/2008/11/no3-identity.png 600w, http://www.kianryan.co.uk/wp-content/uploads/2008/11/no3-identity-300x197.png 300w" sizes="(max-width: 600px) 100vw, 600px" />
+<img style="border:5px solid #327EB0;" src="/assets/images/2008/11/no3-identity.png" alt="Bob 3 - Identity" title="Bob 3 - Identity" class="size-full wp-image-36" srcset="/assets/images/2008/11/no3-identity.png 600w, /assets/images/2008/11/no3-identity-300x197.png 300w" sizes="(max-width: 600px) 100vw, 600px" />

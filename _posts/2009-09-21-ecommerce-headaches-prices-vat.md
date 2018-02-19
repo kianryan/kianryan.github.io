@@ -14,7 +14,7 @@ categories:
   - Comment
 ---
 
-<img style="float:right;" src="http://www.kianryan.co.uk/wp-content/uploads/2009/09/hector.jpg" alt="Hector the Tax Inspector" /> I felt this warranted a blog post.
+<img style="float:right;" src="/assets/images/2009/09/hector.jpg" alt="Hector the Tax Inspector" /> I felt this warranted a blog post.
 
 I&#8217;m currently writing an e-commerce system for some very nice people which is quite literally all-singing, all-dancing. When we originally wrote the prices part of the system, we had a very serious conversation about how pricing and VAT would be handled. It went something like this:
 

@@ -63,6 +63,6 @@ Hands on with some real toys! Awesome!
 
 We apologize for the lack of continued coverage of the event, however at this point some little oik managed to nick my bag containing my laptop, mp3 player, journals and my wallet. As you can imagine this made continued live-blogging rather tricky. If anyone sees it, it&#8217;s a Swissgear Rival backpack in red (see image below), with a Macbook Black, Sanse E280 and Shure SE-210 headphones, and two Moleskine journals with my names in them.
 
-<img class="aligncenter size-medium wp-image-56" title="My Bag" src="http://www.kianryan.co.uk/wp-content/uploads/2008/12/l11071200-211x300.jpg" alt="" width="211" height="300" srcset="http://www.kianryan.co.uk/wp-content/uploads/2008/12/l11071200-211x300.jpg 211w, http://www.kianryan.co.uk/wp-content/uploads/2008/12/l11071200.jpg 422w" sizes="(max-width: 211px) 100vw, 211px" />
+<img class="aligncenter size-medium wp-image-56" title="My Bag" src="/assets/images/2008/12/l11071200-211x300.jpg" alt="" width="211" height="300" srcset="/assets/images/2008/12/l11071200-211x300.jpg 211w, /assets/images/2008/12/l11071200.jpg 422w" sizes="(max-width: 211px) 100vw, 211px" />
 
 Luckily all the data was anally backed up onto my NAS and Subversion repo, so no work has been lost. I have a new MBP, and am currently getting myself back in the game. There&#8217;s some new ideas for blog posts coming.

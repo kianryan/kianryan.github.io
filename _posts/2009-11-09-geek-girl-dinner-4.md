@@ -13,7 +13,7 @@ dsq_thread_id:
 categories:
   - Comment
 ---
-![Ggd](http://www.kianryan.co.uk/wp-content/uploads/2009/11/ggd.png)
+![Ggd](/assets/images/2009/11/ggd.png)
 
 
     <a href="http://www.flickr.com/photos/perdita-x/4067998587/" style="float:right; padding:5px;"> <img src="http://farm3.static.flickr.com/2702/4067998587_bcc5384d6c.jpg" /> <br />Photo by Cat Ashton </a>

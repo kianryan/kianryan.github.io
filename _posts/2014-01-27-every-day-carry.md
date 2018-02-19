@@ -8,7 +8,7 @@ guid: http://www.kianryan.co.uk/?p=1161
 permalink: /2014/01/every-day-carry/
 mkd_text:
   - |
-    <a href="http://www.kianryan.co.uk/wp-content/uploads/2014/01/k7RMKma1.jpg"><img title="k7RMKma.jpg" alt="k7RMKma.jpg" src="http://www.kianryan.co.uk/wp-content/uploads/2014/01/k7RMKma1.jpg" width="600" class="aligncenter" /></a>
+    <a href="/assets/images/2014/01/k7RMKma1.jpg"><img title="k7RMKma.jpg" alt="k7RMKma.jpg" src="/assets/images/2014/01/k7RMKma1.jpg" width="600" class="aligncenter" /></a>
     
     I have a small confession, I've been bit of an [EDC (Every Day Carry)](http://en.wikipedia.org/wiki/Everyday_carry) obsessive for a number of months.
     
@@ -82,7 +82,7 @@ tags:
   - edc
   - lifetrack
 ---
-[<img title="k7RMKma.jpg" alt="k7RMKma.jpg" src="http://www.kianryan.co.uk/wp-content/uploads/2014/01/k7RMKma1.jpg" width="600" class="aligncenter" />](http://www.kianryan.co.uk/wp-content/uploads/2014/01/k7RMKma1.jpg)
+[<img title="k7RMKma.jpg" alt="k7RMKma.jpg" src="/assets/images/2014/01/k7RMKma1.jpg" width="600" class="aligncenter" />](/assets/images/2014/01/k7RMKma1.jpg)
 
 I have a small confession, I&#8217;ve been bit of an [EDC (Every Day Carry)](http://en.wikipedia.org/wiki/Everyday_carry) obsessive for a number of months.
 

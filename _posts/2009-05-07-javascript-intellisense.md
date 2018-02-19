@@ -39,7 +39,7 @@ In your actual work scripts, you can then reference jQuery and the preload using
 
 Visual studio will have sorted out it&#8217;s type resolution for $j meaning that so long as you also have the jQuery .vsdoc file in the same folder as jQuery you get this glorious view:
 
-![Noconflict](http://www.kianryan.co.uk/wp-content/uploads/2009/05/noconflict.jpg)
+![Noconflict](/assets/images/2009/05/noconflict.jpg)
 
 The pros of this technique are that you can drop in new versions of jQuery at a whim and not have to worry too much about having to update preload.js. Of course the downside is that preload.js then needs to be sent to the client, with all the associated overhead of a get request.
 

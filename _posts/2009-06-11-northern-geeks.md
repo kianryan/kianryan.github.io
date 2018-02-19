@@ -17,7 +17,7 @@ dsq_thread_id:
 categories:
   - Photog
 ---
-<img src="http://www.kianryan.co.uk/wp-content/uploads/2009/06/photo-13-300x225.jpg" alt="photo-13" title="photo-13" width="300" height="225" class="alignleft size-medium wp-image-235" srcset="http://www.kianryan.co.uk/wp-content/uploads/2009/06/photo-13-300x225.jpg 300w, http://www.kianryan.co.uk/wp-content/uploads/2009/06/photo-13.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />
+<img src="/assets/images/2009/06/photo-13-300x225.jpg" alt="photo-13" title="photo-13" width="300" height="225" class="alignleft size-medium wp-image-235" srcset="/assets/images/2009/06/photo-13-300x225.jpg 300w, /assets/images/2009/06/photo-13.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />
 
 Now my new larger easel has finally arrived, I can announce one of my new projects. &#8220;Northern Geeks&#8221; will be a series of portraits of geeks in the north, showing them in their natural habitat and &#8220;at play&#8221;. I want to show geeks are people too.
 

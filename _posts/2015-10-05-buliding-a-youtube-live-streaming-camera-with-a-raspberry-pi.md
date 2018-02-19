@@ -52,7 +52,7 @@ tags:
   - Raspberri Pi
   - technology
 ---
-[<img src="http://www.kianryan.co.uk/wp-content/uploads/2015/10/pi_situ.jpg" alt="pi_situ" width="5312" height="2988" class="aligncenter size-full wp-image-1294" />](http://www.kianryan.co.uk/wp-content/uploads/2015/10/pi_situ.jpg)
+[<img src="/assets/images/2015/10/pi_situ.jpg" alt="pi_situ" width="5312" height="2988" class="aligncenter size-full wp-image-1294" />](/assets/images/2015/10/pi_situ.jpg)
 
 For the ManCadet, we built a couple of cheap streaming cameras to stream content to Youtube Live. You can see the quality of the output [here](https://www.youtube.com/watch?v=v27zo04BcxA).
 

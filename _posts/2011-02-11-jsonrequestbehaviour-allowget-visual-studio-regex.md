@@ -26,7 +26,7 @@ to
 
 Not too bad if you&#8217;ve only got a couple of instances, but if you&#8217;ve got Json coming out of your ears, it&#8217;s a pain to implement it everywhere. You can either derive yourself a controller object and override the default Json behaviour &#8211; or use a Visual Studio find and replace regex to change your Json responses for you:
 
-<img src="http://www.kianryan.co.uk/wp-content/uploads/2011/02/Screen-shot-2011-02-11-at-21.54.57.jpg" alt="" title="Screen shot 2011-02-11 at 21.54.57" width="483" height="449" class="alignnone size-full wp-image-547" srcset="http://www.kianryan.co.uk/wp-content/uploads/2011/02/Screen-shot-2011-02-11-at-21.54.57.jpg 483w, http://www.kianryan.co.uk/wp-content/uploads/2011/02/Screen-shot-2011-02-11-at-21.54.57-300x278.jpg 300w" sizes="(max-width: 483px) 100vw, 483px" />
+<img src="/assets/images/2011/02/Screen-shot-2011-02-11-at-21.54.57.jpg" alt="" title="Screen shot 2011-02-11 at 21.54.57" width="483" height="449" class="alignnone size-full wp-image-547" srcset="/assets/images/2011/02/Screen-shot-2011-02-11-at-21.54.57.jpg 483w, /assets/images/2011/02/Screen-shot-2011-02-11-at-21.54.57-300x278.jpg 300w" sizes="(max-width: 483px) 100vw, 483px" />
 
 Unlike our Ruby, PHPing and Perl counterparts, regular expressions aren&#8217;t something that .NET developers tend to come across on a regular basis, and as such we often forget they&#8217;re lurking in the toolbox. Visual Studio find/replace has a reasonable regex mechanism, but it&#8217;s not perl standard. [Check the docs for details](http://msdn.microsoft.com/en-us/library/2k3te2cs(v=VS.100).aspx).
 

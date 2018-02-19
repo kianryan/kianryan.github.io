@@ -13,7 +13,7 @@ dsq_thread_id:
 categories:
   - LifeTrack
 ---
-![Audrey](http://www.kianryan.co.uk/wp-content/uploads/2009/04/audrey1.jpg)
+![Audrey](/assets/images/2009/04/audrey1.jpg)
 
 Here at Tentacle Towers we have the typical urban gardening facility &#8211; a yard. Your typical yard does not really lend itself to being transformed into a urban garden paradise of self-sustenance, but we&#8217;re giving it a jolly good shot.
 
@@ -23,8 +23,8 @@ Veg tends to broadly fall into three categories: 1. **Straight to pot** &#8211; 
 
 Important bits: * **Greenhouse** &#8211; this doesn&#8217;t have to be the epic huge glass house that your Aunty Mabel grows her begonias in. The Range and B&Q both sell a small greenhouse which is essentially nothing more than a series of shelves with a plastic cover. The only real difference between that one and Aunty Mabels is Aunty Mabel&#8217;s is significantly larger. * **Containers** &#8211; if you let them, containers can be expensive. The most we&#8217;ve paid (so far) for a container is £25 for a container to hold our Jerusalem Artichokes. The best containers are often the most novel ones. Our potatoes are in garden refuse buckets and one of the herb pots is an old barbecue.
 
-![Garden](http://www.kianryan.co.uk/wp-content/uploads/2009/04/garden.jpg)
+![Garden](/assets/images/2009/04/garden.jpg)
 
 And to prove it works, broccoli making a bid for world domination.
 
-![Broccoli](http://www.kianryan.co.uk/wp-content/uploads/2009/04/broccoli.jpg)
+![Broccoli](/assets/images/2009/04/broccoli.jpg)

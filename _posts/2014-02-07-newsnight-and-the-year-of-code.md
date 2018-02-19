@@ -16,7 +16,7 @@ mkd_text:
     
     Then there was the [Newsnight piece on the Year Of Code](http://www.huffingtonpost.co.uk/2014/02/06/lottie-dexter-newsnight_n_4737526.html), with a somewhat biased set piece introducing the completely disastrous interview with Jeremy "Iron Crotch" Paxman and Lottie Dexter where *neither* came off particularly well.  Paxman comes across as even more arrogant and dismissive than usual and Lottie Dexter looks like she's just been barbecued and makes some painful statements that she's really going to regret in the morning.
     
-    ![kaboom](http://www.kianryan.co.uk/wp-content/uploads/2014/02/Operation_Upshot-Knothole_-_Badger_001-1-300x254.jpg)
+    ![kaboom](/assets/images/2014/02/Operation_Upshot-Knothole_-_Badger_001-1-300x254.jpg)
     
     I lost it.  I freakin' lost it.  My blood pressure peaked and in my mind's eye, a small thermonuclear device went off in the location of everyone involved.
     
@@ -110,7 +110,7 @@ Then a comment from the [Daily Mail](https://twitter.com/BestoftheMail/status/43
 
 Then there was the [Newsnight piece on the Year Of Code](http://www.huffingtonpost.co.uk/2014/02/06/lottie-dexter-newsnight_n_4737526.html), with a somewhat biased set piece introducing the completely disastrous interview with Jeremy &#8220;Iron Crotch&#8221; Paxman and Lottie Dexter where _neither_ came off particularly well. Paxman comes across as even more arrogant and dismissive than usual and Lottie Dexter looks like she&#8217;s just been barbecued and makes some painful statements that she&#8217;s really going to regret in the morning.
 
-![kaboom](http://www.kianryan.co.uk/wp-content/uploads/2014/02/Operation_Upshot-Knothole_-_Badger_001-1-300x254.jpg)
+![kaboom](/assets/images/2014/02/Operation_Upshot-Knothole_-_Badger_001-1-300x254.jpg)
 
 I lost it. I freakin&#8217; lost it. My blood pressure peaked and in my mind&#8217;s eye, a small thermonuclear device went off in the location of everyone involved.
 

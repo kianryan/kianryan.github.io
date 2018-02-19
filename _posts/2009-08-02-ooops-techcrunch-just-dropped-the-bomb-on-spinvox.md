@@ -15,7 +15,7 @@ categories:
 ---
 This just dropped into my RSS reader. By the look of the title, people weren&#8217;t supposed to know _just_ yet. It&#8217;s still on the cached RSS feed, but not on the website so by now its probably common knowledge.
 
-![Spinvox](http://www.kianryan.co.uk/wp-content/uploads/2009/08/spinvox.jpg)
+![Spinvox](/assets/images/2009/08/spinvox.jpg)
 
 Notable highlights: [snipped since no longer relevant]
 

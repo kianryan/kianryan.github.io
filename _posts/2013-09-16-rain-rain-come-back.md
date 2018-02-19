@@ -8,7 +8,7 @@ guid: http://www.kianryan.co.uk/?p=1085
 permalink: /2013/09/rain-rain-come-back/
 mkd_text:
   - |
-    <img title="Rain, Rain" alt="Rain, Rain" src="http://www.kianryan.co.uk/wp-content/uploads/2013/09/rain.jpg" class="medium" />
+    <img title="Rain, Rain" alt="Rain, Rain" src="/assets/images/2013/09/rain.jpg" class="medium" />
     
     Rainy days are great.
     
@@ -41,7 +41,7 @@ dsq_thread_id:
 categories:
   - LifeTrack
 ---
-<img title="Rain, Rain" alt="Rain, Rain" src="http://www.kianryan.co.uk/wp-content/uploads/2013/09/rain.jpg" class="medium" />
+<img title="Rain, Rain" alt="Rain, Rain" src="/assets/images/2013/09/rain.jpg" class="medium" />
 
 Rainy days are great.
 

@@ -8,7 +8,7 @@ guid: http://www.kianryan.co.uk/?p=1193
 permalink: /2014/04/muplug-the-smallest-uk-usb-charger-on-the-planet/
 mkd_text:
   - |
-    <a href="http://www.kianryan.co.uk/wp-content/uploads/2014/04/muplug.jpg"><img title="muplug.jpg" alt="muplug.jpg" src="http://www.kianryan.co.uk/wp-content/uploads/2014/04/muplug.jpg" class="aligncenter" width="600" height="400" /></a>
+    <a href="/assets/images/2014/04/muplug.jpg"><img title="muplug.jpg" alt="muplug.jpg" src="/assets/images/2014/04/muplug.jpg" class="aligncenter" width="600" height="400" /></a>
     
     
     I've [written previously](http://www.kianryan.co.uk/2013/11/folding-uk-plugs/) about [ThinPlug](http://www.thinplug.com/), which is an excellent UK folding plug design which comes as either a kettle lead, or as a folding USB plug.  When I wrote the post, I was aware of the [MuPlug](http://www.themu.co.uk/), but was disappointed at the lack of kettle lead option.
@@ -27,7 +27,7 @@ dsq_thread_id:
 categories:
   - Comment
 ---
-[<img title="muplug.jpg" alt="muplug.jpg" src="http://www.kianryan.co.uk/wp-content/uploads/2014/04/muplug.jpg" class="aligncenter" width="600" height="400" />](http://www.kianryan.co.uk/wp-content/uploads/2014/04/muplug.jpg)
+[<img title="muplug.jpg" alt="muplug.jpg" src="/assets/images/2014/04/muplug.jpg" class="aligncenter" width="600" height="400" />](/assets/images/2014/04/muplug.jpg)
 
 I&#8217;ve [written previously](http://www.kianryan.co.uk/2013/11/folding-uk-plugs/) about [ThinPlug](http://www.thinplug.com/), which is an excellent UK folding plug design which comes as either a kettle lead, or as a folding USB plug. When I wrote the post, I was aware of the [MuPlug](http://www.themu.co.uk/), but was disappointed at the lack of kettle lead option.
 

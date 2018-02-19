@@ -27,7 +27,7 @@ Later in the day we got the opportunity to recreate some classic photographs. We
 
 ### The Originals
 
-<img src="http://www.kianryan.co.uk/wp-content/uploads/2009/03/photojournalist.jpg" alt="photojournalist" title="photojournalist" width="174" height="240" /><img src="http://www.kianryan.co.uk/wp-content/uploads/2009/03/beatles.jpg" alt="bailey" title="bailey" width="236" height="240" />
+<img src="/assets/images/2009/03/photojournalist.jpg" alt="photojournalist" title="photojournalist" width="174" height="240" /><img src="/assets/images/2009/03/beatles.jpg" alt="bailey" title="bailey" width="236" height="240" />
 
 For those interested in the lighting, we used two strobes, one set to flash against a solid white background at 1/32 for both photos, and for the Feininger a single light tightly snooted pointed directly at the model&#8217;s face and for Bailey, a single light behind a shoot-through brolly front and slightly left, with black material directly light to absorb any spill (and hence generating the strong shadow on the side of the face).
 

@@ -15,7 +15,7 @@ categories:
 ---
 This is in response to a twitter post from [Dom Hogdeson](http://twitter.com/Thehodge/status/15128748950), in which the Hodge asks:
 
-![](http://www.kianryan.co.uk/wp-content/uploads/2010/06/screen_shot_2010_06_08_at_171021.jpg)
+![](/assets/images/2010/06/screen_shot_2010_06_08_at_171021.jpg)
 
 Well, that&#8217;s a very good question Mr Hodge. There&#8217;s not much on the market just yet, but let&#8217;s see if we can answer that.
 
@@ -56,7 +56,7 @@ This is the tablet I am waiting for. I will be one of the first in-line when it 
 
 After I made this blog post, [Orinoco](http://twitter.com/orinoco77/status/15723342933) popped his head up to say:
 
-![Screen Shot 2010 06 09 at 08.27.36](http://www.kianryan.co.uk/wp-content/uploads/2010/06/screen_shot_2010_06_09_at_082736.jpg)
+![Screen Shot 2010 06 09 at 08.27.36](/assets/images/2010/06/screen_shot_2010_06_09_at_082736.jpg)
 
 A quick google shows this to be a WIFI only tablet device running Android 1.6 with a 7&#8243; resistive screen and a 600Mhz processor, but the nice part is the price &#8211; $100. Orinoco bought his for £65 from eBay, 1/6th the price of an iPad. It looks great if you use it as nothing more than a mobile web browser.
 

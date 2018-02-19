@@ -15,6 +15,6 @@ dsq_thread_id:
 categories:
   - Bob
 ---
-<img style="border:5px solid #327EB0" src="http://www.kianryan.co.uk/wp-content/uploads/2008/11/no1-todo-list.png" alt="Bob 1 - Lists" title="Bob 1 - Lists" class="size-full wp-image-21" srcset="http://www.kianryan.co.uk/wp-content/uploads/2008/11/no1-todo-list.png 600w, http://www.kianryan.co.uk/wp-content/uploads/2008/11/no1-todo-list-300x202.png 300w" sizes="(max-width: 600px) 100vw, 600px" />
+<img style="border:5px solid #327EB0" src="/assets/images/2008/11/no1-todo-list.png" alt="Bob 1 - Lists" title="Bob 1 - Lists" class="size-full wp-image-21" srcset="/assets/images/2008/11/no1-todo-list.png 600w, /assets/images/2008/11/no1-todo-list-300x202.png 300w" sizes="(max-width: 600px) 100vw, 600px" />
 
-<img style="border:5px solid #327EB0; margin-top: 20px;" src="http://www.kianryan.co.uk/wp-content/uploads/2008/11/no2-hat.png" alt="Bob 2 - Hat" title="Bob 2 - Hat" class="size-full wp-image-22" srcset="http://www.kianryan.co.uk/wp-content/uploads/2008/11/no2-hat.png 600w, http://www.kianryan.co.uk/wp-content/uploads/2008/11/no2-hat-300x205.png 300w" sizes="(max-width: 600px) 100vw, 600px" />
+<img style="border:5px solid #327EB0; margin-top: 20px;" src="/assets/images/2008/11/no2-hat.png" alt="Bob 2 - Hat" title="Bob 2 - Hat" class="size-full wp-image-22" srcset="/assets/images/2008/11/no2-hat.png 600w, /assets/images/2008/11/no2-hat-300x205.png 300w" sizes="(max-width: 600px) 100vw, 600px" />

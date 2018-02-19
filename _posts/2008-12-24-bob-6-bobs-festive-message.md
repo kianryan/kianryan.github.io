@@ -19,4 +19,4 @@ categories:
 tags:
   - Bob
 ---
-<img src="http://www.kianryan.co.uk/wp-content/uploads/2008/12/6-festive-final.jpg" alt="" title="6-festive-final" class="alignnone size-full wp-image-73" style="border:5px solid #327EB0;" srcset="http://www.kianryan.co.uk/wp-content/uploads/2008/12/6-festive-final.jpg 600w, http://www.kianryan.co.uk/wp-content/uploads/2008/12/6-festive-final-300x220.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
+<img src="/assets/images/2008/12/6-festive-final.jpg" alt="" title="6-festive-final" class="alignnone size-full wp-image-73" style="border:5px solid #327EB0;" srcset="/assets/images/2008/12/6-festive-final.jpg 600w, /assets/images/2008/12/6-festive-final-300x220.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />

@@ -11,7 +11,7 @@ ljID:
 categories:
   - LifeTrack
 ---
-![Pennyfarthing](http://www.kianryan.co.uk/wp-content/uploads/2009/07/pennyfarthing.jpg)
+![Pennyfarthing](/assets/images/2009/07/pennyfarthing.jpg)
 
 My bike is dead. I was asked to sign its death warrant yesterday. It was in pretty poor shape. It was the best thing I could do for it.
 

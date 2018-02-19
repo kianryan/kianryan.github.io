@@ -21,12 +21,12 @@ Oh yes, and do try the ham and cheese croissant with mustard mayo. NOM.
   
 
    [ 
-![thumbnail](http://www.kianryan.co.uk/wp-content/uploads/2009/03/wpid-thumb-124.jpg)](http://www.kianryan.co.uk/wp-content/uploads/2009/03/wpid-124.jpg) 
+![thumbnail](/assets/images/2009/03/wpid-thumb-124.jpg)](/assets/images/2009/03/wpid-124.jpg) 
   
 
    [ 
-![thumbnail](http://www.kianryan.co.uk/wp-content/uploads/2009/03/wpid-thumb-123.jpg)](http://www.kianryan.co.uk/wp-content/uploads/2009/03/wpid-123.jpg) 
+![thumbnail](/assets/images/2009/03/wpid-thumb-123.jpg)](/assets/images/2009/03/wpid-123.jpg) 
   
 
    [ 
-![thumbnail](http://www.kianryan.co.uk/wp-content/uploads/2009/03/wpid-thumb-93.jpg)](http://www.kianryan.co.uk/wp-content/uploads/2009/03/wpid-93.jpg)
+![thumbnail](/assets/images/2009/03/wpid-thumb-93.jpg)](/assets/images/2009/03/wpid-93.jpg)

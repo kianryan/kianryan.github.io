@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Code
 ---
-<a href="http://www.kianryan.co.uk/2012/05/back-to-vim/capture2/" rel="attachment wp-att-755"><img src="http://www.kianryan.co.uk/wp-content/uploads/2012/05/Capture2-300x187.jpg" alt="" title="Capture2" width="300" height="187" class="alignnone size-medium wp-image-755" srcset="http://www.kianryan.co.uk/wp-content/uploads/2012/05/Capture2-300x187.jpg 300w, http://www.kianryan.co.uk/wp-content/uploads/2012/05/Capture2-1024x640.jpg 1024w, http://www.kianryan.co.uk/wp-content/uploads/2012/05/Capture2.jpg 1440w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href="http://www.kianryan.co.uk/2012/05/back-to-vim/capture2/" rel="attachment wp-att-755"><img src="/assets/images/2012/05/Capture2-300x187.jpg" alt="" title="Capture2" width="300" height="187" class="alignnone size-medium wp-image-755" srcset="/assets/images/2012/05/Capture2-300x187.jpg 300w, /assets/images/2012/05/Capture2-1024x640.jpg 1024w, /assets/images/2012/05/Capture2.jpg 1440w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
 It is a truth universally acknowledged that a developer, with a job to do must be in want of a good text editor.
 
@@ -59,7 +59,7 @@ Not a plugin per-se, but a [DLL extension for Win32 gVim](https://github.com/der
 
 I&#8217;m currently editing this blog post in the following session:
 
-<a href="http://www.kianryan.co.uk/2012/05/back-to-vim/capture/" rel="attachment wp-att-754"><img src="http://www.kianryan.co.uk/wp-content/uploads/2012/05/Capture-300x187.jpg" alt="" title="Capture" width="300" height="187" class="alignnone size-medium wp-image-754" srcset="http://www.kianryan.co.uk/wp-content/uploads/2012/05/Capture-300x187.jpg 300w, http://www.kianryan.co.uk/wp-content/uploads/2012/05/Capture-1024x640.jpg 1024w, http://www.kianryan.co.uk/wp-content/uploads/2012/05/Capture.jpg 1440w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href="http://www.kianryan.co.uk/2012/05/back-to-vim/capture/" rel="attachment wp-att-754"><img src="/assets/images/2012/05/Capture-300x187.jpg" alt="" title="Capture" width="300" height="187" class="alignnone size-medium wp-image-754" srcset="/assets/images/2012/05/Capture-300x187.jpg 300w, /assets/images/2012/05/Capture-1024x640.jpg 1024w, /assets/images/2012/05/Capture.jpg 1440w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
 _(Notes: gvim for Windows. No buttons, scroll bars or chroming. Vim fullscreen. Three windows, left and right showing the same empty buffer, middle showing the blog post with the vim-markdown plugin)_
 
