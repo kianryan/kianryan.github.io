@@ -11,10 +11,10 @@ dsq_thread_id:
 categories:
   - Code
 ---
-Google have &#8220;turned down&#8221; v2 of their Geocoding API as of the 9th of September. For &#8220;turned down&#8221;, read &#8220;turned off&#8221;, making some interesting breakages for sites that rely on this API. Information available here:
+Google have “turned down” v2 of their Geocoding API as of the 9th of September. For “turned down”, read “turned off”, making some interesting breakages for sites that rely on this API. Information available here:
 
 https://developers.google.com/maps/articles/geocodingupgrade
 
 The v3 API works just fine. For those in .NET land, the following code snippet will return lat/lon
 
-If you&#8217;re using third party code or libraries to perform your geocoding operations, check for updates to your library first. Some libraries has been updated, others haven&#8217;t.
+If you’re using third party code or libraries to perform your geocoding operations, check for updates to your library first. Some libraries has been updated, others haven’t.

@@ -1,6 +1,6 @@
 ---
 id: 180
-title: 'Bob 10 &#8211; Caffinated Bob'
+title: 'Bob 10 – Caffinated Bob'
 date: 2009-03-21T05:49:22+00:00
 author: kianryan
 layout: post

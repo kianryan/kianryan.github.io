@@ -17,7 +17,7 @@ dsq_thread_id:
 categories:
   - LifeTrack
 ---
-What to do with a large quanitity of root vegetables? Well, the only logical answers are to stew it or casserole it. Here&#8217;s my basic recipe.
+What to do with a large quanitity of root vegetables? Well, the only logical answers are to stew it or casserole it. Here’s my basic recipe.
 
 ## Ingredients
 
@@ -43,4 +43,4 @@ What to do with a large quanitity of root vegetables? Well, the only logical ans
 
 Just before adding the stock and committing to the oven: <img src="/assets/images/2009/04/casserole-300x200.jpg" alt="casserole" title="casserole"   class="alignnone size-medium wp-image-193" srcset="/assets/images/2009/04/casserole-300x200.jpg 300w, /assets/images/2009/04/casserole.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
 
-Fresh rosemary &#8211; no garden or kitchen should be without it: <img src="/assets/images/2009/04/rosemary-300x200.jpg" alt="rosemary" title="rosemary"   class="alignnone size-medium wp-image-194" srcset="/assets/images/2009/04/rosemary-300x200.jpg 300w, /assets/images/2009/04/rosemary.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
+Fresh rosemary – no garden or kitchen should be without it: <img src="/assets/images/2009/04/rosemary-300x200.jpg" alt="rosemary" title="rosemary"   class="alignnone size-medium wp-image-194" srcset="/assets/images/2009/04/rosemary-300x200.jpg 300w, /assets/images/2009/04/rosemary.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />

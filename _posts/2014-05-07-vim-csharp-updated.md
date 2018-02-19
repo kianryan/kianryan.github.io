@@ -45,13 +45,13 @@ categories:
 tags:
   - code
 ---
-I&#8217;ve updated [Vim-CSharp](https://github.com/OrangeT/vim-csharp) with a few new features. The original aim of this project was to eventually provide autocomplete support for .NET projects. [Omnisharp](https://github.com/nosami/Omnisharp) does this so well, there&#8217;s no point in duplicating effort. [Vim-Csharp](https://github.com/OrangeT/vim-csharp) is now focussed on increasing developer productivity through better syntax highlighting, snippet completion, and any other time saving exercises I can think of.
+I’ve updated [Vim-CSharp](https://github.com/OrangeT/vim-csharp) with a few new features. The original aim of this project was to eventually provide autocomplete support for .NET projects. [Omnisharp](https://github.com/nosami/Omnisharp) does this so well, there’s no point in duplicating effort. [Vim-Csharp](https://github.com/OrangeT/vim-csharp) is now focussed on increasing developer productivity through better syntax highlighting, snippet completion, and any other time saving exercises I can think of.
 
-These are very much a work in progress and I&#8217;m welcome to new ideas. Feel free to submit bugs or ideas using [Github](https://github.com/OrangeT/vim-csharp/issues) (or fork, implement and pull request).
+These are very much a work in progress and I’m welcome to new ideas. Feel free to submit bugs or ideas using [Github](https://github.com/OrangeT/vim-csharp/issues) (or fork, implement and pull request).
 
 # Razor Syntax Support
 
-.cshtml files are now loaded with a combined filetype of html.cshtml, and load both syntax and snippets for html and razor. On top of this, there&#8217;s some basic pattern recognition for @ and @ { } blocks in the syntax file that allows for chunks of C# to be highlighted correctly within razor files.
+.cshtml files are now loaded with a combined filetype of html.cshtml, and load both syntax and snippets for html and razor. On top of this, there’s some basic pattern recognition for @ and @ { } blocks in the syntax file that allows for chunks of C# to be highlighted correctly within razor files.
 
 # Razor/Webforms Snippets
 
@@ -63,12 +63,12 @@ Razor snippets are designed to be deterministic and as productive as possible. Y
   * Initals of required control (tbf = TextBoxFor)
   * Additional options (m = model, _ = html attr. collection, . = html attr. collection with class )
 
-This means that for a &#8220;text box for&#8221; with a class attribute in razor, type @tbf. followed by your expansion key (default tab).
+This means that for a “text box for” with a class attribute in razor, type @tbf. followed by your expansion key (default tab).
 
 # Xunit, Moq Snippets
 
 Additional snippets are provided to reduce time spent writing unit tests.
 
-Xunit assertions are prefixed by x, followed by the test type, followed by a ! to negate. So a &#8220;does not contain&#8221; assertion is created by typing xcontains! followed by the expansion key (default tab).
+Xunit assertions are prefixed by x, followed by the test type, followed by a ! to negate. So a “does not contain” assertion is created by typing xcontains! followed by the expansion key (default tab).
 
-There are only two moq snippets, &#8220;moq&#8221; which then asks which scenario to complete to (there are many), and &#8220;it&#8221; which expands to It.IsAny<>.
+There are only two moq snippets, “moq” which then asks which scenario to complete to (there are many), and “it” which expands to It.IsAny<>.

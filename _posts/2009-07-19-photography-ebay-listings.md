@@ -13,9 +13,9 @@ dsq_thread_id:
 categories:
   - Photog
 ---
-There&#8217;s something of a clear-out going on. Some of it&#8217;s mine, some of it&#8217;s being sold for a friend. Listed for your pleasure.
+There’s something of a clear-out going on. Some of it’s mine, some of it’s being sold for a friend. Listed for your pleasure.
 
-**Photography &#8211; Minolta**
+**Photography – Minolta**
 
 [Minolta X-300 35mm Film Body](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=180385316854#ht_1093wt_953)   
 [Minolta SRT-101 35mm Film Camera (MC/MD Mount)](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=180385328848#ht_1212wt_953)   
@@ -25,12 +25,12 @@ There&#8217;s something of a clear-out going on. Some of it&#8217;s mine, some o
 [Minolta 2x Teleconverter](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=180385463322#ht_757wt_953)   
 [Minolta X Series Power Winder (X-300/X-700/XG/XG-M)](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=180385436800#ht_825wt_953)
 
-**Photography &#8211; Pentax**
+**Photography – Pentax**
 
 [Ricoh KR-5 35mm Film Body (Pentax K Mount)](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=180385419919#ht_1012wt_953)   
 [Chinon 50mm f1.9 Lens (Pentax K Mount)](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=180385426766#ht_889wt_953)
 
-**Photography &#8211; Canon**
+**Photography – Canon**
 
 [Canon AV-1 35mm Film Camera (Canon FD Mount)](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=180385379095#ht_1059wt_953)   
 [Canon FD 70-210mm f4 (Canon FD Mount)](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=180385369755#ht_842wt_953)   
@@ -38,13 +38,13 @@ There&#8217;s something of a clear-out going on. Some of it&#8217;s mine, some o
 [Canon 1000F 35mm Film Camera (Canon EF Mount)](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=180385526520#ht_923wt_953)   
 [Canon 3000N 35mm Film Camera (Canon EF Mount)](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=180385532136#ht_923wt_953)
 
-**Photography &#8211; Nikon**
+**Photography – Nikon**
 
 [Nikon FE-2 35mm Film Camera (Nikon Mount)](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=180385501678#ht_978wt_953)   
 [Nikon EM 35mm Film Camera (Nikon Mount)](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=180385502066#ht_944wt_953)   
-[Sigma UC Zoom 27-70mm f3.5 &#8211; f22 (Nikon Mount)](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=180385515622#ht_876wt_953)
+[Sigma UC Zoom 27-70mm f3.5 – f22 (Nikon Mount)](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=180385515622#ht_876wt_953)
 
-**Photography &#8211; Flash**
+**Photography – Flash**
 
 [Jessop 300 TTL Flash (Minolta/Nikon/Pentax)](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=180385453139#ht_774wt_953)   
 [Cobra MD-210 Flash (Sigma/Olympus/Minolta/Nikon/Canon/Pentax)](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=180385453355#ht_808wt_953)

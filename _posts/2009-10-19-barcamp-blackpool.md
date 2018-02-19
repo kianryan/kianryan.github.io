@@ -25,4 +25,4 @@ This weekend saw the first [Barcamp Blackpool](http://twitter.com/#search?q=bcbl
 
 Talks were wide ranging, from some light-hearted ones on upcoming social network [Pokebook](http://www.pokebook.co.uk/) through to code reviews of the new [W3C website](http://www.w3.org/) and my own talk on building and publishing an Android application in <strike>1 hour</strike> <strike>30 minutes</strike> 20 minutes (code to follow).
 
-Evening entertainment was provided by [Paul Sylvester](http://www.paulsylvester.co.uk/), who provided the BEST MAGIC SHOW I HAVE EVER SEEN (don&#8217;t let the website fool you). So much so, there&#8217;s speculation about hiring him for one of the next [Geek Girl Dinners](http://www.manchestergirlgeekdinners.co.uk/).
+Evening entertainment was provided by [Paul Sylvester](http://www.paulsylvester.co.uk/), who provided the BEST MAGIC SHOW I HAVE EVER SEEN (don’t let the website fool you). So much so, there’s speculation about hiring him for one of the next [Geek Girl Dinners](http://www.manchestergirlgeekdinners.co.uk/).

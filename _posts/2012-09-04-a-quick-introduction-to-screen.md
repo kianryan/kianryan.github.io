@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Code
 ---
-By popular request, I&#8217;ve been asked to write a quick introduction to screen. Screen is a terminal window manager, that allows you to run multiple shell windows concurrently from a single connection. In summary, you can do this:
+By popular request, I’ve been asked to write a quick introduction to screen. Screen is a terminal window manager, that allows you to run multiple shell windows concurrently from a single connection. In summary, you can do this:
 
 <a href="http://www.kianryan.co.uk/2012/09/a-quick-introduction-to-screen/screenshot-from-2012-09-04-125130/" rel="attachment wp-att-826"><img src="/assets/images/2012/09/Screenshot-from-2012-09-04-125130-300x187.png" alt="" title="Example of Screen Usage - IRC, Vim and Top"   class="aligncenter size-medium wp-image-826" srcset="/assets/images/2012/09/Screenshot-from-2012-09-04-125130-300x187.png 300w, /assets/images/2012/09/Screenshot-from-2012-09-04-125130-1024x640.png 1024w, /assets/images/2012/09/Screenshot-from-2012-09-04-125130.png 1440w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
@@ -22,11 +22,11 @@ Some common scenarios for using screen:
   * Keeping a long-running IRC session.
   * Pair programming on Vim or Emacs over geographically distinct locations using SSH.
 
-For reference &#8211; GNU documentation is [available here](http://www.gnu.org/software/screen/manual/screen.html), and the [Default Key Bindings](http://www.gnu.org/software/screen/manual/screen.html#Default-Key-Bindings) are available here.
+For reference – GNU documentation is [available here](http://www.gnu.org/software/screen/manual/screen.html), and the [Default Key Bindings](http://www.gnu.org/software/screen/manual/screen.html#Default-Key-Bindings) are available here.
 
 ## Install Screen
 
-OS X comes pre-packaged with a version of screen, any sensible version of a Unix based operating system will too. If you&#8217;re on Ubuntu, and screen appears to not be installed (this surprised me):
+OS X comes pre-packaged with a version of screen, any sensible version of a Unix based operating system will too. If you’re on Ubuntu, and screen appears to not be installed (this surprised me):
 
 <pre class="brush: plain; title: ; notranslate" title="">sudo apt-get install screen
 </pre>
@@ -40,7 +40,7 @@ This is not rocket science. You need to start screen before you can start workin
 <pre class="brush: plain; title: ; notranslate" title="">screen
 </pre>
 
-All good, you should get a copyright message. When you clear the message&#8230; nothing looks to have changed, you&#8217;re staring at a terminal again. This is fine, and as it should be. You&#8217;re now inside a window inside of screen, just the one for now. It can get a bit meta after this.
+All good, you should get a copyright message. When you clear the message… nothing looks to have changed, you’re staring at a terminal again. This is fine, and as it should be. You’re now inside a window inside of screen, just the one for now. It can get a bit meta after this.
 
 ## Concepts
 
@@ -50,15 +50,15 @@ Most commands within screen start with Ctrl-A. This is the default keymapping an
 
 ## Windows
 
-  * Add a Window &#8211; Ctrl-a a
-  * Kill a Window &#8211; Ctrl-a k (If possible, exit terminal normally)
-  * Detach Screen &#8211; Ctrl-a d (Leave running in background)
+  * Add a Window – Ctrl-a a
+  * Kill a Window – Ctrl-a k (If possible, exit terminal normally)
+  * Detach Screen – Ctrl-a d (Leave running in background)
 
 
 
-  * List all Windows &#8211; Ctrl-a &#8220;
-  * Set Title For Current Window &#8211; Ctrl-a A (Useful for keeping track)
-  * Switch current Region to Window [n] &#8211; Ctrl-a [n]
+  * List all Windows – Ctrl-a “
+  * Set Title For Current Window – Ctrl-a A (Useful for keeping track)
+  * Switch current Region to Window [n] – Ctrl-a [n]
 
 When a window is detached, it is still running in the background. If you are ssh-ing to a remote box, and running screen on the remote box, your screen window will continue to run if your session becomes disconnected. This can be a gods-send on train journeys.
 
@@ -76,16 +76,16 @@ Will then reattach the window with the given id. Running the above without the i
 
 ## Regions
 
-Regions are the mechanism which allow you to display multiple windows simultaneously. The are achieved by &#8220;splitting&#8221; the current region and then selecting the window (Ctrl-a [n]) to display. You can switch between the regions on display using Ctrl-a Tab, the man page also discusses mappings for move intuitive movement.
+Regions are the mechanism which allow you to display multiple windows simultaneously. The are achieved by “splitting” the current region and then selecting the window (Ctrl-a [n]) to display. You can switch between the regions on display using Ctrl-a Tab, the man page also discusses mappings for move intuitive movement.
 
-  * Horizontal Region Split &#8211; Ctrl-a S
-  * Vertical Region Split &#8211; Ctrl-a |
-  * Kill the Current Region &#8211; Ctrl-a X
+  * Horizontal Region Split – Ctrl-a S
+  * Vertical Region Split – Ctrl-a |
+  * Kill the Current Region – Ctrl-a X
 
 
 
-  * Switch Focus To Next Region &#8211; Ctrl-a Tab
+  * Switch Focus To Next Region – Ctrl-a Tab
 
 ## More
 
-This is just a quick introduction to whet your appetite. There&#8217;s more to be had from screen, and the [man page](http://www.gnu.org/software/screen/) is a good place to start, as well as a [whole Google of search results](https://www.google.co.uk/search?q=gnu+screen). Screen is a remarkably flexible tool. As an example, a friend of mine has discussed the way their company pair programmes using a screen session to view another user&#8217;s screen session. All working over ssh using no more fancy tooling than a standard Linux box.
+This is just a quick introduction to whet your appetite. There’s more to be had from screen, and the [man page](http://www.gnu.org/software/screen/) is a good place to start, as well as a [whole Google of search results](https://www.google.co.uk/search?q=gnu+screen). Screen is a remarkably flexible tool. As an example, a friend of mine has discussed the way their company pair programmes using a screen session to view another user’s screen session. All working over ssh using no more fancy tooling than a standard Linux box.

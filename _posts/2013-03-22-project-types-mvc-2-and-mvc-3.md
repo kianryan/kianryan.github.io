@@ -1,6 +1,6 @@
 ---
 id: 943
-title: 'Project Types &#8211; MVC 2 and MVC 3'
+title: 'Project Types – MVC 2 and MVC 3'
 date: 2013-03-22T11:24:09+00:00
 author: kianryan
 layout: post

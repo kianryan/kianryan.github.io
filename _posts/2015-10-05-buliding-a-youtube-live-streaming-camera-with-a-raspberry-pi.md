@@ -56,36 +56,36 @@ tags:
 
 For the ManCadet, we built a couple of cheap streaming cameras to stream content to Youtube Live. You can see the quality of the output [here](https://www.youtube.com/watch?v=v27zo04BcxA).
 
-To do this, we used Raspberry Pis with the camera module and &#8220;official&#8221; case. We stuck them to the wall with gaffer tape and positioned the camera module with blue-tak. For power, we used a 5m USB female to male connector, a standard 2amp usb charger and a 20cm micro usb cable. This gave us some flexibility in positioning the camera a significant distance from power sockets.
+To do this, we used Raspberry Pis with the camera module and “official” case. We stuck them to the wall with gaffer tape and positioned the camera module with blue-tak. For power, we used a 5m USB female to male connector, a standard 2amp usb charger and a 20cm micro usb cable. This gave us some flexibility in positioning the camera a significant distance from power sockets.
 
-For software, we tried a couple of approaches. Raspian includes a client for the camera, raspivid which can output the camera output to standard output. A video4linux driver also exists for the camera, and whilst we could get this to work to host a local rtmp stream, we couldn&#8217;t get this to work to stream directly to Youtube. We couldn&#8217;t get avconv to work either, Youtube tells us there&#8217;s a feed, but there&#8217;s no output. Poo.
+For software, we tried a couple of approaches. Raspian includes a client for the camera, raspivid which can output the camera output to standard output. A video4linux driver also exists for the camera, and whilst we could get this to work to host a local rtmp stream, we couldn’t get this to work to stream directly to Youtube. We couldn’t get avconv to work either, Youtube tells us there’s a feed, but there’s no output. Poo.
 
-On a suggestion, we tried a third party cross-compiled ffmpeg library, encoding the output from raspivid. There&#8217;s a 15-30 second delay in the content being processed at Youtube&#8217;s end, but it works. To make it work yourself, you&#8217;ll need to install ffmpeg from [here](https://drive.google.com/file/d/0B0OC20ApqKZ_YVB3NHF6VU9XTUE/edit?usp=sharing)
+On a suggestion, we tried a third party cross-compiled ffmpeg library, encoding the output from raspivid. There’s a 15-30 second delay in the content being processed at Youtube’s end, but it works. To make it work yourself, you’ll need to install ffmpeg from [here](https://drive.google.com/file/d/0B0OC20ApqKZ_YVB3NHF6VU9XTUE/edit?usp=sharing)
 
-You&#8217;ll then need the details of where you&#8217;re uploading to. Head to the [Youtube Live](https://www.youtube.com/live_dashboard) dashboard. You&#8217;ll need the Server URL and the Stream Name/Key fields:
+You’ll then need the details of where you’re uploading to. Head to the [Youtube Live](https://www.youtube.com/live_dashboard) dashboard. You’ll need the Server URL and the Stream Name/Key fields:
 
-Once you&#8217;ve done all that, execute the following command on your Pi (ideally in a tmux or screen session so you can leave it running):
+Once you’ve done all that, execute the following command on your Pi (ideally in a tmux or screen session so you can leave it running):
 
 `raspivid -o - -t 0 -vf -hf -fps 30 -b 6000000 | ffmpeg -re -ar 44100 -ac 2 -acodec pcm_s16le -f s16le -ac 2 -i /dev/zero -f h264 -i - -vcodec copy -acodec aac -ab 128k -g 50 -strict experimental -f flv [SERVER URL]/[STREAM NAME]`
 
-These happily streamed six hours at a time with no complaints. They&#8217;re pretty robust as well, one of them was knocked off the wall a few times. Tape it back up, restart the stream, and presto it carried on working.
+These happily streamed six hours at a time with no complaints. They’re pretty robust as well, one of them was knocked off the wall a few times. Tape it back up, restart the stream, and presto it carried on working.
 
 Cost per camera:
   
-1 x Raspberry Pi 2B &#8211; £28.95
+1 x Raspberry Pi 2B – Â£28.95
   
-1 x Raspberry Pi Camera Module &#8211; £18.58
+1 x Raspberry Pi Camera Module – Â£18.58
   
-1 x Pi Hut USB Wifi Adapter &#8211; £7.34
+1 x Pi Hut USB Wifi Adapter – Â£7.34
   
-1 x Raspberry Pi Case &#8211; £6.38
+1 x Raspberry Pi Case – Â£6.38
   
-1 x Raspberry Pi Camera Module Add On Cover &#8211; £6.45
+1 x Raspberry Pi Camera Module Add On Cover – Â£6.45
   
-1 x Lindy 5m USB 2.0 Extension Cable &#8211; £4.99
+1 x Lindy 5m USB 2.0 Extension Cable – Â£4.99
   
 1 x Micro Usb cable (already owned)
   
 1 x 2A Usb Charger (already owned) 
 
-Total cost per camera: £72.69
+Total cost per camera: Â£72.69

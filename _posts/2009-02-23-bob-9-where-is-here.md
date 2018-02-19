@@ -1,6 +1,6 @@
 ---
 id: 109
-title: 'Bob 9 &#8211; Where is Here?'
+title: 'Bob 9 – Where is Here?'
 date: 2009-02-23T13:40:20+00:00
 author: kianryan
 layout: post

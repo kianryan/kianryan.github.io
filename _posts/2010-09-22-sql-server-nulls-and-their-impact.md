@@ -11,19 +11,19 @@ dsq_thread_id:
 categories:
   - Code
 ---
-This is part rant, part discussion&#8230;
+This is part rant, part discussion…
 
 In this modern world, developing database driven applications has become pretty damn straightforward, even for us .NET coders. Start a project, grab a ORM framework of choice (Subsonic, Entity Framework, Linq 2 SQL), define a database, create your tables, generate your classes and POW! Job done.
 
 Which is awesome. Apart from the fact that your class behaviour is now tightly defined to your database behaviour (by default, I appreciate you can change this). Which means in turn, you really should be taking great care in defining your databases, since the closer this maps your domain model, the easier your job becomes.
 
-So why on earth leave your columns set to NULL unless you actually intend to allow NULL values? I appreciate that SQL Server allows a column as null by default, but it has so many implications if you&#8217;re not intending it it&#8217;s untrue. Lets take the following examples:
+So why on earth leave your columns set to NULL unless you actually intend to allow NULL values? I appreciate that SQL Server allows a column as null by default, but it has so many implications if you’re not intending it it’s untrue. Lets take the following examples:
 
 <div>
   <pre class="brush: csharp; title: ; notranslate" title="">
 int? Age { get; set; }
 
-if (Age &gt; 0)
+if (Age > 0)
 {
     Console.Writeline("This is awesome folks!");
 }
@@ -34,7 +34,7 @@ if (Age &gt; 0)
   <pre class="brush: csharp; title: ; notranslate" title="">
 int Age { get; set; }
 
-if (Age &gt; 0)
+if (Age > 0)
 {
     Console.Writeline("This is awesome folks!");
 }
@@ -45,23 +45,23 @@ Clearly the two are not equivalent. The first wont even compile, since the compi
 
 It could be argued that Age _may indeed_ be nullable, nullable indicating a genuine lack of this piece of knowledge. If this is the case, then we need to take that into account.
 
-<pre class="brush: csharp; title: ; notranslate" title="">int? Age { get; set; }&lt;/p&gt;
+<pre class="brush: csharp; title: ; notranslate" title="">int? Age { get; set; }</p>
 
-&lt;p&gt;if (Age == null)
-    Console.Writeline(&quot;We don't have an age for this person...&quot;);
-else if (Age.value &gt; 0)
-    Console.Writeline(&quot;This is awesome folks!&quot;);
+<p>if (Age == null)
+    Console.Writeline("We don't have an age for this person...");
+else if (Age.value > 0)
+    Console.Writeline("This is awesome folks!");
 </pre>
 
 In this case we have a potential for three different things to be happening, all of which need to be taken into account. Each one is a semantically important case which requires understanding and testing.
 
 But often a field being left nullable is just a sign of laziness on the part of the database being developed. The giveaway is when the following code is spotted:
 
-<pre class="brush: csharp; title: ; notranslate" title="">int? Age { get; set; }&lt;/p&gt;
+<pre class="brush: csharp; title: ; notranslate" title="">int? Age { get; set; }</p>
 
-&lt;p&gt;if ((Age ?? 0) &gt; 0)
+<p>if ((Age ?? 0) > 0)
 {
-    Console.Writeline(&quot;This is awesome folks!&quot;);
+    Console.Writeline("This is awesome folks!");
 }
 </pre>
 

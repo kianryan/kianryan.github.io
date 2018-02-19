@@ -1,6 +1,6 @@
 ---
 id: 272
-title: 'Android 1.6 &#8211; Brings Awesome Bar'
+title: 'Android 1.6 – Brings Awesome Bar'
 date: 2009-09-21T08:40:28+00:00
 author: kianryan
 layout: post
@@ -13,8 +13,8 @@ dsq_thread_id:
 categories:
   - Comment
 ---
-The Android 1.6 API has now been released, and with it is coming one feature which outshines all others. The &#8220;Quick Search Bar&#8221; provides instant access to local phone and Google results in near real-time.
+The Android 1.6 API has now been released, and with it is coming one feature which outshines all others. The “Quick Search Bar” provides instant access to local phone and Google results in near real-time.
 
-Basically, it&#8217;s spotlight for Android, launched as a widget from your home screen. I can see this really becoming the central hub of any phone.
+Basically, it’s spotlight for Android, launched as a widget from your home screen. I can see this really becoming the central hub of any phone.
 
 The new marketplace looks a hell of a lot better as well.

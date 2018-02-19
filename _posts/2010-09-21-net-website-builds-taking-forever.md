@@ -13,8 +13,8 @@ dsq_thread_id:
 categories:
   - Code
 ---
-I could kick myself for this one&#8230; The credit goes to a co-worker, who spotted this one straight off the bat.
+I could kick myself for this one… The credit goes to a co-worker, who spotted this one straight off the bat.
 
-I&#8217;ve got two projects at the moment which consist of a DAL, a website and an admin site. Pretty straightforward projects, with large quantities of content stored **in the website folder**_. When building the project on our CC.NET build server, through an msbuild exec, the website would appear to compile pretty quickly, and then sit around for _forever_ before finishing.
+I’ve got two projects at the moment which consist of a DAL, a website and an admin site. Pretty straightforward projects, with large quantities of content stored **in the website folder**_. When building the project on our CC.NET build server, through an msbuild exec, the website would appear to compile pretty quickly, and then sit around for _forever_ before finishing.
 
 The guilty party is the precompiled site folder. When the site is being compiled, all the assets from the original site are being copied, including the several gig of content, which causes the process to hang for a minute or two while the files are copied. Move the files out from the website and hey presto, back to fifteen second compile times.

@@ -1,6 +1,6 @@
 ---
 id: 1267
-title: 'Parkruns &#8211; Or How I Put One Foot In Front of The Other'
+title: 'Parkruns – Or How I Put One Foot In Front of The Other'
 date: 2015-09-03T10:02:27+00:00
 author: kianryan
 layout: post
@@ -59,12 +59,12 @@ At the time, my only real endurance sport was cycling. I _love_ cycling, but cyc
 
 But I did decide that I really needed to learn how to swim, and increase my ability to run.
 
-Due to things that happened last year, I found myself running. Just a few kilometers at first through Woodhead, I then increased my distance and stamina over the year. Where it was just pure hell, it&#8217;s now an enjoyable experience.
+Due to things that happened last year, I found myself running. Just a few kilometers at first through Woodhead, I then increased my distance and stamina over the year. Where it was just pure hell, it’s now an enjoyable experience.
 
-Earlier in the year, Nick introduced me to [Parkruns](http://www.parkrun.org.uk/). These are timed, national, weekly 5k runs run in local &#8230; parks. They&#8217;re free, you run to your own pace, and with a printed barcode, your results are tracked online. They&#8217;re everywhere, and people of all paces run, from 14 minuters to 45 minuters and those pushing buggies. You can even walk chunks of it if it helps.
+Earlier in the year, Nick introduced me to [Parkruns](http://www.parkrun.org.uk/). These are timed, national, weekly 5k runs run in local … parks. They’re free, you run to your own pace, and with a printed barcode, your results are tracked online. They’re everywhere, and people of all paces run, from 14 minuters to 45 minuters and those pushing buggies. You can even walk chunks of it if it helps.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/65498151@N07/20202330655/in/album-72157656051902362/" title="Event 225-142"><img src="https://farm1.staticflickr.com/403/20202330655_53246269c9_k.jpg"   alt="Event 225-142" /></a>
 
-This week I completed my [tenth](http://www.parkrun.org.uk/bolton/results/athletehistory/?athleteNumber=1569766). There&#8217;s milestone t-shirts for 50, 100, and 200 runs. I am quite determined to at least make it for the 50. Having that constant weekly event running in the background is a good motivator to get me out training a few times a week.
+This week I completed my [tenth](http://www.parkrun.org.uk/bolton/results/athletehistory/?athleteNumber=1569766). There’s milestone t-shirts for 50, 100, and 200 runs. I am quite determined to at least make it for the 50. Having that constant weekly event running in the background is a good motivator to get me out training a few times a week.
 
-If you run at all, it&#8217;s well worth you taking a look at your [local one](http://www.parkrun.org.uk/events/events/).
+If you run at all, it’s well worth you taking a look at your [local one](http://www.parkrun.org.uk/events/events/).

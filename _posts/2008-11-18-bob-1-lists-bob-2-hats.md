@@ -1,6 +1,6 @@
 ---
 id: 20
-title: 'Bob 1 &#8211; Lists &#038; Bob 2 &#8211; Hats'
+title: 'Bob 1 – Lists & Bob 2 – Hats'
 date: 2008-11-18T12:36:19+00:00
 author: kianryan
 layout: post

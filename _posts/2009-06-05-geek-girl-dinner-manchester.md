@@ -1,6 +1,6 @@
 ---
 id: 226
-title: 'Geek Girl Dinner &#8211; Manchester'
+title: 'Geek Girl Dinner – Manchester'
 date: 2009-06-05T08:05:22+00:00
 author: kianryan
 layout: post
@@ -17,11 +17,11 @@ dsq_thread_id:
 categories:
   - Comment
 ---
-Last night Cat took me to the [Geek Girl Dinner in Manchester](http://www.manchestergirlgeekdinners.co.uk/). What&#8217;s a Geek Girl Dinner? Well most tech events have a heavy male ratio and bias. Geek Girl Dinners (GGDs) aim to change that balance by only allowing boys to attend that are invited by the girls as dates. In a non-poly recognising environment, each girl is allowed to invite one boy.
+Last night Cat took me to the [Geek Girl Dinner in Manchester](http://www.manchestergirlgeekdinners.co.uk/). What’s a Geek Girl Dinner? Well most tech events have a heavy male ratio and bias. Geek Girl Dinners (GGDs) aim to change that balance by only allowing boys to attend that are invited by the girls as dates. In a non-poly recognising environment, each girl is allowed to invite one boy.
 
 Discussion was varied last night, ranging from female attitudes in the workplace, to what women bring to the workplace, why on earth does it all matter anyway to problems with the education system and nurturing the geek spirit. The evening was kicked off with a talk by Lesley Allger from BAE Systems. Although I thought the conversation was positive, [not everyone agrees](http://twitter.com/runpaintrunrun/status/2035168972).
 
-Food was excellent from the &#8220;Old Abbey Inn&#8221;, paid for in part by BAE. We were all sent home with &#8220;breakfast bags&#8221; of tea and marmalade, currently being consumed while I&#8217;m writing this post.
+Food was excellent from the “Old Abbey Inn”, paid for in part by BAE. We were all sent home with “breakfast bags” of tea and marmalade, currently being consumed while I’m writing this post.
 
 Many thanks to [Gemma Cameron](http://twitter.com/ruby_gem) for organising the evening.
 

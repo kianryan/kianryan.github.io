@@ -15,20 +15,20 @@ dsq_thread_id:
 categories:
   - Code
 ---
-I use generic handlers (.ashx) quite a bit when working with client side Javascript, they&#8217;re a good way of getting data to and from the client. I&#8217;ll do an in-depth post at some point showing a nice way of chaining generic handlers, JQuery and JSON in a quick way of writing AJAXesque web apps.
+I use generic handlers (.ashx) quite a bit when working with client side Javascript, they’re a good way of getting data to and from the client. I’ll do an in-depth post at some point showing a nice way of chaining generic handlers, JQuery and JSON in a quick way of writing AJAXesque web apps.
 
-For the moment though, a quick tip for people needing access to their session variables in handlers. Because a generic handler is stripped down to its bare bones, you&#8217;ll need to import your session state by including a specific interface.
+For the moment though, a quick tip for people needing access to their session variables in handlers. Because a generic handler is stripped down to its bare bones, you’ll need to import your session state by including a specific interface.
 
-<pre class="brush: csharp; title: ; notranslate" title="">using System.Web.UI.HtmlControls;&lt;/p&gt;
+<pre class="brush: csharp; title: ; notranslate" title="">using System.Web.UI.HtmlControls;</p>
 
-&lt;p&gt;public class GenericHandler : IHttpHandler, IRequiresSessionState
+<p>public class GenericHandler : IHttpHandler, IRequiresSessionState
 {
     public void ProcessRequest(HttpContext context)
     {
         context.Response.ContentType = "text/plain";
-        context.Response.ContentEncoding = System.Text.Encoding.UTF8;&lt;/p&gt;
+        context.Response.ContentEncoding = System.Text.Encoding.UTF8;</p>
 
-&lt;pre&gt;&lt;code&gt;    context.Response.Write(context.Session["name"]);
+<pre><code>    context.Response.Write(context.Session["name"]);
 }
 
 public bool IsReusable
@@ -38,9 +38,9 @@ public bool IsReusable
         return false;
     }
 }
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;}
+<p>}
 </pre>
 
 Also remember that your session now exists as a property of the context, remember to address it as such.

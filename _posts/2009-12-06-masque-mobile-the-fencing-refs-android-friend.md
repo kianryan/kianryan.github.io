@@ -1,6 +1,6 @@
 ---
 id: 308
-title: 'Masque Mobile: The fencing ref&#8217;s Android friend.'
+title: 'Masque Mobile: The fencing ref’s Android friend.'
 date: 2009-12-06T13:29:31+00:00
 author: kianryan
 layout: post
@@ -15,7 +15,7 @@ categories:
 ---
 ![Promotional](/assets/images/2009/12/promotional.png)
 
-Orange Tentacle have just released their latest Android application: Masque Mobile. Masque Mobile is a fencing referee&#8217;s friend designed to take the pain out of juggling scores, times and cards.
+Orange Tentacle have just released their latest Android application: Masque Mobile. Masque Mobile is a fencing referee’s friend designed to take the pain out of juggling scores, times and cards.
 
 ![Screenshot 1](/assets/images/2009/12/screenshot_1.png)
 
@@ -29,4 +29,4 @@ If a penalty occurs during a bout, the referee can action a card by selecting th
 
 Other features are cleverly hidden away. Priority resets, and breaks are all actioned from the menu, and preferences to define period length, and the amount and kinds of feedback the application provide can all be set from the preferences dialog.
 
-This is the first &#8220;paid for&#8221; app released by Orange Tentacle (at a very modest 99p), and while we&#8217;re not expecting it to be proving Porsches for Christmas, we hope the fencing community will appreciate the amount of time that has gone into developing this little application.
+This is the first “paid for” app released by Orange Tentacle (at a very modest 99p), and while we’re not expecting it to be proving Porsches for Christmas, we hope the fencing community will appreciate the amount of time that has gone into developing this little application.

@@ -1,6 +1,6 @@
 ---
 id: 719
-title: 'AppsLib &#8211; Rather Rude&#8230;'
+title: 'AppsLib – Rather Rude…'
 date: 2012-04-05T16:45:27+00:00
 author: kianryan
 layout: post
@@ -11,15 +11,15 @@ dsq_thread_id:
 categories:
   - Comment
 ---
-Back in 2009, I developed a version of &#8220;The Massive Dev Chart&#8221; for Android under license by the original owners of the IP, &#8220;Digital Truth&#8221;. Last year they released their own version of the application and politely asked me to withdraw mine, to which I agreed (these had been the standard arrangements agreed to in 2009). No problems there.
+Back in 2009, I developed a version of “The Massive Dev Chart” for Android under license by the original owners of the IP, “Digital Truth”. Last year they released their own version of the application and politely asked me to withdraw mine, to which I agreed (these had been the standard arrangements agreed to in 2009). No problems there.
 
-AppsLib had grabbed copies of my &#8220;free&#8221; applications and posted them to their own library, without my consent. They then sent me the following mail:
+AppsLib had grabbed copies of my “free” applications and posted them to their own library, without my consent. They then sent me the following mail:
 
 > Hello,  
 > 
  
   
-> I have found your app ‘The Massive Dev Chart’ on the web and it runs properly on Archos Tablets.  
+> I have found your app âThe Massive Dev Chartâ on the web and it runs properly on Archos Tablets.  
 > 
  
   
@@ -57,7 +57,7 @@ AppsLib had grabbed copies of my &#8220;free&#8221; applications and posted them
  
   
 > The AppsLib Team 
-Back in 2009, this wasn&#8217;t a problem, so I let it lie. Fast forward to 2012, and I receive the following e-mail:
+Back in 2009, this wasn’t a problem, so I let it lie. Fast forward to 2012, and I receive the following e-mail:
 
 > Hello Android app developer,  
 > 
@@ -78,7 +78,7 @@ Back in 2009, this wasn&#8217;t a problem, so I let it lie. Fast forward to 2012
 > Belinda Sherlos
   
 > The AppsLib Team 
-Remembering they have a copy of &#8220;The Massive Dev Chart&#8221;, I look to find a way to remove my account. Couldn&#8217;t find anything anywhere, just some publish/unpublish options for individual applications. Not too happy about this (I didn&#8217;t ask for an appslib account in the _first_ place) I fired the following e-mail over:
+Remembering they have a copy of “The Massive Dev Chart”, I look to find a way to remove my account. Couldn’t find anything anywhere, just some publish/unpublish options for individual applications. Not too happy about this (I didn’t ask for an appslib account in the _first_ place) I fired the following e-mail over:
 
 > Hello,  
 > 
@@ -94,7 +94,7 @@ Remembering they have a copy of &#8220;The Massive Dev Chart&#8221;, I look to f
 
   
 > Thanks, 
-Simple, straightforward and to the point. You hold applications I no longer have the right to distribute on an account I didn&#8217;t ask for. I want to remove my account and those applications. I was expecting to need to do a little hoop-jumping, possibly fire over some form of authorisation, since I was sending this mail from a different e-mail address to the one registered. In reply, I received the following e-mail:
+Simple, straightforward and to the point. You hold applications I no longer have the right to distribute on an account I didn’t ask for. I want to remove my account and those applications. I was expecting to need to do a little hoop-jumping, possibly fire over some form of authorisation, since I was sending this mail from a different e-mail address to the one registered. In reply, I received the following e-mail:
 
 > Hello,  
 > 
@@ -111,7 +111,7 @@ Simple, straightforward and to the point. You hold applications I no longer have
 
   
 > Belinda 
-Ouch. That stings a little, not really a particularly good bit of developer relations&#8230; I take problem with the phrase &#8220;now have no possible method of downloading your applications&#8221;. No? Are you saying that you, AppsLib, are the only alternative to Google Play? REALLY?
+Ouch. That stings a little, not really a particularly good bit of developer relations… I take problem with the phrase “now have no possible method of downloading your applications”. No? Are you saying that you, AppsLib, are the only alternative to Google Play? REALLY?
 
 So how about:
 
@@ -122,6 +122,6 @@ So how about:
   * The Venerable [GetJar](http://www.getjar.com/)?
   * And [Handango](http://www.handango.com/homepage/Homepage.jsp?deviceId=2433) is still going as well
 
-Funnily enough, the most I&#8217;ve had from any of these (and I&#8217;ve had a few contacts) are introductory e-mails, some offers and details about the services they offer. At no point have any of these opened an account for me, uploaded my applications, nor derided my decision to no longer user their services. In short, at any point in the future I will be more willing to deal with anyone else other than you.
+Funnily enough, the most I’ve had from any of these (and I’ve had a few contacts) are introductory e-mails, some offers and details about the services they offer. At no point have any of these opened an account for me, uploaded my applications, nor derided my decision to no longer user their services. In short, at any point in the future I will be more willing to deal with anyone else other than you.
 
-&#8220;Thank you again&#8221;.
+“Thank you again”.

@@ -1,6 +1,6 @@
 ---
 id: 75
-title: 'Bob 6 &#8211; Bob&#8217;s Festive Message'
+title: 'Bob 6 – Bob’s Festive Message'
 date: 2008-12-24T15:52:56+00:00
 author: kianryan
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 14
-title: 'Took You Long Enough&#8230;'
+title: 'Took You Long Enough…'
 date: 2008-11-17T10:48:01+00:00
 author: kianryan
 layout: post
@@ -28,6 +28,6 @@ For example: why reinvent your own ORM and DAL generator, when [Subsonic](http:/
 
 I should practice what I preach.
 
-So, last night I finally put a halt to my blog engine. It&#8217;s undergone four or five complete rewrites and has never made it to the point I consider &#8220;production&#8221;. There are chunks of it which will get reused elsewhere, but for now it&#8217;s time to explore new projects. And so, in its void I&#8217;ve decided to use WordPress. My [partner](http://www.catashton.co.uk/) has been using WordPress for several months now, and as a blogging platform it seems reliable enough to meet my needs. I can now get on with more writing, more coding and more photography without having to worry about &#8220;oh, must get that blogging platform finished so I can post this article!&#8221;.
+So, last night I finally put a halt to my blog engine. It’s undergone four or five complete rewrites and has never made it to the point I consider “production”. There are chunks of it which will get reused elsewhere, but for now it’s time to explore new projects. And so, in its void I’ve decided to use WordPress. My [partner](http://www.catashton.co.uk/) has been using WordPress for several months now, and as a blogging platform it seems reliable enough to meet my needs. I can now get on with more writing, more coding and more photography without having to worry about “oh, must get that blogging platform finished so I can post this article!”.
 
-So this should mean you start to see more of me writing. Here&#8217;s to the Blogosphere.
+So this should mean you start to see more of me writing. Here’s to the Blogosphere.

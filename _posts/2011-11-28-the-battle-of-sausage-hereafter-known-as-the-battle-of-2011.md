@@ -33,7 +33,7 @@ And awaited the main to arrive with some pride.
   
 Unbeat in battle, known far North was he. 
   
-As it&#8217;s mightiest eater, the pig slayer &#8211; me.
+As it’s mightiest eater, the pig slayer – me.
 
 Out came the plate, brought to his table. 
   
@@ -43,7 +43,7 @@ Insulted again, for what meat was this?
   
 Reclaimed from the bits of the pig that were missed.
 
-The sausage was plain, not Cumber&#8217; or Lincoln, 
+The sausage was plain, not Cumber’ or Lincoln, 
   
 They had managed to fail, with their miserable bacon. 
   
@@ -81,7 +81,7 @@ Regiments armed with real sausage, not Quorn.
   
 And phalanxes grappled with spears made from bread, 
   
-formed and baked hard enough to crack a man&#8217;s head.
+formed and baked hard enough to crack a man’s head.
 
 For where food is in battle, be in no doubt! 
   

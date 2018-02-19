@@ -11,6 +11,6 @@ dsq_thread_id:
 categories:
   - Fencing
 ---
-Since British Fencing still appear to not have an RSS feed for their news section, I&#8217;ve created one using Feed43:
+Since British Fencing still appear to not have an RSS feed for their news section, I’ve created one using Feed43:
 
 http://feed43.com/7674316446057871.xml

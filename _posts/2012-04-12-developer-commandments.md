@@ -41,7 +41,7 @@ I just came across an old e-mail I sent back in 2010. The tooling may have chang
   
 > 7a. Without exception.
   
-> 7b. Unless you&#8217;ve got a very, \*very\*, \*VERY\* persuasive argument you can communicate effectively whilst being nibbled alive by rabid gerbils.
+> 7b. Unless you’ve got a very, \*very\*, \*VERY\* persuasive argument you can communicate effectively whilst being nibbled alive by rabid gerbils.
   
 > 8. Thou shalt commit thy code (at least) daily.
   
@@ -51,7 +51,7 @@ I just came across an old e-mail I sent back in 2010. The tooling may have chang
   
 > 9b. Because I then have to spend two hours picking them back out. And that really peeves me off (see 7b for suitable punishment).
   
-> 10. If in doubt, thy should ask. It&#8217;s good to talk[TM]
+> 10. If in doubt, thy should ask. It’s good to talk[TM]
   
 > 
   

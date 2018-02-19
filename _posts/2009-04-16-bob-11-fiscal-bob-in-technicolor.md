@@ -1,6 +1,6 @@
 ---
 id: 210
-title: 'Bob 11 &#8211; Fiscal Bob (In Technicolor!)'
+title: 'Bob 11 – Fiscal Bob (In Technicolor!)'
 date: 2009-04-16T16:11:38+00:00
 author: kianryan
 layout: post

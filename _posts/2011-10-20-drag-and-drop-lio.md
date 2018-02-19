@@ -17,4 +17,4 @@ Apple apparently fixed this issue with 10.7.2 and closed the related ticket. Ala
 
 Send the machine to sleep, and wake it back up. The related graphics problems should now stop.
 
-I have no idea why this works, or how this works, but it does indeed work. I&#8217;m now happily using ScreenRecycler again and VMWare isn&#8217;t getting so attached to my cursor anymore.
+I have no idea why this works, or how this works, but it does indeed work. I’m now happily using ScreenRecycler again and VMWare isn’t getting so attached to my cursor anymore.

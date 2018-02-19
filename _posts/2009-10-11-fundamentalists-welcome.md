@@ -17,9 +17,9 @@ dsq_thread_id:
 categories:
   - Comment
 ---
-Our industry is passioned and opinionated. This is a statement of fact. Be it Emacs vs Vi, Linux vs Windows, iPod vs &#8230; errr<sup>[1]</sup>, people often fall in love with tools, philosophies and companies. And this is fine. Within the industry we call them &#8220;holy wars&#8221;, since the genuine fundamentalists have gone long past the tenets of logic and rationale (at least to the naked eye).
+Our industry is passioned and opinionated. This is a statement of fact. Be it Emacs vs Vi, Linux vs Windows, iPod vs … errr<sup>[1]</sup>, people often fall in love with tools, philosophies and companies. And this is fine. Within the industry we call them “holy wars”, since the genuine fundamentalists have gone long past the tenets of logic and rationale (at least to the naked eye).
 
-And like all good religions, their virtuous leaders are exalted<sup>[2]. Ballmer, Jobs and Stallman, each seen as personifications of the ideals they represent. Ballmer identifies with the corporate world, where big commercial software dominates. A big man with a bald head and a known temperament, he&#8217;s a figure people associate with boardrooms and big money. Jobs appears as a slight of a man, usually seen at keynotes with a trademark roll-neck and jeans he&#8217;s become the representative of design and cool, embraced by the younger generation. Stallman is another large guy, but rather than corporate groomed appears in t-shirts with long ragged hair and beard to match. A visual throwback to the hippy days, he comes with the embodiment of &#8220;free&#8221;, leading the free software revolution.</p> 
+And like all good religions, their virtuous leaders are exalted<sup>[2]. Ballmer, Jobs and Stallman, each seen as personifications of the ideals they represent. Ballmer identifies with the corporate world, where big commercial software dominates. A big man with a bald head and a known temperament, he’s a figure people associate with boardrooms and big money. Jobs appears as a slight of a man, usually seen at keynotes with a trademark roll-neck and jeans he’s become the representative of design and cool, embraced by the younger generation. Stallman is another large guy, but rather than corporate groomed appears in t-shirts with long ragged hair and beard to match. A visual throwback to the hippy days, he comes with the embodiment of “free”, leading the free software revolution.</p> 
 
 <p>
   As any good personification of an ideal, their attitudes and ideas tally with their images. Ballmer has spoken repeatedly about the values of the corporate workplace and denounced free software as evil, Jobs speaks regularly on the functions of design and Stallman denounces any software or standards not truly free as evil.
@@ -56,5 +56,5 @@ And like all good religions, their virtuous leaders are exalted<sup>[2]. Ballmer
 <hr />
 
 <p>
-  [1] I&#8217;m kidding, there&#8217;s plenty of alternatives. I use a Sansa Clip myself. [2] For the sake of simplicity, I&#8217;m restricting the set to three. I realise that in reality the triangle is more like a multi-sided polygon, but it creates a more dramatic image this way.<br /> [3] Did I get all the combinations there?
+  [1] I’m kidding, there’s plenty of alternatives. I use a Sansa Clip myself. [2] For the sake of simplicity, I’m restricting the set to three. I realise that in reality the triangle is more like a multi-sided polygon, but it creates a more dramatic image this way.<br /> [3] Did I get all the combinations there?
 </p>

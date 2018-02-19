@@ -15,4 +15,4 @@ categories:
 
 Myself and Mr Murphy recently did a radio spot for [Gaydio](http://www.gaydio.co.uk/breakfast-161393), giving one of their presenters a quick lesson and a few hits. Chris took to it well, and we had a bit of a laugh.
 
-Anyone who wants to hear the audio can prod me. I&#8217;ll be keeping a copy on the phone and laptop for a while at least 😉
+Anyone who wants to hear the audio can prod me. I’ll be keeping a copy on the phone and laptop for a while at least ð

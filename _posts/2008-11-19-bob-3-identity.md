@@ -1,6 +1,6 @@
 ---
 id: 35
-title: 'Bob 3 &#8211; Identity'
+title: 'Bob 3 – Identity'
 date: 2008-11-19T00:00:33+00:00
 author: kianryan
 layout: post

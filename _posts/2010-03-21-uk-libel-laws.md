@@ -13,4 +13,4 @@ dsq_thread_id:
 categories:
   - Comment
 ---
-For those that don&#8217;t follow [Private Eye](http://www.private-eye.co.uk/), there&#8217;s been extensive coverage of the mess that is the UK Libel process for &#8230; ohh, forver. It&#8217;s quite a scary situation. Pretty much anyone can now be sued in the UK for saying anything about anyone anywhere in the world. Marcus Brigstocke sums it up better than I can in this weeks [&#8220;The Now Show&#8221;](http://www.bbc.co.uk/iplayer/episode/b00rbs19/The_Now_Show_Series_30_Episode_3/) (Starts at 09:49, UK only).
+For those that don’t follow [Private Eye](http://www.private-eye.co.uk/), there’s been extensive coverage of the mess that is the UK Libel process for … ohh, forver. It’s quite a scary situation. Pretty much anyone can now be sued in the UK for saying anything about anyone anywhere in the world. Marcus Brigstocke sums it up better than I can in this weeks [“The Now Show”](http://www.bbc.co.uk/iplayer/episode/b00rbs19/The_Now_Show_Series_30_Episode_3/) (Starts at 09:49, UK only).

@@ -1,6 +1,6 @@
 ---
 id: 279
-title: 'Guathon &#8211; Before Tea'
+title: 'Guathon – Before Tea'
 date: 2009-09-29T13:17:02+00:00
 author: kianryan
 layout: post
@@ -16,32 +16,32 @@ categories:
 Covered so far:
 
   * Websitespark (we know about this already
-  * Web Platforms Installer (Apt for windows &#8211; this looks good &#8211; can developers submit apps to it?)
-  * MVC (we&#8217;re here for two hours on this &#8211; basic intro and new stuff on 2.0) 
+  * Web Platforms Installer (Apt for windows – this looks good – can developers submit apps to it?)
+  * MVC (we’re here for two hours on this – basic intro and new stuff on 2.0) 
       * Support for jQuery.validate in MVC2
-      * (Usual MVC basics &#8211; saw this at Mix 07)
+      * (Usual MVC basics – saw this at Mix 07)
       * Humm, routes supports reg-ex. Is this new to 2.0?
-      * Ahh &#8211; scaffolding, etc _is_ T4. That&#8217;s been an itching question. I severely like the layout of the default generated views.
-      * MVC2 &#8211; new &#8220;filter&#8221; attributes. [HttpPost] replaces [AcceptVerbs(Http.Post)]. Small but nice detail.
-      * Ohh, you can mark which attributes are bindable in the class &#8211; you don&#8217;t have to do it in UpdateModel.
-      * &#8220;buddy class&#8221; &#8211; way to get around partial method limitation. Haven&#8217;t seen this before&#8230; Link the buddy class to the type class using [Metadatatype(typeof(buddy))]
+      * Ahh – scaffolding, etc _is_ T4. That’s been an itching question. I severely like the layout of the default generated views.
+      * MVC2 – new “filter” attributes. [HttpPost] replaces [AcceptVerbs(Http.Post)]. Small but nice detail.
+      * Ohh, you can mark which attributes are bindable in the class – you don’t have to do it in UpdateModel.
+      * “buddy class” – way to get around partial method limitation. Haven’t seen this before… Link the buddy class to the type class using [Metadatatype(typeof(buddy))]
       * Er, okay. This is new stuff in the validation. Direct validation attributes using the buddy class. COOL! System.ComponentModel.DataAnnotations.
       * The binding has changed quite a bit. I like the new architecture, much less messy, much stronger.
-      * MicrosoftMvcJQueryValidation.js <&#8211; nice one.
-      * Complex validation &#8211; base off a webservice.
-      * New helpers: Html.EditorFor, Html.DisplayFor. Strongly typed lambda syntax &#8211; compile time checking.
-      * Templates allow override of HTML generated for EditorFor and DisplayFor. Uses partial views. Name partial view to type (e.g. Decimal). Drop in &#8220;EditorTemplates&#8221; folder. Can be applied to shared folder and/or view specific. Nice.
-      * Can also generate templates not related to type, pass to &#8220;EditorFor&#8221; as a parameter. Also nice.
+      * MicrosoftMvcJQueryValidation.js <– nice one.
+      * Complex validation – base off a webservice.
+      * New helpers: Html.EditorFor, Html.DisplayFor. Strongly typed lambda syntax – compile time checking.
+      * Templates allow override of HTML generated for EditorFor and DisplayFor. Uses partial views. Name partial view to type (e.g. Decimal). Drop in “EditorTemplates” folder. Can be applied to shared folder and/or view specific. Nice.
+      * Can also generate templates not related to type, pass to “EditorFor” as a parameter. Also nice.
       * Can use the buddy class with [UIHint] attribute to specify type to field. Big emphasis on DRY. Ohhh nice.
       * Whole model can be CRUD rendered on the fly. [ScaffoldColumn] can be used to inclue/exclude properties.
-      * Unit testing time&#8230; First up the unit testing sales pitch.
-      * &#8220;Vs 08 adds all this value added &#8230; crap&#8221; as the Gu goes mad with the delete key.
+      * Unit testing time… First up the unit testing sales pitch.
+      * “Vs 08 adds all this value added … crap” as the Gu goes mad with the delete key.
       * Unit testing models, unit testing controllers (nothing new here so far).
       * Simple testing on controllers to ensure they render views, etc.
-      * Here we go &#8211; the hiccups with tight binding to the DB for tests. Ohh, dependancy injection.
+      * Here we go – the hiccups with tight binding to the DB for tests. Ohh, dependancy injection.
       * IService, Db imp of service. Pass into constructor.
-      * Use 3rd party dependancy injection or &#8220;poor mans &#8211; pass through the controller&#8221;. 
-      * Pass collection of objects to &#8220;FakeService&#8221;. How should you happen multiple services?
+      * Use 3rd party dependancy injection or “poor mans – pass through the controller”. 
+      * Pass collection of objects to “FakeService”. How should you happen multiple services?
       * No shame in writing tests to test the database _and_ tests against the fake services.
 
 <div align="left">

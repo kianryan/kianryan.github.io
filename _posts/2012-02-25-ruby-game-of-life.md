@@ -11,9 +11,9 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-I am learning Ruby and Vim. I&#8217;m also attending the [Preston Codejo](http://www.magmadigital.co.uk/2012/preston-codejo/) hosted by [Magma Digital](http://www.magmadigital.co.uk/), where were using Ruby as the driver.
+I am learning Ruby and Vim. I’m also attending the [Preston Codejo](http://www.magmadigital.co.uk/2012/preston-codejo/) hosted by [Magma Digital](http://www.magmadigital.co.uk/), where were using Ruby as the driver.
 
-As I am wont when learning a new platform (or new techniques on a new platform), there is a build of Conway&#8217;s Game of Life on GitHub:
+As I am wont when learning a new platform (or new techniques on a new platform), there is a build of Conway’s Game of Life on GitHub:
   
 <https://github.com/kianryan/RubyGameLife>
 
@@ -26,4 +26,4 @@ cols - Number of cols to display
 num_pos - Number of initial positions to set.  This is done randomly, so you are likely to get less positions than specified.
 </pre>
 
-Press q to quit when you&#8217;re bored. Feel free to fork, make changes, ideas, pulls, etc.
+Press q to quit when you’re bored. Feel free to fork, make changes, ideas, pulls, etc.

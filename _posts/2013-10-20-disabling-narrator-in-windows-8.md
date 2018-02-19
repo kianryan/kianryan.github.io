@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Code
 ---
-It is far, far too easy to hit Windows-Enter and turn on the Narrator, especially when you&#8217;ve got shortcuts defined in Visual Studio for Alt-Enter and Ctrl-Enter.
+It is far, far too easy to hit Windows-Enter and turn on the Narrator, especially when you’ve got shortcuts defined in Visual Studio for Alt-Enter and Ctrl-Enter.
 
 To permanently disable starting the narrator, add the following registry key:
 

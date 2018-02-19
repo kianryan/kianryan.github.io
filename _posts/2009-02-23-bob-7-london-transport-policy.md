@@ -1,6 +1,6 @@
 ---
 id: 107
-title: 'Bob 7 &#8211; London Transport Policy'
+title: 'Bob 7 – London Transport Policy'
 date: 2009-02-23T13:36:50+00:00
 author: kianryan
 layout: post

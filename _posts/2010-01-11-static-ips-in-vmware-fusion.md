@@ -13,4 +13,4 @@ dsq_thread_id:
 categories:
   - Comment
 ---
-It&#8217;s a simple problem, but one I keep forgetting how to resolve whenever I need to nuke a box. So in case anyone else needs to do it, here&#8217;s how to give a [static IP to a guest OS in VMWare Fusion](http://www.thirdbit.net/articles/2008/03/04/dhcp-on-vmware-fusion/).
+It’s a simple problem, but one I keep forgetting how to resolve whenever I need to nuke a box. So in case anyone else needs to do it, here’s how to give a [static IP to a guest OS in VMWare Fusion](http://www.thirdbit.net/articles/2008/03/04/dhcp-on-vmware-fusion/).

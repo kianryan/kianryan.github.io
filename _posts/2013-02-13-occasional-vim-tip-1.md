@@ -15,24 +15,24 @@ tags:
 ---
 First in a series of occasional vim tips, as and when I feel like them.
 
-We&#8217;re used to moving around by words, paragraphs and lines, but when grabbing selections or making changes, these can be inefficient. Whole blocks can be grabbed using the &#8220;a&#8221; and &#8220;i&#8221; verbs.
+We’re used to moving around by words, paragraphs and lines, but when grabbing selections or making changes, these can be inefficient. Whole blocks can be grabbed using the “a” and “i” verbs.
 
-**[action]a[object]** &#8211; Do something to the whole object, including its boundary.
-
-Examples:
-  
-**caw** &#8211; Change a Word
-  
-**ca(** &#8211; Change the contents of a set of brackets, including the brackets.
-  
-**ya{** &#8211; Yank an entire method
-
-**[action]i[object]** &#8211; Do something to the object, excluding its boundaries.
+**[action]a[object]** – Do something to the whole object, including its boundary.
 
 Examples:
+  
+**caw** – Change a Word
+  
+**ca(** – Change the contents of a set of brackets, including the brackets.
+  
+**ya{** – Yank an entire method
 
-**ci(** &#8211; Change the contents of a set of brackets, leaving the brackets.
+**[action]i[object]** – Do something to the object, excluding its boundaries.
+
+Examples:
+
+**ci(** – Change the contents of a set of brackets, leaving the brackets.
   
-**yi&#8221;** &#8211; Copy between a pair of quotation marks.
+**yi”** – Copy between a pair of quotation marks.
   
-**di{** &#8211; This method sucks, delete everything between the curly brackets.
+**di{** – This method sucks, delete everything between the curly brackets.
