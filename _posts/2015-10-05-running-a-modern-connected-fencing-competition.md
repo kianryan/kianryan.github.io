@@ -52,7 +52,7 @@ tags:
   - Raspberri Pi
   - technology
 ---
-[<img src="/assets/images/2015/10/man_overview.jpg" alt="man_overview" width="5312" height="2988" class="aligncenter size-full wp-image-1301" />](/assets/images/2015/10/man_overview.jpg)
+[<img src="/assets/images/2015/10/man_overview.jpg" alt="man_overview"   class="aligncenter size-full wp-image-1301" />](/assets/images/2015/10/man_overview.jpg)
 
 Modern fencing competitions are elaborate affairs. Major events are televised (or streamed), results are instantly published online and in some cases, competitor information is displayed on the piste as the fencers compete. Fencers and referees are notified of where and when they need to be by remote screens linked to remote monitors.
 
@@ -60,9 +60,9 @@ Not all events have the budget of an Olympics or World Championship. But some of
 
 ## Venue and Network
 
-[<img src="/assets/images/2015/10/wrt54g.jpg" alt="wrt54g" width="5312" height="2988" class="aligncenter size-full wp-image-1303" />](/assets/images/2015/10/wrt54g.jpg)
+[<img src="/assets/images/2015/10/wrt54g.jpg" alt="wrt54g"   class="aligncenter size-full wp-image-1303" />](/assets/images/2015/10/wrt54g.jpg)
 
-[<img src="/assets/images/2015/10/wrt54g_1.jpg" alt="wrt54g_1" width="5312" height="2988" class="aligncenter size-full wp-image-1304" />](/assets/images/2015/10/wrt54g_1.jpg)
+[<img src="/assets/images/2015/10/wrt54g_1.jpg" alt="wrt54g_1"   class="aligncenter size-full wp-image-1304" />](/assets/images/2015/10/wrt54g_1.jpg)
 
 This year, the Manchester Cadet was held at Phillips High School in Manchester. In previous years, we&#8217;ve used the Bolton Arena, a single large hall which the organisers can view from a balcony with visibility over the entire space. The high school is quite a different layout, two halls and a separate office, used for admin.
 
@@ -78,7 +78,7 @@ This year we ran the server and primary client on a single laptop. This works, b
 
 ## Remote Screens
 
-[<img src="/assets/images/2015/10/screen.jpg" alt="screen" width="5312" height="2988" class="aligncenter size-full wp-image-1307" />](/assets/images/2015/10/screen.jpg)
+[<img src="/assets/images/2015/10/screen.jpg" alt="screen"   class="aligncenter size-full wp-image-1307" />](/assets/images/2015/10/screen.jpg)
 
 Remote screens allow us to display results, piste allocations and tableaux for fencers, coaches, parents and referees. They replace (or supplement) the information being distributed on paper, and vastly decrease the amount of time it takes to disseminate the information.
 
@@ -94,6 +94,6 @@ Fencing Time comes with the ability to publish results periodically as the event
 
 ## Cameras and Streaming
 
-[<img src="/assets/images/2015/10/pi_situ1.jpg" alt="pi_situ" width="5312" height="2988" class="aligncenter size-full wp-image-1308" />](/assets/images/2015/10/pi_situ1.jpg)
+[<img src="/assets/images/2015/10/pi_situ1.jpg" alt="pi_situ"   class="aligncenter size-full wp-image-1308" />](/assets/images/2015/10/pi_situ1.jpg)
 
 New for this year, we wanted to [live stream](https://www.youtube.com/watch?v=fV-637Uz0Xw) the event. We investigated professional streaming services, and non of them were feasible due to cost or logistics. For a first year, we wanted to test the feasibility, so I [built a couple of camera units from Rasperry Pis](http://www.kianryan.co.uk/2015/10/buliding-a-youtube-live-streaming-camera-with-a-raspberry-pi/). There are two major restrictions on streaming an event &#8211; having enough bandwidth to upload to whatever service will host your stream, and then having adequate bandwidth to stream from there. Luckily, Youtube Live offers free event streaming up to 1080p, and if anyone has enough bandwidth, they do. We had some technical difficulties with one of the cameras on the first day, but the second day was perfectly fine. We had around a steady 20 viewers for the whole weekend.

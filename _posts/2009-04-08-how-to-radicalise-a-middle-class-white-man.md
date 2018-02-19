@@ -17,7 +17,7 @@ dsq_thread_id:
 categories:
   - Comment
 ---
-<img src="/assets/images/2009/04/1984-movie-bb_a1-300x162.jpg" alt="1984-movie-bb_a1" title="1984-movie-bb_a1" width="300" height="162" class="alignright size-medium wp-image-197" srcset="/assets/images/2009/04/1984-movie-bb_a1-300x162.jpg 300w, /assets/images/2009/04/1984-movie-bb_a1.jpg 590w" sizes="(max-width: 300px) 100vw, 300px" />
+<img src="/assets/images/2009/04/1984-movie-bb_a1-300x162.jpg" alt="1984-movie-bb_a1" title="1984-movie-bb_a1"   class="alignright size-medium wp-image-197" srcset="/assets/images/2009/04/1984-movie-bb_a1-300x162.jpg 300w, /assets/images/2009/04/1984-movie-bb_a1.jpg 590w" sizes="(max-width: 300px) 100vw, 300px" />
 
 > &#8220;Why 1984 won&#8217;t be like &#8216;1984&#8217;&#8221;
 > 

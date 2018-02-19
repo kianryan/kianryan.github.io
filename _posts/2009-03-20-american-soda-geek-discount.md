@@ -17,7 +17,7 @@ dsq_thread_id:
 categories:
   - Comment
 ---
-<img alt="" src="http://www.americansoda.co.uk/img/logo_ontop.jpg" class="alignright" width="292" height="96" />I&#8217;ve been in discussions with one of my fine clients [American Soda](http://www.americansoda.co.uk/) securing a discount for our the needs of fellow geeks. They&#8217;re also hoping to sponsor some community events in the future, so if you&#8217;re running a BarCamp, local user group or some such give us a [ping](mailto:kian@kianryan.co.uk).
+<img alt="" src="http://www.americansoda.co.uk/img/logo_ontop.jpg" class="alignright"   />I&#8217;ve been in discussions with one of my fine clients [American Soda](http://www.americansoda.co.uk/) securing a discount for our the needs of fellow geeks. They&#8217;re also hoping to sponsor some community events in the future, so if you&#8217;re running a BarCamp, local user group or some such give us a [ping](mailto:kian@kianryan.co.uk).
 
 For the moment though, American Soda is offering a 10% discount for the next seven days on presentation of the code **GEEK** at checkout. The more people that take up _this_ offer, the higher the likelihood they&#8217;ll run more offers in the future with potentially greater discounts. As a sample of their fine produce:
 
@@ -28,4 +28,4 @@ For the moment though, American Soda is offering a 10% discount for the next sev
   5. [Teddy Grahams](http://www.americansoda.co.uk/uk/American-Soda/Home/Groceries/US-groceries/Teddy-Grahams---Cinnamon.aspx)
   6. [Hershey&#8217;s Cookie and Cream](http://www.americansoda.co.uk/uk/American-Soda/Home/Candy/Chocolate/Hershey-Cookies-n-Cream-bar.aspx) (which I&#8217;m told are better than Oreos)]
 
-And just because I can: <img src="/assets/images/2009/03/28w3v-0e3fb3146a08ef72ffeea4610e8e04b849c3c5eb-225x300.jpg" alt="Mountain Dew" title="Mountain Dew" width="225" height="300" class="aligncenter size-medium wp-image-171" srcset="/assets/images/2009/03/28w3v-0e3fb3146a08ef72ffeea4610e8e04b849c3c5eb-225x300.jpg 225w, /assets/images/2009/03/28w3v-0e3fb3146a08ef72ffeea4610e8e04b849c3c5eb.jpg 600w" sizes="(max-width: 225px) 100vw, 225px" />
+And just because I can: <img src="/assets/images/2009/03/28w3v-0e3fb3146a08ef72ffeea4610e8e04b849c3c5eb-225x300.jpg" alt="Mountain Dew" title="Mountain Dew"   class="aligncenter size-medium wp-image-171" srcset="/assets/images/2009/03/28w3v-0e3fb3146a08ef72ffeea4610e8e04b849c3c5eb-225x300.jpg 225w, /assets/images/2009/03/28w3v-0e3fb3146a08ef72ffeea4610e8e04b849c3c5eb.jpg 600w" sizes="(max-width: 225px) 100vw, 225px" />

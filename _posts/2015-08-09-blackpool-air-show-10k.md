@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - LifeTrack
 ---
-[<img src="/assets/images/2015/08/IMG_20150809_122817.jpg" alt="IMG_20150809_122817" width="1920" height="1080" class="aligncenter size-full wp-image-1265" />](/assets/images/2015/08/IMG_20150809_122817.jpg)
+[<img src="/assets/images/2015/08/IMG_20150809_122817.jpg" alt="IMG_20150809_122817"   class="aligncenter size-full wp-image-1265" />](/assets/images/2015/08/IMG_20150809_122817.jpg)
 
 In June, at my brother&#8217;s birthday party, a decision was made to enter him in to a 10k race. At the time it was a good idea, a good bit of motivation to get out the door and do some targeted training. We strategically picked a race that was localish, fast, flat and far enough in to the future to allow for a reasonable amount of training. And as such, we were entered in to the Blackpool Air Show 10k.
 

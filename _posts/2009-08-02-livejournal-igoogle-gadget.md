@@ -26,7 +26,7 @@ So after a bit of griping with the [Google Gadgets](http://code.google.com/apis/
 <pre class="brush: xml; title: ; notranslate" title="">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;
  &lt;Module&gt;
    &lt;ModulePrefs title="LiveJournal Friends"
-        height="400"
+        
         scrolling="true"&gt;
         &lt;/ModulePrefs&gt;
    &lt;Content type="url" href="http://m.livejournal.com/read/friends/"&gt;&lt;br /&gt;

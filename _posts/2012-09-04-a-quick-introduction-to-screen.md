@@ -13,7 +13,7 @@ categories:
 ---
 By popular request, I&#8217;ve been asked to write a quick introduction to screen. Screen is a terminal window manager, that allows you to run multiple shell windows concurrently from a single connection. In summary, you can do this:
 
-<a href="http://www.kianryan.co.uk/2012/09/a-quick-introduction-to-screen/screenshot-from-2012-09-04-125130/" rel="attachment wp-att-826"><img src="/assets/images/2012/09/Screenshot-from-2012-09-04-125130-300x187.png" alt="" title="Example of Screen Usage - IRC, Vim and Top" width="300" height="187" class="aligncenter size-medium wp-image-826" srcset="/assets/images/2012/09/Screenshot-from-2012-09-04-125130-300x187.png 300w, /assets/images/2012/09/Screenshot-from-2012-09-04-125130-1024x640.png 1024w, /assets/images/2012/09/Screenshot-from-2012-09-04-125130.png 1440w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href="http://www.kianryan.co.uk/2012/09/a-quick-introduction-to-screen/screenshot-from-2012-09-04-125130/" rel="attachment wp-att-826"><img src="/assets/images/2012/09/Screenshot-from-2012-09-04-125130-300x187.png" alt="" title="Example of Screen Usage - IRC, Vim and Top"   class="aligncenter size-medium wp-image-826" srcset="/assets/images/2012/09/Screenshot-from-2012-09-04-125130-300x187.png 300w, /assets/images/2012/09/Screenshot-from-2012-09-04-125130-1024x640.png 1024w, /assets/images/2012/09/Screenshot-from-2012-09-04-125130.png 1440w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
 Some common scenarios for using screen:
 

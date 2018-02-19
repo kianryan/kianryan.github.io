@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a href="http://www.kianryan.co.uk/2010/11/national-rail-or-how-i-learned-to-stop-worrying-and-love-the-cow/cows-on-line/" rel="attachment wp-att-472"><img src="/assets/images/2010/11/cows-on-line.jpg" alt="" title="cows-on-line" width="562" height="418" class="alignnone size-full wp-image-472" /></a>
+<a href="http://www.kianryan.co.uk/2010/11/national-rail-or-how-i-learned-to-stop-worrying-and-love-the-cow/cows-on-line/" rel="attachment wp-att-472"><img src="/assets/images/2010/11/cows-on-line.jpg" alt="" title="cows-on-line"   class="alignnone size-full wp-image-472" /></a>
 
 One of my clients have their offices over in Burnage. [Burnage](http://en.wikipedia.org/wiki/Burnage) is an area four miles south of Manchester and lies on the Manchester Airport and Crewe lines from Manchester Picadilly.
 

@@ -37,15 +37,15 @@ In true form, the following landed in my inbox:
 
 &#8220;I was playing around with one of your apps.&#8221;, left me asking &#8220;really?&#8221;. So I called bullshit on Twitter:
 
-[<img src="/assets/images/2013/07/Quinn-1-300x129.png" alt="Quinn-1" width="300" height="129" class="aligncenter size-medium wp-image-975" srcset="/assets/images/2013/07/Quinn-1-300x129.png 300w, /assets/images/2013/07/Quinn-1.png 335w" sizes="(max-width: 300px) 100vw, 300px" />](https://twitter.com/kianryan/status/352098871813488640)
+[<img src="/assets/images/2013/07/Quinn-1-300x129.png" alt="Quinn-1"   class="aligncenter size-medium wp-image-975" srcset="/assets/images/2013/07/Quinn-1-300x129.png 300w, /assets/images/2013/07/Quinn-1.png 335w" sizes="(max-width: 300px) 100vw, 300px" />](https://twitter.com/kianryan/status/352098871813488640)
 
 I wasn&#8217;t the only one to receive the e-mail either&#8230;
 
-[<img src="/assets/images/2013/07/Quinn-2-264x300.png" alt="Quinn-2" width="264" height="300" class="aligncenter size-medium wp-image-977" srcset="/assets/images/2013/07/Quinn-2-264x300.png 264w, /assets/images/2013/07/Quinn-2.png 335w" sizes="(max-width: 264px) 100vw, 264px" />](https://twitter.com/_elj/status/352109514419486720)
+[<img src="/assets/images/2013/07/Quinn-2-264x300.png" alt="Quinn-2"   class="aligncenter size-medium wp-image-977" srcset="/assets/images/2013/07/Quinn-2-264x300.png 264w, /assets/images/2013/07/Quinn-2.png 335w" sizes="(max-width: 264px) 100vw, 264px" />](https://twitter.com/_elj/status/352109514419486720)
 
 So I was then surprised to actually get a tweet from Quinn himself:
 
-[<img src="/assets/images/2013/07/Quinn-3-300x126.png" alt="Quinn-3" width="300" height="126" class="aligncenter size-medium wp-image-979" srcset="/assets/images/2013/07/Quinn-3-300x126.png 300w, /assets/images/2013/07/Quinn-3.png 333w" sizes="(max-width: 300px) 100vw, 300px" />](https://twitter.com/TapContext/status/352144989494575104)
+[<img src="/assets/images/2013/07/Quinn-3-300x126.png" alt="Quinn-3"   class="aligncenter size-medium wp-image-979" srcset="/assets/images/2013/07/Quinn-3-300x126.png 300w, /assets/images/2013/07/Quinn-3.png 333w" sizes="(max-width: 300px) 100vw, 300px" />](https://twitter.com/TapContext/status/352144989494575104)
 
 Fair enough. So I gave him my e-mail address, and honestly didn&#8217;t really expect to receive a response. Then the following arrives:
 

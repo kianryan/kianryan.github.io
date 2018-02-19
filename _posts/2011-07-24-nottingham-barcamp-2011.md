@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[<img src="http://farm7.static.flickr.com/6025/5969426911_d511738ec5.jpg" width="500" height="375" alt="Nottingham, Nottinghack, BarCamp, BCNOTT, BarCamp Nottingham, 027" />](http://www.flickr.com/photos/nottinghack/5969426911/ "Nottingham, Nottinghack, BarCamp, BCNOTT, BarCamp Nottingham, 027 by Nottinghack, on Flickr")
+[<img src="http://farm7.static.flickr.com/6025/5969426911_d511738ec5.jpg"   alt="Nottingham, Nottinghack, BarCamp, BCNOTT, BarCamp Nottingham, 027" />](http://www.flickr.com/photos/nottinghack/5969426911/ "Nottingham, Nottinghack, BarCamp, BCNOTT, BarCamp Nottingham, 027 by Nottinghack, on Flickr")
 
 This weekend saw the inaugural Barcamp Nottingham, held at Nottingham&#8217;s most awesome [Hackspace](http://nottinghack.org.uk/). The space is easily one of the most awesome geek-spaces in the UK, consisting of a sofa area, open discussion space and generous space for two screens. They&#8217;re also easily packing some of the most awesome geekery I&#8217;ve seen, from 3D printers to LED tweet boards and enough soldering irons to allow [Alistair](http://www.flickr.com/photos/nottinghack/5969416707/in/photostream) to set most of the UK on fire.
 

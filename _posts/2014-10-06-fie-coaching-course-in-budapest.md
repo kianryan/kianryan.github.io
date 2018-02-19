@@ -9,7 +9,7 @@ permalink: /2014/10/fie-coaching-course-in-budapest/
 mkd_text:
   - |
     <a href="https://www.flickr.com/photos/kianryan/15372048842/">
-    <img src="https://farm4.staticflickr.com/3850/15372048842_0d773ea38e.jpg" width="500" height="375" />
+    <img src="https://farm4.staticflickr.com/3850/15372048842_0d773ea38e.jpg"   />
     </a>
     
     I'm just back from Budapest from a 10 day coach education course for sabre coaches.  It's been an interesting experience, both in terms of the fencing and the culture and is one that I would recommend for any coach that has the opportunity to attend.
@@ -78,7 +78,7 @@ tags:
 ---
 
 [ 
-<img src="https://farm4.staticflickr.com/3850/15372048842_0d773ea38e.jpg" width="500" height="375" />](https://www.flickr.com/photos/kianryan/15372048842/) 
+<img src="https://farm4.staticflickr.com/3850/15372048842_0d773ea38e.jpg"   />](https://www.flickr.com/photos/kianryan/15372048842/) 
 
 I&#8217;m just back from Budapest from a 10 day coach education course for sabre coaches. It&#8217;s been an interesting experience, both in terms of the fencing and the culture and is one that I would recommend for any coach that has the opportunity to attend.
 

@@ -15,7 +15,7 @@ For our honeymoon, Cat and I spent twelve days in Florida (awesomely paid for by
 
 These mugs:
 
-[<img src="/assets/images/2013/03/DSCF1316-300x225.jpg" alt="" width="300" height="225" class="aligncenter size-medium wp-image-917" srcset="/assets/images/2013/03/DSCF1316-300x225.jpg 300w, /assets/images/2013/03/DSCF1316.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/images/2013/03/DSCF1316.jpg)
+[<img src="/assets/images/2013/03/DSCF1316-300x225.jpg" alt=""   class="aligncenter size-medium wp-image-917" srcset="/assets/images/2013/03/DSCF1316-300x225.jpg 300w, /assets/images/2013/03/DSCF1316.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/images/2013/03/DSCF1316.jpg)
 
 We bought them because they were cheap (a few dollar), colourful, a good size and were adorned with funky designs. They came back with us from Florida, and they&#8217;re now our daily mugs &#8211; a little reminder of our honeymoon.
 

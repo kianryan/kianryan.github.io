@@ -208,7 +208,7 @@ Eventually an agreement was made to cancel my installation, and I was transfered
 
 Whilst I was on the phone line, I made a few comments on twitter, including this:
 
-<blockquote class="twitter-tweet" width="550">
+<blockquote class="twitter-tweet" >
   <p>
     Okay, to clarify, freelancers and the self-employed can not use <a href="https://twitter.com/virginmedia">@virginmedia</a> 's residential service without violating their T&Cs. At all.
   </p>&mdash; Kian Ryan (@kianryan) 
@@ -218,7 +218,7 @@ Whilst I was on the phone line, I made a few comments on twitter, including this
 
 And Virgin reinforced their position with this tweet, in direct reply:
 
-<blockquote class="twitter-tweet" width="550">
+<blockquote class="twitter-tweet" >
   <p>
     <a href="https://twitter.com/kianryan">@kianryan</a> Hey Kian, we don't support Residential accounts being used for Business purposes. Have you considered our Business service? - JG
   </p>&mdash; Virgin Media (@virginmedia) 
@@ -228,7 +228,7 @@ And Virgin reinforced their position with this tweet, in direct reply:
 
 Because we were really willing to give them a chance on this, I asked them to clarify:
 
-<blockquote class="twitter-tweet" width="550">
+<blockquote class="twitter-tweet" >
   <p>
     <a href="https://twitter.com/virginmedia">@virginmedia</a> Can you please define "business" purposes?
   </p>&mdash; Kian Ryan (@kianryan) 
@@ -241,7 +241,7 @@ And I have yet, not had a response to this. So far, that&#8217;s four people fro
 Whilst I&#8217;ve been venting this on Twitter, other people have also chipped in. Gideon Hallet makes a very solid point:
 
 <div>
-  <blockquote class="twitter-tweet" width="550">
+  <blockquote class="twitter-tweet" >
     <p>
       <a href="https://twitter.com/kianryan">@kianryan</a> Agreed - <a href="https://twitter.com/virginmedia">@virginmedia</a> need to provide some form of reassurance or risk losing a lot of their tech-savvy customers.
     </p>&mdash; Gideon Hallett (@_gmh_) 
@@ -252,7 +252,7 @@ Whilst I&#8217;ve been venting this on Twitter, other people have also chipped i
 
 And Neil Lathwood wonders if it&#8217;s worth getting worked up over:
 
-<blockquote class="twitter-tweet" width="550">
+<blockquote class="twitter-tweet" >
   <p>
     <a href="https://twitter.com/kianryan">@kianryan</a> <a href="https://twitter.com/virginmedia">@virginmedia</a> I'm fairly certain it's not meant to be taken literally and doesn't really warrant this tirade of tweets! +1 for VM
   </p>&mdash; neillathwood (@neillathwood) 

@@ -13,7 +13,7 @@ dsq_thread_id:
 categories:
   - Fencing
 ---
-[<img src="http://farm4.static.flickr.com/3101/2308416939_0b4eef7f5b.jpg" width="500" height="226" alt="Sheffield Open 2006" />](http://www.flickr.com/photos/kianryan/2308416939/ "Sheffield Open 2006 by kianryan, on Flickr")
+[<img src="http://farm4.static.flickr.com/3101/2308416939_0b4eef7f5b.jpg"   alt="Sheffield Open 2006" />](http://www.flickr.com/photos/kianryan/2308416939/ "Sheffield Open 2006 by kianryan, on Flickr")
 
 Since a few people have been asking recently&#8230; I am currently coaching at two clubs in the North-West: Manchester and Altrincham. Beginner geeks are welcome to turn up to either, and will be welcomed by a smile and a circuit board.
 

@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Code
 ---
-[<img src="https://raw.github.com/OrangeT/vim-csharp/master/screenshot2.png" width="459" height="343" />](https://raw.github.com/OrangeT/vim-csharp/master/screenshot2.png)
+[<img src="https://raw.github.com/OrangeT/vim-csharp/master/screenshot2.png"   />](https://raw.github.com/OrangeT/vim-csharp/master/screenshot2.png)
 
 Vim&#8217;s built in CSharp/.NET support is a little thin on the ground, so I&#8217;ve been writing a plugin to make C# development easier. It&#8217;s available on [GitHub](http://github.com/OrangeT/vim-csharp), and feel free to fork and extend it yourself. At the moment it currently supports:
 

@@ -17,4 +17,4 @@ dsq_thread_id:
 categories:
   - Bob
 ---
-<img src="/assets/images/2009/02/9-where-is-here.jpg" alt="Bob 9 - Where Is Here?" title="Bob 9 - Where Is Here?" width="600" height="445" class="alignnone size-full wp-image-110" srcset="/assets/images/2009/02/9-where-is-here.jpg 600w, /assets/images/2009/02/9-where-is-here-300x222.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
+<img src="/assets/images/2009/02/9-where-is-here.jpg" alt="Bob 9 - Where Is Here?" title="Bob 9 - Where Is Here?"   class="alignnone size-full wp-image-110" srcset="/assets/images/2009/02/9-where-is-here.jpg 600w, /assets/images/2009/02/9-where-is-here-300x222.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />

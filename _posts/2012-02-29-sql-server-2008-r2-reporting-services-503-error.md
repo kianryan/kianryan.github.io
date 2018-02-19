@@ -37,4 +37,4 @@ From there I was able to diagnose the problem as relatively trivial and fix the 
 
 Today I feel it is appropriate to finish with:
 
-<a href="http://www.kianryan.co.uk/2012/02/sql-server-2008-r2-reporting-services-503-error/jacoj/" rel="attachment wp-att-694"><img src="/assets/images/2012/02/jacoj.jpeg" alt="" title="jacoj" width="317" height="451" class="alignnone size-full wp-image-694" srcset="/assets/images/2012/02/jacoj.jpeg 317w, /assets/images/2012/02/jacoj-210x300.jpg 210w" sizes="(max-width: 317px) 100vw, 317px" /></a>
+<a href="http://www.kianryan.co.uk/2012/02/sql-server-2008-r2-reporting-services-503-error/jacoj/" rel="attachment wp-att-694"><img src="/assets/images/2012/02/jacoj.jpeg" alt="" title="jacoj"   class="alignnone size-full wp-image-694" srcset="/assets/images/2012/02/jacoj.jpeg 317w, /assets/images/2012/02/jacoj-210x300.jpg 210w" sizes="(max-width: 317px) 100vw, 317px" /></a>

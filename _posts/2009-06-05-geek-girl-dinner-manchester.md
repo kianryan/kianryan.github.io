@@ -25,8 +25,8 @@ Food was excellent from the &#8220;Old Abbey Inn&#8221;, paid for in part by BAE
 
 Many thanks to [Gemma Cameron](http://twitter.com/ruby_gem) for organising the evening.
 
-<img class="size-medium wp-image-228" title="GGD-1" src="/assets/images/2009/06/2009-06-04-200829-225x300.jpg" alt="GGD-1" width="225" height="300" srcset="/assets/images/2009/06/2009-06-04-200829-225x300.jpg 225w, /assets/images/2009/06/2009-06-04-200829-768x1024.jpg 768w, /assets/images/2009/06/2009-06-04-200829.jpg 1536w" sizes="(max-width: 225px) 100vw, 225px" />
+<img class="size-medium wp-image-228" title="GGD-1" src="/assets/images/2009/06/2009-06-04-200829-225x300.jpg" alt="GGD-1"   srcset="/assets/images/2009/06/2009-06-04-200829-225x300.jpg 225w, /assets/images/2009/06/2009-06-04-200829-768x1024.jpg 768w, /assets/images/2009/06/2009-06-04-200829.jpg 1536w" sizes="(max-width: 225px) 100vw, 225px" />
 
-<img src="/assets/images/2009/06/2009-06-04-200912-300x225.jpg" alt="GGD-2" title="GGD-2" width="300" height="225" class="size-medium wp-image-229" srcset="/assets/images/2009/06/2009-06-04-200912-300x225.jpg 300w, /assets/images/2009/06/2009-06-04-200912-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
+<img src="/assets/images/2009/06/2009-06-04-200912-300x225.jpg" alt="GGD-2" title="GGD-2"   class="size-medium wp-image-229" srcset="/assets/images/2009/06/2009-06-04-200912-300x225.jpg 300w, /assets/images/2009/06/2009-06-04-200912-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />
 
 _(Apologies for the quality of the photos, [Cat](http://www.catashton.co.uk/) will be posting better ones later.)_

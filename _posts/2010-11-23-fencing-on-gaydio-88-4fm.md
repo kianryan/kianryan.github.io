@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Fencing
 ---
-<img alt="" src="http://20.mm.g-media.com/932168.jpg" class="alignright" width="338" height="225" />
+<img alt="" src="http://20.mm.g-media.com/932168.jpg" class="alignright"   />
 
 Myself and Mr Murphy recently did a radio spot for [Gaydio](http://www.gaydio.co.uk/breakfast-161393), giving one of their presenters a quick lesson and a few hits. Chris took to it well, and we had a bit of a laugh.
 

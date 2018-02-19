@@ -14,7 +14,7 @@ categories:
   - Comment
 ---
 <div style="float:right; text-align:center;">
-  <a href="http://en.wikipedia.org/wiki/File:Android_and_cupcake.jpg" style="float:right;"><img src="http://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Android_and_cupcake.jpg/800px-Android_and_cupcake.jpg" width="200" height="150" /> <br />Wikimedia Photo</a>
+  <a href="http://en.wikipedia.org/wiki/File:Android_and_cupcake.jpg" style="float:right;"><img src="http://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Android_and_cupcake.jpg/800px-Android_and_cupcake.jpg"   /> <br />Wikimedia Photo</a>
 </div>
 
 On Saturday I presented a short talk on building a basic android application in 20 minutes. This was the full process, from generating the shell project, to writing the code, generating the layouts, testing on the emulator, signing the application and uploading the binary. I wasn&#8217;t able to do this as &#8220;live&#8221; as I would have liked &#8211; I&#8217;ll perfect the routine in time for Barcamp Manchester, but the group did a good job of being a dummy audience.

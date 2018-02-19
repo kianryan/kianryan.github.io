@@ -19,7 +19,7 @@ categories:
 ---
 At BarCamp Sheffield we were asked to create a tag cloud to represent our interests.  Rather than quickly doodle one out at the venue, I took a blank back with me on the Friday evening to my hotel and drew one in Bob instead.  A few people have asked me to post the tag cloud so here you go.
 
-[<img class="alignnone size-medium wp-image-84" title="bob_sheffield" src="/assets/images/2009/01/bob_sheffield-300x298.jpg" alt="" width="300" height="298" srcset="/assets/images/2009/01/bob_sheffield-300x298.jpg 300w, /assets/images/2009/01/bob_sheffield-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/images/2009/01/bob_sheffield.jpg)
+[<img class="alignnone size-medium wp-image-84" title="bob_sheffield" src="/assets/images/2009/01/bob_sheffield-300x298.jpg" alt=""   srcset="/assets/images/2009/01/bob_sheffield-300x298.jpg 300w, /assets/images/2009/01/bob_sheffield-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/images/2009/01/bob_sheffield.jpg)
 
 And indeed photographic proof that it was &#8220;worn&#8221;:
 

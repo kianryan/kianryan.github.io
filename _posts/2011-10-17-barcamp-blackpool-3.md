@@ -12,7 +12,7 @@ categories:
   - Uncategorized
 ---
 
-<img src="http://www.catashton.co.uk/wp-content/uploads/2011/10/LoveOurSponsors.jpg" width="500" />   
+<img src="http://www.catashton.co.uk/wp-content/uploads/2011/10/LoveOurSponsors.jpg"  />   
 _Love Our Sponsors &#8211; From catashton.co.uk_
 
 Another weekend, another barcamp&#8230; But blackpool is a little different to the other &#8216;camps held around the country. Whether it&#8217;s the epicness of running the event at the Blackpool Pleasure Beach Casino (I kid ye not), or that we have a near infinite supply of rock, Blackpool always manages to blend the geek with the surreal.

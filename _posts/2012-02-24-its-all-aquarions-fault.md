@@ -13,7 +13,7 @@ categories:
 ---
 It&#8217;s all [Aquarion&#8217;s](http://www.aquarionics.com/) fault</a>.
 
-<a href="http://www.kianryan.co.uk/2012/02/its-all-aquarions-fault/mzl-qwulwwsa/" rel="attachment wp-att-641"><img src="/assets/images/2012/02/mzl.qwulwwsa.jpg" alt="" title="mzl.qwulwwsa" width="160" height="240" class="alignleft size-full wp-image-641" srcset="/assets/images/2012/02/mzl.qwulwwsa.jpg 320w, /assets/images/2012/02/mzl.qwulwwsa-200x300.jpg 200w" sizes="(max-width: 160px) 100vw, 160px" /></a>
+<a href="http://www.kianryan.co.uk/2012/02/its-all-aquarions-fault/mzl-qwulwwsa/" rel="attachment wp-att-641"><img src="/assets/images/2012/02/mzl.qwulwwsa.jpg" alt="" title="mzl.qwulwwsa"   class="alignleft size-full wp-image-641" srcset="/assets/images/2012/02/mzl.qwulwwsa.jpg 320w, /assets/images/2012/02/mzl.qwulwwsa-200x300.jpg 200w" sizes="(max-width: 160px) 100vw, 160px" /></a>
 
 While down in London last, Mr Aquarion introduced me to [Tiny Towers](http://tinytowerwiki.com/Main_Page), a tower building game. I played it for a few hours and decided what I _really_ wanted to play was [Sim Tower](http://en.wikipedia.org/wiki/SimTower). Running OS X, and Sim Tower being &#8220;of an age&#8221;, this left me with a platform challenge to overcome.
 
@@ -27,4 +27,4 @@ Once I decided I was switching to running on MacOS, I was surprised how easy it 
 
 Oh look &#8211; 4 Stars!
 
-<a href="http://www.kianryan.co.uk/2012/02/its-all-aquarions-fault/simtower/" rel="attachment wp-att-640"><img src="/assets/images/2012/02/SimTower.jpg" alt="" title="SimTower" width="412" height="318" class="size-full wp-image-640" srcset="/assets/images/2012/02/SimTower.jpg 1030w, /assets/images/2012/02/SimTower-300x231.jpg 300w, /assets/images/2012/02/SimTower-1024x790.jpg 1024w" sizes="(max-width: 412px) 100vw, 412px" /></a>
+<a href="http://www.kianryan.co.uk/2012/02/its-all-aquarions-fault/simtower/" rel="attachment wp-att-640"><img src="/assets/images/2012/02/SimTower.jpg" alt="" title="SimTower"   class="size-full wp-image-640" srcset="/assets/images/2012/02/SimTower.jpg 1030w, /assets/images/2012/02/SimTower-300x231.jpg 300w, /assets/images/2012/02/SimTower-1024x790.jpg 1024w" sizes="(max-width: 412px) 100vw, 412px" /></a>
