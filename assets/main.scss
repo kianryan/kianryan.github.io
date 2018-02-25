@@ -1,0 +1,16 @@
+---
+---
+
+@import "minima-reboot";
+
+footer#site-footer {
+  svg {
+    width: 16px;
+    height: 16px;
+  }
+
+  .Github svg { fill: #181717; }
+  .Twitter svg { fill: #1DA1F2; }
+  .Tumblr svg { fill: #36465D; }
+  .Strava svg { fill: #FC4C02; }
+}

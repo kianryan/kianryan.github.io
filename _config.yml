@@ -18,11 +18,7 @@ email: kian@orangetentacle.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: kianryan
-github_username:  kianryan
-tumblr_username: kianryan
-strava_username: kianryan
-
+   
 # Build settings
 markdown: kramdown
 remote_theme: aterenin/minima-reboot
@@ -34,6 +30,20 @@ header_pages:
   - about.md
   - now.md
   - blog.md
+
+footer_icons:
+  - username: Github
+    url: https://github.com/kianryan
+    icon: github.svg
+  - username: Twitter
+    url: https://twitter.com/kianryan
+    icon: twitter.svg
+  - username: Tumblr
+    url: https://kianryan.tumblr.com/
+    icon: tumblr.svg
+  - username: Strava
+    url: https://www.strava.com/athletes/2506957
+    icon: strava.svg
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
