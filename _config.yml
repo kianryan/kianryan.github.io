@@ -25,9 +25,15 @@ strava_username: kianryan
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: aterenin/minima-reboot
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+header_pages:
+  - about.md
+  - now.md
+  - blog.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
