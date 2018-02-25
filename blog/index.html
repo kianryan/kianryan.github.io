@@ -1,0 +1,53 @@
+---
+layout: page
+title: Blog
+---
+
+<div class="row">
+
+<div class="col-md-10">
+
+    <!-- This loops through the paginated posts -->
+    <ul class="post-list list-unstyled">
+    {% for post in paginator.posts %}
+      {% include _post.html %}
+    {% endfor %}
+    </ul>
+
+    {% if paginator.total_pages > 1 %}
+    <nav aria-label="Page navigation">
+    <ul class="pagination">
+      {% if paginator.previous_page %}
+	<li> <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><span>&laquo;</span></a> </li>
+      {% else %}
+	<li><span>&laquo;</span></li>
+      {% endif %}
+
+      {% for page in (1..paginator.total_pages) %}
+	{% if page == paginator.page %}
+	  <li class="active">{{ page }}</li>
+	{% elsif page == 1 %}
+	  <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><span>{{ page }}</span></a></li>
+	{% else %}
+	  <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}"><span>{{ page }}</span></a></li>
+	{% endif %}
+      {% endfor %}
+
+      {% if paginator.next_page %}
+	<li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><span>&raquo;</span></a></li>
+      {% else %}
+	<li><span>&raquo;</span></li>
+      {% endif %}
+    </ul>
+    </nav>
+    {% endif %}
+
+</div>
+
+<div class="col-md-2">
+
+	<h3>Categories</h3>
+
+</div>
+
+</div>

@@ -25,11 +25,15 @@ remote_theme: aterenin/minima-reboot
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/blog/page:num/"
 
 header_pages:
   - about.md
   - now.md
-  - blog.md
+  - blog/index.html
 
 footer_icons:
   - username: Github
