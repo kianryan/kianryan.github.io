@@ -1,0 +1,32 @@
+<header id="nav-header" class="border-dark border-left-0 border-right-0">
+  <div id="nav-container" class="container position-relative d-flex justify-content-between align-items-center">
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+    <a class="h4 m-0 text-dark" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    {% if page_paths %}
+      <nav id="nav-menu-container" class="text-right navbar-light">
+        <input type="checkbox" id="nav-trigger" class="d-none"/>
+        <label for="nav-trigger" id="nav-trigger-label" class="m-2 d-inline-block d-md-none navbar-toggler-icon">
+        </label>
+
+        <div id="nav-menu" class="d-none d-md-block">
+
+              <a class="text-dark ml-3 ml-md-0 p-2 d-block d-md-inline-block" href="/About">about</a>
+              <a class="text-dark ml-3 ml-md-0 p-2 d-block d-md-inline-block" href="/Now">now</a>
+
+              <a class="text-dark ml-3 ml-md-0 p-2 d-block d-md-inline-block" href="/Blog">blog</a>
+              <a class="text-dark ml-3 ml-md-0 p-2 d-block d-md-inline-block dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">
+		<span class="sr-only">Toggle Dropdown</span>
+	     </a>
+	      <div class="dropdown-menu">
+		{% assign categories = site.categories %}
+		{% for category in site.categories %}
+		    <a class="dropdown-item" href="/category/{{category|first}}">{{category|first}}</a>
+		{% endfor %}	
+	      </div>
+        </div>
+      </nav>
+    {% endif %}
+  </div>
+</header>
