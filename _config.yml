@@ -52,6 +52,8 @@ footer_icons:
 disqus:
   shortname: kianryan
 
+google_analytics: UA-114924611-1
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
