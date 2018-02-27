@@ -2,7 +2,7 @@
   <div id="nav-container" class="container position-relative d-flex justify-content-between align-items-center">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
-    <a class="h4 m-0 text-dark" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="h4 m-0 text-light" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     {% if page_paths %}
       <nav id="nav-menu-container" class="text-right navbar-light">
@@ -12,11 +12,11 @@
 
         <div id="nav-menu" class="d-none d-md-block">
 
-              <a class="text-dark ml-3 ml-md-0 p-2 d-block d-md-inline-block" href="/about">about</a>
-              <a class="text-dark ml-3 ml-md-0 p-2 d-block d-md-inline-block" href="/now">now</a>
+              <a class="text-light ml-3 ml-md-0 p-2 d-block d-md-inline-block" href="/about">about</a>
+              <a class="text-light ml-3 ml-md-0 p-2 d-block d-md-inline-block" href="/now">now</a>
 
-              <a class="text-dark ml-3 ml-md-0 p-2 d-block d-md-inline-block" href="/blog">blog</a>
-              <a class="text-dark ml-3 ml-md-0 p-2 d-block d-md-inline-block dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">
+              <a class="text-light ml-3 ml-md-0 p-2 d-block d-md-inline-block" href="/blog">blog</a>
+              <a class="text-light ml-3 ml-md-0 p-2 d-block d-md-inline-block dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">
 		<span class="sr-only">Toggle Dropdown</span>
 	     </a>
 	      <div class="dropdown-menu">
