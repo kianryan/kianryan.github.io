@@ -5,18 +5,11 @@ layout: default
 
 <div class="col-md-8">
 
-    <div class="home">
-      {% if page.title %}
-        <h1 class="page-heading">{{ page.title }}</h1>
-      {% endif %}
-
-      {{ content }}
+    <div class="home pt-3">
 
       {% if site.posts.size > 0 %}
-        <h2 class="post-list-heading">{{ page.list_title | default: "Latest Posts" }}</h2>
-
         <ul class="post-list list-unstyled">
-          {% for post in site.posts limit:5 %}
+          {% for post in site.posts limit:6 %}
           {% include _post.html %}
           {% endfor %}
         </ul>
@@ -31,7 +24,7 @@ layout: default
 
 <div class="col-md-4">
 
-    <div id="profile" style="padding: 40px 0;">
+    <div id="profile" class="py-4">
 
         <img class="float-right" src="/assets/images/static/profile_photo.jpg" alt="Profile Photo" />
 
