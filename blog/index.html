@@ -48,6 +48,13 @@ title: Blog
 
 	<h3>Categories</h3>
 
+        <nav>
+        <ul>
+            {% for category in site.categories %}
+            <li><a href="/category/{{category|first}}">{{category|first}}</a></li>
+            {% endfor %}	
+        </ul>
+        </nav>
 </div>
 
 </div>
