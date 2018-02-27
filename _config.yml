@@ -49,6 +49,9 @@ footer_icons:
     url: https://www.strava.com/athletes/2506957
     icon: strava.svg
 
+disqus:
+  shortname: kianryan
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
