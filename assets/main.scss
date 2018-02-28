@@ -10,13 +10,17 @@ a {
 	color: #9B0C00;
 }
 
+
 #nav-header {
+        border-top: 5px solid #4DA1A9 !important;
 	background-color: #2E5077;
+        background-image: url("/assets/images/static/billie-holiday.png");
 }
 
 footer#site-footer {
 
   background-color: #B9BDCC;
+  background-image: url("/assets/images/static/45-degree-fabric-dark.png");
 
   svg {
     width: 16px;
