@@ -12,7 +12,7 @@ I stole it from [Martin Rue](https://martinrue.com/now/), who stole it from [Der
 
 I'm currently training for a number of 2018 triathlons and 10k road races.
 
-I'll next be racing at the (Bolton 10K)[http://www.bolton10k.org/].
+I'll next be racing at the [Bolton 10K](http://www.bolton10k.org/).
 
 ## Work
 
