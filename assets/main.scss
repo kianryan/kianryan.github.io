@@ -24,6 +24,15 @@ h2 {
     font-size: 1.6rem;
 }
 
+pre.highlight{
+    text-align: left !important;
+
+    code {
+        text-align: left !important;
+    }
+
+}
+
 #nav-header {
         border-top: 5px solid #4DA1A9 !important;
 	background-color: #2E5077;
