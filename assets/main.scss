@@ -34,6 +34,13 @@ h2 {
 
 }
 
+@media (max-width: 767px) {
+    #nav-menu-container {
+	background-color: #2E5077;
+        background-image: url("/assets/images/static/billie-holiday.png");
+    }
+}
+
 footer#site-footer {
 
   background-color: #B9BDCC;
