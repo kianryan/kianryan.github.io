@@ -54,4 +54,11 @@ h2.post-list-heading { margin: 1rem 0; }
 
 article img { max-width: 600px; max-height: 600px; }
 
-#profile img { max-width: 100px; }
+#profile img { 
+    max-width: 100px; 
+    border-radius: 50%; 
+    box-shadow: 6px 6px 21px 4px rgba(136,136,136,0.75);
+    -webkit-box-shadow: 6px 6px 21px 4px rgba(136,136,136,0.75);
+    -moz-box-shadow: 6px 6px 21px 4px rgba(136,136,136,0.75);
+}
+
