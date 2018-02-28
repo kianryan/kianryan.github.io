@@ -22,7 +22,7 @@
 	      <div class="dropdown-menu">
 		{% assign categories = site.categories %}
 		{% for category in site.categories %}
-		    <a class="dropdown-item" href="{{site.baseurl}}/category/{{category|slugize}}">{{category|first}}</a>
+		    <a class="dropdown-item" href="{{site.baseurl}}/category/{{category|first|slugify}}">{{category|first}}</a>
 		{% endfor %}	
 	      </div>
         </div>

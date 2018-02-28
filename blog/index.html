@@ -51,7 +51,7 @@ title: Blog
         <nav>
         <ul>
             {% for category in site.categories %}
-            <li><a href="{{site.baseurl}}/category/{{category|slugize}}">{{category|first}}</a></li>
+            <li><a href="{{site.baseurl}}/category/{{category|first|slugify}}">{{category|first}}</a></li>
             {% endfor %}	
         </ul>
         </nav>
