@@ -14,7 +14,7 @@ permalink: /now/
 
 I'm currently training for a number of 2018 triathlons and 10k road races.  This year I joined up with [Bolton Tri Club](http://www.boltontri.com/).
 
-My 2017-2018 season is over, I've [written a review](2018/11/02/triathlon-season-review/).
+My 2017-2018 season is over, I've [written a review](/2018/11/02/triathlon-season-review/).
 
 I'll be focusing on more base training and S&amp;C over Winter.
 
