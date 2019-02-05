@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Let's Talk About Learning 1
+title: Let's Talk About Learning
 categories: Code LifeTrack
 tags: 
- - Coding, LifeTrack, CPD, Training
+ - Coding, LifeTrack, CPD, Training, Learning
 ---
 
 *This is the first of a series of posts looking at CPD and learning.*
