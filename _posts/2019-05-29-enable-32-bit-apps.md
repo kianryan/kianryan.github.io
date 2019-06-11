@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enable 32 Bits Apps in IIS from Octopus Deploy
-categories: Coding
+categories: Code
 tags: 
  - Octopus Deploy, IIS, Powershell
 ---
