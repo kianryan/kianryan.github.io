@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Designing Around Food Allergies
+title: Designing For Food Allergies
 categories: Coding
 tags:
  - Coding
