@@ -1,35 +1,41 @@
-<footer id="site-footer">
-  <div class="container">
-    <div class="h5 pt-4"><a href="/about">Kian Ryan</a></div>
-
+<footer>
+  <div class="container-md beautiful-jekyll-footer">
     <div class="row">
-      <div class="col col-lg-3">
-        <ul class="list-unstyled">
-          <li class="text-light">
-              Developer, fencing coach, triathlete, maker.
-            </li>
-            <li><a href="mailto:kian@orangetentacle.co.uk">kian@orangetentacle.co.uk</a></li>
-        </ul>
-      </div>
-      {% if site.footer_icons %}
-      <div class="col-6 col-lg-3">
-        <ul class="list-unstyled">
-          {% for footer_icon in site.footer_icons %}
-            <li class="{{footer_icon.username}}">
-              <a href="{{ footer_icon.url }}">
-                {% if footer_icon.icon %}
-                {% capture icon %}{% include {{footer_icon.icon}} %}{% endcapture %}
-                <span class="align-middle text-secondary pr-2">{{ icon | strip }}</span>{% endif %}<span>{{ footer_icon.username }}</span>
-              </a>
-            </li>
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      {% include social-networks-links.html %}
+      {% if page.footer-extra %}
+        <div class="footer-custom-content">
+          {% for file in page.footer-extra %}
+            {% include {{ file }} %}
           {% endfor %}
-        </ul>
-      </div>
+        </div>
       {% endif %}
-      <div class="col-12 col-lg">
-        <p class="text-secondary text-justify">{{ site.description | escape }}</p>
+      <p class="copyright text-muted">
+      {% if site.author %}
+        {{ site.author }}
+        &nbsp;&bull;&nbsp;
+      {% endif %}
+      {{ site.time | date: '%Y' }}
+
+      {% if site.url-pretty %}
+        &nbsp;&bull;&nbsp;
+        <span class="author-site">
+          <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
+        </span>
+      {% endif %}
+
+      {% if site.matomo %}
+        {% if site.matomo.opt-out %}
+          &nbsp;&bull;&nbsp;
+          <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
+        {% endif %}
+      {% endif%}
+      </p>
+      {% unless site.remove-ads %}<p class="theme-by text-muted">
+        Powered by
+        <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
+      </p>{% endunless %}
       </div>
     </div>
-
   </div>
 </footer>
