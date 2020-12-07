@@ -12,29 +12,22 @@ permalink: /now/
 
 ## Current Reading
 
-* Fiction - [Lord of the Flies - William Golding](https://www.goodreads.com/book/show/7624.Lord_of_the_Flies)
-* Triathlon - [Fast Track Triathlete - Matt Dixon.](https://www.goodreads.com/book/show/33510061-fast-track-triathlon-training)
-* Psychology - [Chimp Paradox - Prof Steve Peters.](https://www.goodreads.com/book/show/12228097-the-chimp-paradox)
+* [Retro Tea Breaks Vol 1 - Neil Thomas](https://www.kickstarter.com/projects/retroteabreaks/retro-tea-breaks-vol-1-a-book-by-retromancave)
+* [Jens Gustedt - Modern C](https://www.manning.com/books/modern-c)
 
 ## Sport
 
-I've got a season lined up for 2019.  It looks like this:
+Let's not talk about 2020.
+2021 race season looks like:
 
-* West Lancs Spring Triathlon (Sprint/Pool) - 14/04/2019
-* Bolton 10K - (When announced)
-* Greater Manchester Marathon? - 07/04/2019
-* Southport Triathlon (Standard/Open) - 19/05/2019
-* Deva Triathlon (Middle/Open) - 02/06/2019
-* Ripon Triathlon Festival (Standard/Open) - 29/06/2019
-* Salford Triathlon (Standard/Open) - 28/07/2019
-* Fleetwood Triathlon (Sprint/Pool) - 15/09/2019
+* [Bolton Marathon](https://www.boltonmarathon.com/) - 16 May 2021
+* [Ironman 70.3 Staffordshire](https://www.ironman.com/im703-staffordshire) - 13 Jun 2021
+* [Ironman UK](https://www.ironman.com/im-uk) - 4 July 2021
 
-2 x Sprint, 3 x Standard, x 1 Middle. + 1 x Marathon.
+I'm a member of [Bolton Tri Club](http://www.boltontri.com/).
 
 ## Work
 
 I have a number of client projects on the go, but if you've got interesting projects you would like to discuss please [get in touch](http://www.orangetentacle.co.uk/).
 
-I'm doing some interesting work with ASP.NET Core, Angular, Identity Server and related technologies.  We're having fun.
-
-I'm currently coaching at [Northwich](http://www.northwichfencing.co.uk/) and [Marshalls](http://www.marshallfencing.co.uk/).
+I'm doing some interesting work with .NET Core, React, NodeJs, Typescript, and a whole host of Azure and AWS services.  We're having fun.
