@@ -2,6 +2,8 @@
 layout: category
 title: Code
 category: Code
+full-width: true
+
 ---
 ## Resources
 

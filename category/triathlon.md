@@ -2,6 +2,7 @@
 layout: category
 title: Triathlon
 category: Triathlon
+full-width: true
 ---
 
 ## Resources

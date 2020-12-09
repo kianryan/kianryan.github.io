@@ -1,6 +1,35 @@
 ---
 layout: page
+full-width: true
 ---
+
+<div class="row">
+  <div class="offset-xl-1 col-xl-7">
+
+    {% assign posts = site.categories[page.category] %}
+
+    <div class="posts-list">
+
+      {% for post in posts %}
+        {% include previewpost.html post=post %}
+      {% endfor %}
+    </div>
+ </div>
+
+  <!-- Mini About Us Panel -->
+
+  <div class="col-xl-3">
+    <div>
+      {{ content }}
+    </div>
+
+    <div>
+      {% include mini-bio.html %}
+    </div>
+ </div>
+</div>
+
+
 {{ content }}
 <h2>Posts In This Category</h2>
 <ul class="post-list list-unstyled">

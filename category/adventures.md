@@ -2,6 +2,7 @@
 layout: category
 title: Adventures
 category: Adventures
+full-width: true
 ---
 
 ## Resources
