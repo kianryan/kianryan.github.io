@@ -1,60 +1,63 @@
 ---
 layout: page
-title: Blog
+full-width: true
 ---
 
 <div class="row">
+  <div class="offset-xl-1 col-xl-7">
 
-<div class="col-md-10">
+    {% assign posts = paginator.posts %}
 
-    <!-- This loops through the paginated posts -->
-    <ul class="post-list list-unstyled">
-    {% for post in paginator.posts %}
-      {% include _post.html %}
-    {% endfor %}
-    </ul>
+    <div class="posts-list">
+
+      {% for post in posts %}
+        {% include previewpost.html post=post %}
+      {% endfor %}
+    </div>
 
     {% if paginator.total_pages > 1 %}
-    <nav aria-label="Page navigation">
-    <ul class="pagination">
+    <ul class="pagination main-pager">
       {% if paginator.previous_page %}
-	<li class="page-item"> <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><span>&laquo;</span></a> </li>
-      {% else %}
-	<li class="page-item disabled"><a href class="page-link"><span>&laquo;</span></a></li>
-      {% endif %}
-
-      {% for page in (1..paginator.total_pages) %}
-	{% if page == paginator.page %}
-	  <li class="page-item active disabled"><a href class="page-link">{{ page }}</a></li>
-	{% elsif page == 1 %}
-	  <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><span>{{ page }}</span></a></li>
-	{% else %}
-	  <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}"><span>{{ page }}</span></a></li>
-	{% endif %}
-      {% endfor %}
-
-      {% if paginator.next_page %}
-	<li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><span>&raquo;</span></a></li>
-      {% else %}
-	<li class="page-item disabled"><a href class="page-link"><span>&raquo;</span></a></li>
+      <li class="page-item previous">
+        <a
+          class="page-link"
+          href="{{ paginator.previous_page_path | absolute_url }}"
+          >&larr; Newer Posts</a
+        >
+      </li>
+      {% endif %} {% if paginator.next_page %}
+      <li class="page-item next">
+        <a
+          class="page-link"
+          href="{{ paginator.next_page_path | absolute_url }}"
+          >Older Posts &rarr;</a
+        >
+      </li>
       {% endif %}
     </ul>
-    </nav>
     {% endif %}
+  </div>
 
-</div>
+  <!-- Mini About Us Panel -->
 
-<div class="col-md-2">
+  <div class="col-xl-3">
 
-	<h3>Categories</h3>
+
+
+    <div>
+      {% include mini-bio.html %}
+    </div>
+
+    <div>
+      <h2>Categories</h2>
 
         <nav>
         <ul>
             {% for category in site.categories %}
             <li><a href="{{site.baseurl}}/category/{{category|first|slugify}}">{{category|first}}</a></li>
-            {% endfor %}	
+            {% endfor %}
         </ul>
         </nav>
-</div>
-
+    </div>
+  </div>
 </div>

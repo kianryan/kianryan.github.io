@@ -7,8 +7,12 @@ full-width: true
 <div class="row">
   <div class="offset-xl-1 col-xl-7">
 
-        {% capture now_content %}{% include_relative now-content.md %}{% endcapture %}
-        {{ now_content | markdownify }}
+    <div>
+      {% capture now_content %}{% include_relative now-content.md %}{% endcapture %}
+      {{ now_content | markdownify }}
+    </div>
+
+    {% include mini-bio.html %}
 </div>
 
   <div class="col-xl-3">

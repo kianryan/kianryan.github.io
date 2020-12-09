@@ -1,0 +1,70 @@
+      <article class="post-preview">
+        {%- capture thumbnail -%} {% if include.post.thumbnail-img %} {{
+        include.post.thumbnail-img }} {% elsif include.post.cover-img %} {% if
+        include.post.cover-img.first %} {{ include.post.cover-img[0].first.first }} {% else %}
+        {{ include.post.cover-img }} {% endif %} {% else %} {% endif %} {% endcapture %}
+        {% assign thumbnail=thumbnail | strip %} {% if site.feed_show_excerpt ==
+        false %} {% if thumbnail != "" %}
+        <div class="post-image post-image-normal">
+          <a href="{{ include.post.url | absolute_url }}" aria-label="Thumbnail">
+            <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail" />
+          </a>
+        </div>
+        {% endif %} {% endif %}
+
+        <a href="{{ include.post.url | absolute_url }}">
+          <h2 class="post-title">{{ include.post.title }}</h2>
+
+          {% if post.subtitle %}
+          <h3 class="post-subtitle">{{ include.post.subtitle }}</h3>
+          {% endif %}
+        </a>
+
+        <p class="post-meta">
+          {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+          {{ include.post.date | date: date_format }}
+        </p>
+
+        {% if thumbnail != "" %}
+        <div class="post-image post-image-small">
+          <a href="{{ include.post.url | absolute_url }}" aria-label="Thumbnail">
+            <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail" />
+          </a>
+        </div>
+        {% endif %} {% unless site.feed_show_excerpt == false %} {% if thumbnail
+        != "" %}
+        <div class="post-image post-image-short">
+          <a href="{{ include.post.url | absolute_url }}" aria-label="Thumbnail">
+            <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail" />
+          </a>
+        </div>
+        {% endif %}
+
+        <div class="post-entry">
+          {% assign excerpt_length = site.excerpt_length | default: 50 %} {{
+          include.post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length
+          }} {% assign excerpt_word_count = post.excerpt | number_of_words %} {%
+          if include.post.content != include.post.excerpt or excerpt_word_count > excerpt_length
+          %}
+          <a href="{{ include.post.url | absolute_url }}" class="post-read-more"
+            >[Read&nbsp;More]</a
+          >
+          {% endif %}
+        </div>
+        {% endunless %} {% if site.feed_show_tags != false and include.post.tags.size >
+        0 %}
+        <div class="blog-tags">
+          <span>Tags:</span>
+          {% for tag in include.post.tags %}
+          <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
+          {% endfor %}
+        </div>
+        {% endif %}
+        <div class="blog-categories">
+          <span>Categories:</span>
+          {% for category in include.post.categories %}
+          <a href="{{ '/category' | absolute_url }}/{{ category | downcase }}">{{- category -}}</a>
+          {% endfor %}
+        </div>
+
+      </article>
