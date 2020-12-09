@@ -1,15 +1,3 @@
----
-layout: page
-title: Now
-permalink: /now/
----
-
-<div class="alert alert-secondary">
-<p>This is a <a href="https://nownownow.com/about">now</a> page.</p>
-
-<p>I stole it from <a href="https://martinrue.com/now/">Martin Rue</a>, who stole it from <a href="https://sivers.org/">Derek Sivers</a>.</p>
-</div>
-
 ## Current Reading
 
 * [Retro Tea Breaks Vol 1 - Neil Thomas](https://www.kickstarter.com/projects/retroteabreaks/retro-tea-breaks-vol-1-a-book-by-retromancave)

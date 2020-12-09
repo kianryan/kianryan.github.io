@@ -1,0 +1,97 @@
+---
+---
+
+// Site specific customisations
+
+body {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+
+.post-preview .post-meta,
+.post-heading .post-meta {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.posts-list {
+
+    h2 {
+        font-size: 2.25rem;
+
+    }
+
+    h2.post-title {
+        font-size: 1.75rem;
+    }
+
+    .blog-categories {
+        margin-top: 0.625rem;
+    }
+
+}
+
+.blog-categories {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.9375rem;
+
+  span {
+    color: {{ site.text-col | default: "#404040" }};
+    opacity: 0.8;
+  }
+
+  a {
+    color: {{ site.text-col | default: "#404040" }};
+    text-decoration: none;
+    padding: 0 0.3125rem;
+    opacity: 0.8;
+    border: 1px solid transparent;
+    border-radius: 0.1875rem;
+  }
+
+  a:hover {
+    opacity: 1;
+    color: {{ site.text-col | default: "#404040" }};
+    border-color: {{ site.text-col | default: "#404040" }};
+  }
+}
+
+ .avatar-img-border {
+  width: auto;
+  margin: 0;
+  display: inline-block;
+  border-radius: 50%;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 0.3125rem rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.8);
+
+  img {
+    border-radius: 50%;
+    display: block;
+  }
+}
+
+.minibio {
+    border: 1px solid grey;
+    background: lightblue;
+    padding: 0.5em;
+
+    .avatar-img-border {
+        width: 4em;
+        height: 4em;
+        margin-right: 1em;
+    }
+
+    p {
+        margin: 0;
+        margin-bottom: 1em;
+    }
+
+}
