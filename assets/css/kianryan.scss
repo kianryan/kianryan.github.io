@@ -21,6 +21,16 @@ h6 {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.blog-tags {
+    margin: 0;
+    margin-top: 0.625rem;
+}
+
+.blog-categories {
+    margin: 0;
+    margin-top: 0.625rem;
+}
+
 .posts-list {
 
     h2 {
@@ -32,9 +42,6 @@ h6 {
         font-size: 1.75rem;
     }
 
-    .blog-categories {
-        margin-top: 0.625rem;
-    }
 
 }
 

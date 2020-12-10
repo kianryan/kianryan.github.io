@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Making a Nightlight - Lessons Learned
+thumbnail-img: /assets/images/2019/10/06/prototype.jpg
 categories: Making
 tags:
  - Making

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pectoral Cross
+thumbnail-img: /assets/images/2019/11/19/pectoral_cross.jpg
 categories: Making
 tags:
  - Making

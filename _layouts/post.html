@@ -4,9 +4,9 @@ layout: base
 
 {% include header.html type="post" %}
 
-<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
+<div class="{% if page.full-width %} container-fluid {% else %} container-lg {% endif %}">
   <div class="row">
-    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
+    <div class="{% if page.full-width %} col {% else %} col-xl-10 offset-xl-1 col-lg-10 offset-lg-1 {% endif %}">
 
       {% if page.gh-repo %}
         {% assign gh_split =  page.gh-repo | split:'/'  %}
@@ -43,15 +43,6 @@ layout: base
         {{ content }}
       </article>
 
-      {% if page.tags.size > 0 %}
-        <div class="blog-tags">
-          <span>Tags:</span>
-          {% for tag in page.tags %}
-            <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
-          {% endfor %}
-        </div>
-      {% endif %}
-
       {% if page.after-content %}
         <div class="after-content">
           {% for file in page.after-content %}
@@ -64,18 +55,32 @@ layout: base
         {% include social-share.html %}
       {% endif %}
 
-      <ul class="pagination blog-pager">
-        {% if page.previous.url %}
-        <li class="page-item previous">
-          <a class="page-link" href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
-        </li>
+      <div class="mt-3">
+      {% if page.tags.size > 0 %}
+        <div class="blog-tags">
+          <span>Tags:</span>
+          {% for tag in page.tags %}
+            <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+          {% endfor %}
+        </div>
+      {% endif %}
+
+        {% if page.categories.size > 0 %}
+        <div class="blog-categories">
+          <span>Categories:</span>
+          {% for category in page.categories %}
+          <a href="{{ '/category' | absolute_url }}/{{ category | downcase }}">{{- category -}}</a>
+          {% endfor %}
+        </div>
         {% endif %}
-        {% if page.next.url %}
-        <li class="page-item next">
-          <a class="page-link" href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
-        </li>
-        {% endif %}
-      </ul>
+      </div>
+
+
+
+      <div class="mt-3">
+        {% include mini-bio.html %}
+      </div>
+
       {% include comments.html %}
     </div>
   </div>

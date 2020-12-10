@@ -31,9 +31,3 @@ full-width: true
 
 
 {{ content }}
-<h2>Posts In This Category</h2>
-<ul class="post-list list-unstyled">
-{% for post in site.categories[page.category] %}
-  {% include _post.html %}
-{% endfor %}
-</ul>
