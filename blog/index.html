@@ -42,22 +42,20 @@ full-width: true
 
   <div class="col-xl-3">
 
-
-
-    <div>
-      {% include mini-bio.html %}
-    </div>
-
     <div>
       <h2>Categories</h2>
 
         <nav>
-        <ul>
+        <ul class="list-unstyled">
             {% for category in site.categories %}
             <li><a href="{{site.baseurl}}/category/{{category|first|slugify}}">{{category|first}}</a></li>
             {% endfor %}
         </ul>
         </nav>
+    </div>
+
+    <div>
+      {% include mini-bio.html %}
     </div>
   </div>
 </div>
