@@ -4,8 +4,26 @@
 // Site specific customisations
 
 body {
+  font-size: 1rem;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+@font-face {
+  font-family: Visitor;
+  src: url(visitor2.ttf);
+}
+
+@font-face {
+  font-family: Hellovetica;
+  src: url(hellovetica.ttf);
+}
+
+$sunrise_top: #f778a3;
+$sunrise_middle: #c74acc;
+$sunrise_bottom: #941cf0;
+$sunrise_orange: #f88453;
+$sunrise_white: white;
+$sunrise_grey: grey;
 
 h1,
 h2,
@@ -14,6 +32,67 @@ h4,
 h5,
 h6 {
   font-weight: normal;
+  font-family: Hellovetica;
+  text-transform: uppercase;
+  line-height: 1.5;
+}
+
+footer {
+  border-top: 5px solid $sunrise_grey;
+
+  font-family: Visitor;
+  font-size: 1.25rem;
+  background: $sunrise_bottom;
+  color: $sunrise_white;
+
+  .list-inline {
+    margin-bottom: 1rem;
+
+    a {
+      color: $sunrise_grey;
+    }
+  }
+
+  .copyright, .author-site, a {
+    font-family: Visitor;
+    font-size: 1.25rem;
+    color: $sunrise_white;
+  }
+}
+
+
+.navbar-custom {
+  font-weight: normal;
+  font-family: Visitor;
+  padding-top: 0;
+  padding-bottom: 0;
+
+  background: rgb(151,30,245);
+  background: linear-gradient(0deg, rgba(151,30,245,1) 0%, rgba(199,74,204,1) 35%, rgba(250,125,168,1) 100%);
+  border-bottom: 5px solid $sunrise_grey;
+
+  .navbar-brand {
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: $sunrise_white;
+    text-shadow: 2px 2px 2px $sunrise_orange;
+  }
+
+  .navbar-nav .nav-link {
+    font-size: 1.75rem;
+    font-weight: normal;
+    color: $sunrise_white;
+    text-shadow: 2px 2px 2px $sunrise_orange;
+  }
+
+  /* Create a pixel shift effect on hover. */
+  a {
+    margin-bottom: 1px;
+
+    &:hover {
+      margin-top: 1px;
+    }
+  }
 }
 
 .post-preview .post-meta,
@@ -24,11 +103,15 @@ h6 {
 .blog-tags {
     margin: 0;
     margin-top: 0.625rem;
+    font-family: Hellovetica;
+    color: $sunrise_orange;
 }
 
 .blog-categories {
     margin: 0;
     margin-top: 0.625rem;
+    font-family: Hellovetica;
+    color: $sunrise_orange;
 }
 
 .posts-list {
@@ -39,14 +122,19 @@ h6 {
     }
 
     h2.post-title {
-        font-size: 1.75rem;
+        font-size: 1rem;
+        color: $sunrise_bottom;
+        text-shadow: 2px 2px 2px $sunrise_grey;
     }
 
-
+    p.post-meta {
+      font-size: 1rem;
+    }
 }
 
+
 .blog-categories {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Hellovetica;
   font-size: 0.9375rem;
 
   span {
@@ -74,31 +162,59 @@ h6 {
   width: auto;
   margin: 0;
   display: inline-block;
-  border-radius: 50%;
+  // border-radius: 50%;
   box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 0.3125rem rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.8);
 
   img {
-    border-radius: 50%;
+    // border-radius: 50%;
     display: block;
   }
 }
 
+.intro-header .post-heading, .intro-header .page-heading {
+  h1 {
+    @media (min-width: 1200px) {
+      font-size: 2rem;
+    }
+
+    font-size: 2rem;
+    color: $sunrise_bottom;
+    text-shadow: 2px 2px 2px $sunrise_grey;
+  }
+}
+
+.blog-post {
+
+  /* In a general blog post, apply a maximum width and height */
+  img {
+    max-width: 600px;
+    max-height: 600px;
+  }
+}
+
 .minibio {
-    border: 1px solid grey;
-    background: lightblue;
-    padding: 0.5em;
+    border: 1px solid $sunrise_grey;
+    box-shadow: 5px 5px 5px $sunrise_grey;
+    background: $sunrise_bottom;
+    color:white;
+    padding: 1rem;
+
+    font-size: .75rem;
+    font-family: Hellovetica;
+    text-shadow: 2px 2px 2px $sunrise_orange;
 
     .avatar-img-border {
-        width: 4em;
-        height: 4em;
-        margin-right: 1em;
+        width: 6rem;
+        height: 6rem;
+        margin-right: 1rem;
+        margin-bottom: 1rem;
     }
 
     p {
         margin: 0;
-        margin-bottom: 1em;
+        margin-bottom: 1rem;
     }
 
 }
