@@ -70,7 +70,9 @@ rss-description: RSS isn't dead.
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  github: true
+  facebook: true
+  linkedin: true
+  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer

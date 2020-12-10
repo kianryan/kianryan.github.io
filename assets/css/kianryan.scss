@@ -14,8 +14,8 @@ body {
 }
 
 @font-face {
-  font-family: Hellovetica;
-  src: url(hellovetica.ttf);
+  font-family: Pinscher;
+  src: url('SHPinscher-Regular.otf');
 }
 
 $sunrise_top: #f778a3;
@@ -32,9 +32,9 @@ h4,
 h5,
 h6 {
   font-weight: normal;
-  font-family: Hellovetica;
+  font-family: Pinscher;
   text-transform: uppercase;
-  line-height: 1.5;
+  // line-height: 1.5;
 }
 
 footer {
@@ -100,16 +100,15 @@ footer {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-.blog-tags {
+.blog-tags, .blog-categories {
     margin: 0;
     margin-top: 0.625rem;
-    font-family: Hellovetica;
-}
+    font-family: Pinscher;
+    font-size: 1.25rem;
 
-.blog-categories {
-    margin: 0;
-    margin-top: 0.625rem;
-    font-family: Hellovetica;
+    a {
+      text-decoration: underline;
+    }
 }
 
 .posts-list {
@@ -120,11 +119,12 @@ footer {
     }
 
     h2.post-title {
-        font-size: 1rem;
         color: $sunrise_white;
-        line-height: 2rem;
-        padding-top:.5rem;
+        margin-bottom: 1rem;
         background: $sunrise_grey;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        text-shadow: 2px 2px 2px darken($sunrise_grey, 20%);
     }
 
     p.post-meta {
@@ -136,21 +136,30 @@ footer {
     }
 
     .blog-tags, .blog-categories {
+        font-size: 1.25rem;
+        font-family: Pinscher;
 
-      font-size: .5rem;
-
-      a {
-        font-size: .5rem;
-        font-family: Hellovetica;
-      }
+        a {
+          text-decoration: underline;
+          font-size: 1.25rem;
+          font-family: Pinscher;
+        }
     }
 }
+.pagination .page-item .page-link {
+  background: $sunrise_middle;
+  font-family: Pinscher;
+  color: $sunrise_white;
+  box-shadow: 5px 5px 5px $sunrise_grey;
+  font-size: 1.5rem;
 
+  &:hover {
+    color: $sunrise_white;
+    background: $sunrise_bottom;
+  }
+}
 
 .blog-categories {
-  font-family: Hellovetica;
-  font-size: 0.9375rem;
-
   span {
     color: {{ site.text-col | default: "#404040" }};
     opacity: 0.8;
@@ -190,10 +199,10 @@ footer {
 .intro-header .post-heading, .intro-header .page-heading {
   h1 {
     @media (min-width: 1200px) {
-      font-size: 2rem;
+      font-size: 2.75rem;
     }
 
-    font-size: 2rem;
+    font-size: 2.75rem;
     color: $sunrise_bottom;
     text-shadow: 2px 2px 2px $sunrise_grey;
   }
@@ -212,12 +221,12 @@ footer {
     border: 1px solid $sunrise_grey;
     box-shadow: 5px 5px 5px $sunrise_grey;
     background: $sunrise_bottom;
-    color:white;
     padding: 1rem;
 
-    font-size: .75rem;
-    font-family: Hellovetica;
-    text-shadow: 2px 2px 2px $sunrise_orange;
+    font-family: Pinscher;
+    color: $sunrise_white;
+    text-shadow: 2px 2px 2px darken($sunrise_orange, 30%);
+    font-size: 1.5rem;
 
     .avatar-img-border {
         width: 6rem;
@@ -229,7 +238,12 @@ footer {
     p {
         margin: 0;
         margin-bottom: 1rem;
-        line-height: 1.8;
+        line-height: 1;
+    }
+
+    a {
+      color: $sunrise_white;
+      text-decoration: underline;
     }
 
 }
