@@ -121,8 +121,9 @@ footer {
 
     h2.post-title {
         font-size: 1rem;
-        color: $sunrise_bottom;
-        text-shadow: 2px 2px 2px $sunrise_grey;
+        color: $sunrise_white;
+        line-height: 2rem;
+        background: $sunrise_grey;
     }
 
     p.post-meta {
