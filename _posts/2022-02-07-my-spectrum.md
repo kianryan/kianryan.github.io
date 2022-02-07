@@ -2,7 +2,7 @@
 layout: post
 title: Repairing My Family Spectrum
 categories: Making
-thumbnail-img: /assets/images/2022/02/07/crusy_sinclair.jpg
+thumbnail-img: /assets/images/2022/02/07/crusty_sinclair.jpg
 tags: 
   - retro, spectrum, repair
 ---
