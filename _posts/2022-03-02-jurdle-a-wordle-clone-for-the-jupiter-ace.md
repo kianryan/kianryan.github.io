@@ -11,6 +11,8 @@ tags:
   - wordle
 ---
 
+> __TLDR;__ Jurdle is availble [to download here](https://github.com/kianryan/jurdle/raw/main/bin/fivewords-clean.tap), you'll need a 48K expanded Jupter Ace or Minstrel 4th to run it.
+
 The [Jupiter Ace](https://en.wikipedia.org/wiki/Jupiter_Ace) is a curio.  Released in the 1982, looking like a hybrid between a ZX81 and a ZX Spectrum (the staff were ex-Sinclair), it stood out 
 from the rest of a very crowded home computer market by choosing to run Forth rather than the ubiquitous BASIC.
 
