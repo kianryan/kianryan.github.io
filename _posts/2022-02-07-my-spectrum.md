@@ -4,7 +4,9 @@ title: Repairing My Family Spectrum
 categories: Making
 thumbnail-img: /assets/images/2022/02/07/crusty_sinclair.jpg
 tags: 
-  - retro, spectrum, repair
+  - retro
+  - spectrum
+  - repair
 ---
 
 ![My crusty family Spectrum+, as it came out of the loft](/assets/images/2022/02/07/crusty_sinclair.jpg)

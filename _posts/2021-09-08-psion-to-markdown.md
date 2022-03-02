@@ -3,7 +3,9 @@ layout: post
 title: Getting Markdown Out of the Psion
 categories: Making
 tags:
-  - writing, blogging, psion
+  - writing
+  - blogging
+  - psion
 ---
 
 The Psion 5MX makes a great little portable writing tool, but getting files off takes a little more effort. 
