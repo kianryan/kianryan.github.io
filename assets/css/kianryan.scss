@@ -217,10 +217,11 @@ footer {
   }
 }
 
-.minibio {
+.minibio, .dabillz {
     border: 1px solid $sunrise_grey;
     box-shadow: 5px 5px 5px $sunrise_grey;
     background: $sunrise_bottom;
+    margin-bottom: 1rem;
     padding: 1rem;
 
     font-family: Pinscher;
