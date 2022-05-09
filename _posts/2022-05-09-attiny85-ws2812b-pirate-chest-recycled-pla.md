@@ -61,6 +61,8 @@ I threw together a gothic inspired chest that can house the AtTiny85 board, a sm
 and an aperture on top to reduce light leakage.  It press fits together.  [The models are available to download, with the original 
 CAD model on Printables](https://www.printables.com/model/200463-lighting-chest-for-attiny85-board-and-3x-ws2812bb-) or via [GitHub](https://github.com/kianryan/attiny85-chest).
 
+The chest was printed with leftover [ESun Marble PLA](https://www.3djake.uk/esun/emarble-natural) at 0.2mm layer height, on a a standard PLA profile.
+
 ![Chest With Lid Open](/assets/images/2022/05/09/lid-open.jpg)
 
 I can see the chest being a useful little set piece for a roleplaying game.  Anything can be mounted on top of the aperture, so long 
