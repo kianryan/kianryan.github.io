@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An AtTiny85 and WS2812B Pirate Chest with Recycled PLA
-thumbnail-img: /assets/images/2022/04/09/wsl-settings.png
+thumbnail-img: /assets/images/2022/05/09/thumbnail.png
 categories: Making
 tags: 
   - attiny85
@@ -13,21 +13,21 @@ I was sent a sample of recycled PLA from [3D Tomorrow](https://3dtomorrow.com/).
 feedback.  They didn't send a lot, but enough to make a couple of small models.  The material was 
 uncoloured and translucent.  I didn't know where this project was going, but "crystal skull" kept rattling around my head.
 
-![Sample of recycled filament from 3D tomorrow](/assets/images/2022/05/02/pla-spool.jpg)
+![Sample of recycled filament from 3D tomorrow](/assets/images/2022/05/09/pla-spool.jpg)
 
 I quickly spat out a temp tower and was slightly nervous, despite the evidence, of at printing at 190.  I've got a 
 limited amount of this stuff, so if I screw up, I don't get a replay.  My first idea of a "Indiana Jones" crystal skull 
 evolved to a fancy skull - and this [this design from Kimbolt](https://www.printables.com/model/61094-fancy-skull) 
 caught my eye.
 
-![Temperature tower](/assets/images/2022/05/02/temp-tower.jpg)
+![Temperature tower](/assets/images/2022/05/09/temp-tower.jpg)
 
 I printed 0.1mm layer height at 190oC, first layer at 195oC on a otherwise standard PLA profile.  It came out great, 
 the detail looks superb and if you shine a light underneath it glows.
 
 **It glows.**
 
-![Close up skull photo](/assets/images/2022/05/02/skull-detail.jpg)
+![Close up skull photo](/assets/images/2022/05/09/skull-detail.jpg)
 
 _Ah, I knew I was going to have to do something with this._
 
@@ -61,12 +61,12 @@ I threw together a gothic inspired chest that can house the AtTiny85 board, a sm
 and an aperture on top to reduce light leakage.  It press fits together.  [The models are available to download, with the original 
 CAD model on Printables](https://www.printables.com/model/200463-lighting-chest-for-attiny85-board-and-3x-ws2812bb-) or via [GitHub](https://github.com/kianryan/attiny85-chest).
 
-![Chest With Lid Open](/assets/images/2022/05/02/lid-open.jpg)
+![Chest With Lid Open](/assets/images/2022/05/09/lid-open.jpg)
 
 I can see the chest being a useful little set piece for a roleplaying game.  Anything can be mounted on top of the aperture, so long 
 as it's translucent, and adapting it to use battery rather than microUSB for power should be trivial.
 
-![Glowing Finished Chest](/assets/images/2022/05/02/glowy.jpg)
+![Glowing Finished Chest](/assets/images/2022/05/09/glowy.jpg)
 
 And, it's **piratey**, and **skully**, [well, yeah.](https://www.youtube.com/shorts/dihhxYVUel8):  
 
