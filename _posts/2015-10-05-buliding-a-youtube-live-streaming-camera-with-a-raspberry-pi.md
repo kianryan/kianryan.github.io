@@ -49,7 +49,7 @@ categories:
   - Fencing
 tags:
   - fencing
-  - Raspberri Pi
+  - raspberrypi
   - technology
 ---
 [<img src="/assets/images/2015/10/pi_situ.jpg" alt="pi_situ"   class="aligncenter size-full wp-image-1294" />](/assets/images/2015/10/pi_situ.jpg)
