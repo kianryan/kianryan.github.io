@@ -10,13 +10,13 @@ tags:
   - raspberrypi
 ---
 
-![Perty Bot](/assets/images/2022/05/24/perty_bot.png)
-
 I'm writing a Twitch bot on a Raspberry Pi with Python 3.  The bot uses the
 [Twitch IRC interface](https://dev.twitch.tv/docs/irc#) interface to read and send and messages.  To communicate with any of Twitches APIs, including the IRC 
 interface, an access token is required from their [OAuth server](https://dev.twitch.tv/docs/irc/authenticate-bot).  The Twitch API is *well* documented, and 
 there are excellent examples available in [Node](https://github.com/twitchdev/authentication-node-sample) and 
 [Go](https://github.com/twitchdev/authentication-go-sample).  This is an example implementation using Python 3.
+
+![Perty Bot](/assets/images/2022/05/24/perty_bot.png)
 
 >  __Disclaimer__: This is not production ready code, and is provided as a working example only.  My Python is limited 
 >  to building Raspberry Pi gadgets, so I apologise for any offence in coding style I'm about to commit.  I'm open 
