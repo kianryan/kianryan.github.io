@@ -10,7 +10,7 @@ tags:
   - octoprint
 ---
 
-Back in the early days of the awfulness somewhere in early 2022, we put the pennies down for a [Prusa Mini](https://www.prusa3d.com/category/original-prusa-mini/) and waited.  
+Back in the early days of the awfulness somewhere in early 2020, we put the pennies down for a [Prusa Mini](https://www.prusa3d.com/category/original-prusa-mini/) and waited.  
 Why the Mini?  Space.  Back in our previous house we _really_ didn't have a lot of space, and the Mini was a nice size 
 that could live on a bit of worktop in my office.  It arrived in June, assembly was surprisingly straightforward and 
 then we started learning.
