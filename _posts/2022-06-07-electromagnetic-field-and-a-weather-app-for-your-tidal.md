@@ -71,7 +71,7 @@ So - I checked the docs, and found [we get the MicroPython REPL on the USB port,
 minute or two later we had a tmux session running with pyboard in the top right for transferring files, [minicom](https://en.wikipedia.org/wiki/Minicom) in the 
 bottom right for the REPL and a vim in the left for code editing.
 
-![TMux Session for TiDAL Editing](/assets/images/2022/06/07/emf_tmux_tidal.jpg)
+![TMux Session for TiDAL Editing](/assets/images/2022/06/07/emf_tmux_tidal.png)
 
 Using [urequests](https://makeblock-micropython-api.readthedocs.io/en/latest/public_library/Third-party-libraries/urequests.html), and [OpenWeatherMap](https://openweathermap.org/), I can turn on the wifi, make requests and return json containing forecast data:
 
@@ -129,7 +129,7 @@ But why stop with text on the screen?  We want graphics!  If we switch to a Text
 directly to the Display object, and the St7789 Display object supports a [jpg method](https://github.com/russhughes/st7789_mpy/blob/master/README.md) for rendering a 
 jpg directly to the display.
 
-So, we write a small script to grab and [transform all the icons from OpenWeatherMap from PNG to JPG](), 
+So, we write a small script to grab and [transform all the icons from OpenWeatherMap from PNG to JPG](https://github.com/kianryan/emf_weather/blob/main/img/get-image.py), 
 and then we add a draw_image method to draw the appropriate icon:
 
 ```python
