@@ -9,7 +9,7 @@ permalink: /2011/12/sf-gateway-christmasnew-year-offer/
 dsq_thread_id:
   - "514354828"
 categories:
-  - Uncategorized
+  - LifeTrack
 ---
 <img src="/assets/images/2011/12/forever_war_the.png" alt="" title="forever_war_the"   class="alignleft size-full wp-image-630" /></a> [SF Gateway](http://www.sfgateway.com/) (publishers of classic Sci-Fi), are holding a sale between Christmas and New Year, where all of their e-books are going for Â£2.99.
 

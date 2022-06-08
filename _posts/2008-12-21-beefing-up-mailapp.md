@@ -11,7 +11,7 @@ ljID:
 dsq_thread_id:
   - "174926193"
 categories:
-  - Uncategorized
+  - LifeTrack
 ---
 Mac OS X’s default mail browser, Mail.app, is a pretty straightforward e-mail client with a few bells and whistles. But for those coming across from e-mail clients such as Thunderbird or Outlook, especially from daily workflows that revolve around e-mail, they may find the out-the-box functionality a little lacking. Cleverly Mail.app is easily extendible using a plugin-in interface, so you can just simply add the functionality you require. The list below are my minimum requirements to make Mail.app workable. All are free in one respect or another. Your mileage may vary.
 

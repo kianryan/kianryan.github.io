@@ -2,7 +2,7 @@
 layout: post
 title: Twitch Authentication With Python
 thumbnail-img: /assets/images/2022/05/24/perty_bot.png
-categories: Coding
+categories: Code
 tags: 
   - twitch
   - python

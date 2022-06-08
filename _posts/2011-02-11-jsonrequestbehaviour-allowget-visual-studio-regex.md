@@ -10,7 +10,6 @@ dsq_thread_id:
   - "228315346"
 categories:
   - Code
-  - Uncategorized
 ---
 Nice quick win – currently upgrading a client Intranet project from ASP.NET MVC1 to MVC2. Microsoft changed how get requests are handled in this release and disallowed GET JSON requests by default. Before going any further, note that there are [security implications in allowing JSON get requests](http://haacked.com/archive/2009/06/25/json-hijacking.aspx).
 

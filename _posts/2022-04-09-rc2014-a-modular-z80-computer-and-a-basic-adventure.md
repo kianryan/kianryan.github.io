@@ -2,7 +2,7 @@
 layout: post
 title: RC2014 - a Modular Z80 Computer, and a BASIC Adventure
 thumbnail-img: /assets/images/2022/04/09/rc2014-classic.jpg
-categories: Coding
+categories: Code
 tags: 
   - retro
   - z80

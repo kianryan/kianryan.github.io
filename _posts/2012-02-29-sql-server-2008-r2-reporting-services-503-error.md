@@ -9,7 +9,9 @@ permalink: /2012/02/sql-server-2008-r2-reporting-services-503-error/
 dsq_thread_id:
   - "593574596"
 categories:
-  - Uncategorized
+  - Code
+tags:
+  - SQL Server
 ---
 I was up til 2am on this one.
 

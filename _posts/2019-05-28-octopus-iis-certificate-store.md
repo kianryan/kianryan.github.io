@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enabling IIS to use the Certificate Store in Octopus Deploy
-categories: Coding
+categories: Code
 tags: 
  - Octopus Deploy, IIS, Powershell
 ---

@@ -9,7 +9,7 @@ permalink: /2011/10/gadaffi-dead-bbc-nu-gorefest/
 dsq_thread_id:
   - "448815717"
 categories:
-  - Uncategorized
+  - Comment
 ---
 So, Gadaffi appears to have been finally hunted down and killed. We know this because it’s all the news channels are showing, and it’s all the news website can show.
 

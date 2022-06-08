@@ -9,7 +9,7 @@ permalink: /2011/10/barcamp-blackpool-3/
 dsq_thread_id:
   - "446008458"
 categories:
-  - Uncategorized
+  - LifeTrack
 ---
 
 <img src="http://www.catashton.co.uk/wp-content/uploads/2011/10/LoveOurSponsors.jpg"  />   

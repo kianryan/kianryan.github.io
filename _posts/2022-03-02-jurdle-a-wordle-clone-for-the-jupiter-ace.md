@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jurdle, a Wordle Clone for the Jupiter Ace and Minstrel 4th
-categories: Coding
+categories: Code
 thumbnail-img: /assets/images/2022/03/02/minstrel4th.jpg
 tags: 
   - retro

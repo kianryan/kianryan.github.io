@@ -15,7 +15,7 @@ ljxp_privacy:
 dsq_thread_id:
   - "1618861793"
 categories:
-  - Uncategorized
+  - Bob
 ---
 At BarCamp Sheffield we were asked to create a tag cloud to represent our interests.Â  Rather than quickly doodle one out at the venue, I took a blank back with me on the Friday evening to my hotel and drew one in Bob instead.Â  A few people have asked me to post the tag cloud so here you go.
 

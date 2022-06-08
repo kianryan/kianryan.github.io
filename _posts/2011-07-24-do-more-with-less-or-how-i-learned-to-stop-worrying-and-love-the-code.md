@@ -9,6 +9,6 @@ permalink: /2011/07/do-more-with-less-or-how-i-learned-to-stop-worrying-and-love
 dsq_thread_id:
   - "367073457"
 categories:
-  - Uncategorized
+  - LifeTrack
 ---
 Slides from my talk on anti-pattern productivity (applying levels of common sense to getting stuff done vs formal productivity systems).

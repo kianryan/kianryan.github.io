@@ -9,7 +9,7 @@ permalink: /2010/11/does-anyone-else-see-smiley-faces/
 dsq_thread_id:
   - "176171816"
 categories:
-  - Uncategorized
+  - Code
 ---
 From the Visual Studio Regular Expressions documentation…
 

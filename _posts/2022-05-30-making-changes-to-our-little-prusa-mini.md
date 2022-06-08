@@ -2,7 +2,7 @@
 layout: post
 title: Making Changes To Our Little Prusa Mini 
 thumbnail-img: /assets/images/2022/05/30/mini_build_power.png
-categories: Coding
+categories: Code
 tags: 
   - 3dprinting
   - prusamini

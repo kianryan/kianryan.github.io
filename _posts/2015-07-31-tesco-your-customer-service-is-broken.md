@@ -48,7 +48,7 @@ mkd_text:
 dsq_thread_id:
   - "3991253737"
 categories:
-  - Uncategorized
+  - Comment
 tags:
   - customer-service
   - hudl2

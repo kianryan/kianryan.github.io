@@ -9,7 +9,7 @@ permalink: /2010/10/gorillas-beta/
 dsq_thread_id:
   - "447541168"
 categories:
-  - Uncategorized
+  - Code
 ---
 <a href="http://www.kianryan.co.uk/2010/10/gorillas-beta/qbasic-gorilla-screenshot-2/" rel="attachment wp-att-377"><img src="/assets/images/2010/10/qbasic-gorilla-screenshot1.gif" alt="" title="qbasic-gorilla-screenshot"   class="alignleft size-full wp-image-377" /></a> <a href="http://www.kianryan.co.uk/2010/10/gorillas-beta/screen-shot-2010-10-13-at-09-41-38/" rel="attachment wp-att-378"><img src="/assets/images/2010/10/Screen-shot-2010-10-13-at-09.41.38.jpg" alt="" title="Screen shot 2010-10-13 at 09.41.38"   class="alignleft size-full wp-image-378" /></a>
 

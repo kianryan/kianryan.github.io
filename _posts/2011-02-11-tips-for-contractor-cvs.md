@@ -9,7 +9,7 @@ permalink: /2011/02/tips-for-contractor-cvs/
 dsq_thread_id:
   - "227925365"
 categories:
-  - Uncategorized
+  - LifeTrack
 ---
 I spend quite a bit of time recruiting for clients, helping place contractors and full time placements for them. As such, I sift through rather a lot of CVs. CVs are notoriously hard to get right, you’ve got to get a potentially complex personality and skill set across in a few sides of A4.
 

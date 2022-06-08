@@ -11,7 +11,7 @@ ljID:
 dsq_thread_id:
   - "280952693"
 categories:
-  - Comment
+  - Bob
 ---
 I have to apologise for this. [Barcamp Sheffield](http://barcampsheffield.net/?p=350) launched a competition where entrants had to produce a piece of social media to promote digital media in Sheffield and/or Barcamp Sheffield.
 

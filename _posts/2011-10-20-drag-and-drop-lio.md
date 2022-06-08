@@ -9,7 +9,7 @@ permalink: /2011/10/drag-and-drop-lio/
 dsq_thread_id:
   - "448550234"
 categories:
-  - Uncategorized
+  - LifeTrack
 ---
 Using OS X Lion on an older Macbook (in my case late 2008), if you attempt to use a third party graphics driver, for example as a screen extender, you may experience a problem with dragging and dropping and other graphics related problems (VMWare not releasing your mouse).
 

@@ -9,7 +9,7 @@ permalink: /2011/07/nottingham-barcamp-2011/
 dsq_thread_id:
   - "367077831"
 categories:
-  - Uncategorized
+  - LifeTrack
 ---
 [<img src="http://farm7.static.flickr.com/6025/5969426911_d511738ec5.jpg"   alt="Nottingham, Nottinghack, BarCamp, BCNOTT, BarCamp Nottingham, 027" />](http://www.flickr.com/photos/nottinghack/5969426911/ "Nottingham, Nottinghack, BarCamp, BCNOTT, BarCamp Nottingham, 027 by Nottinghack, on Flickr")
 

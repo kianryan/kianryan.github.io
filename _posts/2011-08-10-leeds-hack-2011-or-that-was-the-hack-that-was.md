@@ -9,7 +9,8 @@ permalink: /2011/08/leeds-hack-2011-or-that-was-the-hack-that-was/
 dsq_thread_id:
   - "382079745"
 categories:
-  - Uncategorized
+  - LifeTrack
+  - Code
 ---
 LeedsHack 2011 has been and gone, and again was the flurry of excitement and frustration we’ve come to expect from the event.Â  
   

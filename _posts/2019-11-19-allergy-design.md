@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Designing For Food Allergies
-categories: Coding
+categories: Code
 tags:
  - Coding
  - Information Design

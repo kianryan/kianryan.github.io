@@ -9,7 +9,7 @@ permalink: /2009/05/because-good-free-fonts-are-so-hard-to-find/
 ljID:
   - "131"
 categories:
-  - Uncategorized
+  - Code
 ---
 Those who have to dip their toes into the life of a designer once every so often understand the importance of typography. One of the hard parts of typography is finding the right typeface that isn’t going to break your piggy bank (or your client’s piggy bank).
 

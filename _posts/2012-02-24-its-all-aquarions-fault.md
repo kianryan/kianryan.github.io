@@ -9,7 +9,7 @@ permalink: /2012/02/its-all-aquarions-fault/
 dsq_thread_id:
   - "587709284"
 categories:
-  - Uncategorized
+  - LifeTrack
 ---
 It’s all [Aquarion’s](http://www.aquarionics.com/) fault</a>.
 

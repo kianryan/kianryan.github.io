@@ -9,7 +9,7 @@ permalink: /2011/12/conways-game-of-life/
 dsq_thread_id:
   - "493383994"
 categories:
-  - Uncategorized
+  - Code
 ---
 This weekend saw the global [Coderetreat](http://globalday.coderetreat.org/) happen, where developers all around the world worked in regional groups to improve their coding techniques, and to try out new ideas/languages.
 

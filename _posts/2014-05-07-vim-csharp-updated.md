@@ -41,7 +41,7 @@ mkd_text:
 dsq_thread_id:
   - "2666194892"
 categories:
-  - Uncategorized
+  - Code
 tags:
   - code
 ---

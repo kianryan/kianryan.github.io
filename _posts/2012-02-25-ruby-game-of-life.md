@@ -9,7 +9,7 @@ permalink: /2012/02/ruby-game-of-life/
 dsq_thread_id:
   - "589156726"
 categories:
-  - Uncategorized
+  - Code
 ---
 I am learning Ruby and Vim. I’m also attending the [Preston Codejo](http://www.magmadigital.co.uk/2012/preston-codejo/) hosted by [Magma Digital](http://www.magmadigital.co.uk/), where were using Ruby as the driver.
 

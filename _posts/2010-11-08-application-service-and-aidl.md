@@ -9,7 +9,7 @@ permalink: /2010/11/application-service-and-aidl/
 dsq_thread_id:
   - "175578555"
 categories:
-  - Uncategorized
+  - Code
 ---
 Our demonstration Android application for Leedshack came in two parts – a user-facing application which the user could use to drop “markers” (points used to attach triggers to) and a background process which checked a remote web service to look for any triggers to fire.
 

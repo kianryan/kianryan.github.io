@@ -2,7 +2,7 @@
 layout: post
 title: Electromagnetic Field 2022 and a Weather App for Your TiDAL
 thumbnail-img: /assets/images/2022/06/07/thumbnail.png
-categories: Coding
+categories: Code
 tags: 
   - making
   - esp32

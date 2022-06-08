@@ -2,7 +2,7 @@
 layout: post
 title: Serial and Windows Subsystem For Linux (WSL)
 thumbnail-img: /assets/images/2022/04/09/wsl-settings.png
-categories: Coding
+categories: Code
 tags: 
   - retro
   - z80
