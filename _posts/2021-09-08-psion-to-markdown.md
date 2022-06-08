@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Getting Markdown Out of the Psion
-categories: Making
+categories: 
+  - Making
+  - Code
 tags:
   - writing
   - blogging
