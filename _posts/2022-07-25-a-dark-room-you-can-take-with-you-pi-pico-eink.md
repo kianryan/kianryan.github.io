@@ -12,6 +12,10 @@ tags:
   - darkroom
 ---
 
+> The Dark Room is the property of John Robertson.  This is a fan project, and a good excuse to build some hardware.  John
+> Robertson has in no way endorsed this project, or been approached for rights use.  All rights to the Dark Room remain with John Robertson.  Now 
+> that bit of obligatory it out of the way...
+
 We're big fans of [John Robertson's The Dark Room](https://www.thejohnrobertson.com/thedarkroom/).  For those not familiar, here's the trailer.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h37ipmuPZVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
