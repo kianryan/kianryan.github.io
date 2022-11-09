@@ -217,7 +217,7 @@ footer {
   }
 }
 
-.minibio, .dabillz {
+.minibio, .dabillz, #mastodon_wrapper {
     border: 1px solid $sunrise_grey;
     box-shadow: 5px 5px 5px $sunrise_grey;
     background: $sunrise_bottom;
@@ -246,5 +246,17 @@ footer {
       color: $sunrise_white;
       text-decoration: underline;
     }
+}
+
+#mastodon_wrapper #mastodon_timeline article {
+  font-size: 1rem;
+  border-bottom: 2px solid white;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-shadow: none;
+
+  .avatar-img {
+    width: 50px;
+    height: 50px;
+  }
 
 }
