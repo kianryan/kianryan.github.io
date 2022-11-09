@@ -42,6 +42,16 @@
     </a>
   {% endif %}
 
+  {% if site.share-links-active.mastodon %}
+    <a href="https://toot.kytta.dev/?text={{ page.title }}%0A{{ page.url | absolute_url }}"
+      class="btn btn-social-icon btn-mastodon" title="Share on Mastodon">
+      <span class="fab fa-fw fa-mastodon" aria-hidden="true"></span>
+      <span class="sr-only">VK</span>
+    </a>
+  {% endif %}
+
+
+
 </section>
 
 {% endif %}
