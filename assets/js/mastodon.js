@@ -27,8 +27,9 @@ const MastodonBar = {
 
         const type = me.attributes['type'].value;
         const url = me.attributes['url'].value;
-        if (type == 'image/jpeg') mediaHtml += `
-          <p><img src="${url}" alt="${me.querySelector('description').innerHTML}" /></p>
+        const alt = (me.querySelector('description') || {}).innerHTML;
+        if (/image/.test(type)) mediaHtml += `
+          <p><img src="${url}" alt="${alt}" /></p>
         `;
       });
 

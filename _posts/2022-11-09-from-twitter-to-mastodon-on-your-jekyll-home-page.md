@@ -49,3 +49,5 @@ site runs on [Jekyll](https://jekyllrb.com/), and whilst the code is generic eno
 reference), Jekyll users can drop it in to assets/js and add it to their JS assets through base.html.
 
 Let me know if it's been a help.
+
+>  __Edit:__ - I've added a null check to the alt text, and it will now display all image types.
