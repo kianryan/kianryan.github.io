@@ -149,7 +149,7 @@ clicky: 101358825
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "kianryan"
+# disqus: "kianryan"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
@@ -158,11 +158,11 @@ disqus: "kianryan"
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
-#utterances:
-#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
-#  issue-term: title   # Mapping between blog posts and GitHub issues
-#  theme: github-light # Utterances theme
-#  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+utterances:
+  repository: kianryan/kianryan.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  issue-term: title   # Mapping between blog posts and GitHub issues
+  theme: github-light # Utterances theme
+  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, first invite `staticmanlab` as a collaborator to your repository and
 # accept the invitation by going to `https://staticman3.herokuapp.com/v3/connect/github/<username>/<repo-name>`.
