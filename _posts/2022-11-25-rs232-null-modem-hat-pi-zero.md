@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RS232 and Null Model HAT for the Pi Zero
+title: RS232 and Null Modem HAT for the Pi Zero
 thumbnail-img: /assets/images/2022/11/25/PiRS232_v2_layout.png
 categories:
   - Making
