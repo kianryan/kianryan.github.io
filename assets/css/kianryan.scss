@@ -208,12 +208,16 @@ footer {
   }
 }
 
-.blog-post {
 
-  /* In a general blog post, apply a maximum width and height */
-  img {
-    max-width: 600px;
-    max-height: 600px;
+
+@media only screen and (min-width: 600px) {
+  .blog-post {
+
+    /* In a general blog post, apply a maximum width and height */
+    img {
+      max-width: 600px;
+      max-height: 600px;
+    }
   }
 }
 
