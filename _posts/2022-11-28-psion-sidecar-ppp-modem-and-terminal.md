@@ -93,7 +93,7 @@ At this point, you should have your device talking to the Pi, over Serial, with 
 If your client device can support PPP, we can go a step further, and provide a PPP service on the Pi for your RS232 device. 
 This will allow your device to use the Pi both as a Linux terminal, and as a gateway to use it's own software to the outside world. 
 
-There's security implications to this.  It's not the 1980s or 1990s.  Excise some caution.
+There's security implications to this.  It's not the 1980s or 1990s.  Exercise some caution.
 
 We're going to run the PPP service over serial, so please ensure you have a working a working RS232 serial terminal connection with 
 RTS/CTS before continuing.  We will also be disabling the serial console, since we'll be the serial port for the PPP service.
