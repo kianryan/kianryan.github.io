@@ -19,13 +19,13 @@ Creating the PiRS232 and playing with the Pi over serial has been leading toward
 battery powered device, a _sidecar_ that I could carry with my Psion and use as portable Linux terminal.  I also managed 
 to turn it into an Internet gateway, leading to some interesting experiences.
 
-The idea was straightforward: take a Pi Zero, add an RS232 board that already handles the null modem side, add a Lipo battery, 
+The idea was straightforward: take a Pi Zero W, add an RS232 board that already handles the null modem side, add a Lipo battery, 
 power management and charging, and print a case for it.  It's taken a few months from initial idea 
 to final design, but I'm happy the result, it's usable and practical, and you can build one too.
 
 Parts:
 
-* [Raspberry Pi Zero](https://www.raspberrypi.com/products/raspberry-pi-zero/)
+* [Raspberry Pi Zero W](https://www.raspberrypi.com/products/raspberry-pi-zero-w/)
 * [Pimoroni LiPo Amigo Pro](https://shop.pimoroni.com/products/lipo-amigo?variant=39779302539347)[^1]
 * [Pimoroni LiPo SHIM for Raspberry Pi](https://shop.pimoroni.com/products/lipo-shim?variant=23979864391)
 * [PiRS232 board](/2022-11-25-rs232-null-modem-hat-pi-zero/)
@@ -59,7 +59,7 @@ There were a few iterations of the case.  This version works in a range of mater
 The build is pretty straightforward and only requires through hole soldering.
 
 To build:
-* Solder the long male header to the Pi Zero.
+* Solder the long male header to the Pi Zero W.
 * Solder the Lipo shim as close as possible to the Pi.
 * Screw the nylon stand offs on the three sides still available to you.  Add nuts to the underside.
 * Add the PiRS232 board to the top and screw in the nylon screws.
@@ -251,7 +251,7 @@ were not designed for.  I would love to see if other people build versions of th
 
     A month in to the project, smoke, heat, noise, project died.  Refused to boot, made lots of heat if we tried.
   
-    A few weeks later [Les Pounder](https://bigl.es/) came to our rescue with a spare Pi Zero at Play Expo Blackpool.  Thank you.
+    A few weeks later [Les Pounder](https://bigl.es/) came to our rescue with a spare Pi Zero W at Play Expo Blackpool.  Thank you.
   
     When we pulled the stack apart, we found the original Pi _wasn't_ dead, but the SD card _very_ much was, and the second 
     Amigo Pro was making some interesting noises.  The Pi wasn't making the heat, the SD card was.  Fresh card and we were 
