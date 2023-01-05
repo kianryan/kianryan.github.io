@@ -59,7 +59,7 @@ org $8000
 	ret			; we're done
 
 display:
-	ld	c, $06		; load display routine from SBC API
+	ld	c, $06		; load display routine from SCM API
 	rst	$30		; exec display routing
 	ret			; we're done
 
@@ -93,7 +93,7 @@ cat helloworld.hex | clip.exe
 
 ### Running on the RC2014
 
-We can then paste the output in to SBC. If it's all gone to plan, we should see a `Ready` indicating 
+We can then paste the output in to SCM. If it's all gone to plan, we should see a `Ready` indicating 
 the code has been loaded.  We can then run our memory location with `g 8000`:
 
 ```
