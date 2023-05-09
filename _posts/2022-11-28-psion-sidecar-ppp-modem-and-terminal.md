@@ -31,7 +31,7 @@ Parts:
 * [PiRS232 board](/2022-11-25-rs232-null-modem-hat-pi-zero/)
 * [2200mah LiPo Battery with JST connector](https://shop.pimoroni.com/products/lithium-ion-battery-pack?variant=23417820359)
 * Double ended JST connector
-* 2 x 20 "long" male header
+* [2 x 20 "long" male header](https://shop.pimoroni.com/products/male-40-pin-2x20-hat-header)
 * [Printed case parts available on Printables](https://www.printables.com/model/327193-sidecar-for-psion-lipo-powered-ppp-wifi-modem-and-)
 * 3 sets of M2.5 10mm Nylon stand-offs, screws and nuts 
 * 3 x M2.5 x 5mm "computer screws"
@@ -101,7 +101,7 @@ RTS/CTS before continuing.  We will also be disabling the serial console, since 
 Install PPP on the Pi if not already installed:
 
 ```bash
-sudo apt install ppp
+sudo apt install ppp telnetd
 ```
 
 Edit /etc/rc.local and add the following lines before "exit 0":

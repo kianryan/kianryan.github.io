@@ -17,6 +17,8 @@ tags:
 >  they could help with.  I said no, but I did have an electronics project I needed PCBs for.  They kindly sponsored the first 
 >  iteration of PCBs for this project.
 
+> As suggested by Rich Teel, [who made a Sidecar based on these posts and provided feedback](https://teelsys.com/psion-sidecar-part-ii/), I've now made the [bare PCB available for direct purchase through PCBWay](https://www.pcbway.com/project/shareproject/RS232_And_Null_Modem_HAT_for_Pi_Zero_127de422.html).  
+
 I wanted a tidier solution to the [kludge of connectors that I was using to connect my Psion to a Pi](2022-06-13-connecting-a-psion-to-a-raspberry-pi-with-serial/).  My shopping list involved RTS/CTS, and optional crossover/null modem ,which ruled out some of the existing boards such as the [Serial PiZero](https://thepihut.com/products/serial-pizero).  So, it looked like I was going to end up designing my 
 own board.  At the same time, PCB reached out asking if I had any 3D printing projects they could help me with.  I asked 
 if they could help with an electronics project instead, and they agreed to supply a batch of PCBs.

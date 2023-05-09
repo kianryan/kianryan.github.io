@@ -66,7 +66,7 @@ and a gender changer on the Psion/RS232 side.
 ![Raspberry Pi / RS232 TTL Overview](/assets/images/2022/06/13/p5mx-board-overview.jpg)
 
 I'm using the [Hermes terminal program](https://web.archive.org/web/20070629220110/http:/www.iota.demon.co.uk/psion/hermes/hermes.html) (link via Wayback machine). 
-Set up your serial client for 15200 baud, 8N1, with no hardware flow control.  If 
+Set up your serial client for 115200 baud, 8N1, with no hardware flow control.  If 
 it's all gone well so far, press return on your Pi, and see if you get a response.  
 You're in the console terminal, from a fresh boot you're probably should be at the 
 login prompt.  Login, and welcome to your serial Pi.
@@ -129,7 +129,7 @@ dtoverlay=uart-ctsrts
 ```
 
 Finally, on boot we need to tell the serial driver to use RTS/CTS.  I've tried a few approaches, 
-but so far the most reliable has been adding the following to the bottom of `~/.bash_rc`.  This 
+but so far the most reliable has been adding the following to the bottom of `~/.bashrc`.  This 
 will tell the serial driver to use CTS/RTS on login.
 
 ```
