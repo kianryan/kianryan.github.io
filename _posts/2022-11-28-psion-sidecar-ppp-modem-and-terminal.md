@@ -209,6 +209,13 @@ a local IMAP or POP relay on the Pi might be a good way to get around this ... f
 
 So what about web browsing?  [Opera still make available the Psion version of the browser for download.](https://get.geo.opera.com/pub/opera/psion/) Unfortunately, it's only usable for 30 user days and they haven't provided an unlock code with the download.  If you can help with that, [please get in touch](mailto:kian@orangetentacle.co.uk). But it's enough time to have fun with.
 
+> Robert Snoulton reached out and linked me to [this page](http://epoc32archive.x10.mx/PSC/pscience5/pscience5/www.pscience5.net/LFComms.html).  
+> 
+> According to the page above, the below are Opera provided registration codes.  The codes below work should work with the versions directly hosted with Opera above.  I'm replicating them here in case the above link is lost.
+> 
+> Opera v5.14 / ER5 - (S5mx/MC218/Series7/netbook)  e-XfaKu-WsCLh-rLaKT-y3tjW-k76bs  
+> Opera v5.14 / ER3 - (S5/Geofox/Osaris) e-wvSrQ-NAywD-JkUEs-jcLRn-rAnfT
+
 Our first port of call is straight to Google.  The home page loads, but that's about it. We can search, but very few results 
 will load.  Our browser doesn't understand SSL, and with the push for _everything_ to be served secure, suddenly a lot 
 of the internet is no longer open to us.  Let alone issues with HTML5, CSS and Javascript.
