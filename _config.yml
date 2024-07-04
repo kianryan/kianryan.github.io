@@ -69,7 +69,7 @@ rss-description: RSS isn't dead.
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  # twitter: true
   facebook: true
   linkedin: true
   vk: false
