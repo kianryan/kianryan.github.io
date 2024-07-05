@@ -145,6 +145,13 @@ footer {
           font-family: Pinscher;
         }
     }
+
+    .post-preview {
+        .post-image {
+		width: 20rem;
+		height: 20rem;
+	}
+    }
 }
 .pagination .page-item .page-link {
   background: $sunrise_middle;
