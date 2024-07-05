@@ -26,9 +26,13 @@ and a relatively fine pitched soldering iron.  There are a couple of surface mou
 iron with temperature control and a fine enough pitch.  I assembled this using my Hakko and D tip, but a Pinecil would also 
 be a perfect iron for this kit.
 
+![HU-017A Radio Instructions](/assets/images/2024/06/24/radio_instructions.jpg)
+
 The instructions come in 26 steps, handle the soldering of the surface components and then the through hole.  They have 
 translation errors, however are clearly illustrated and if you have some experience in soldering and electronics, I think 
 are easy enough to follow.  There are online instructions, I felt the paper instructions were adequate.
+
+![HU-017A Radio PCB](/assets/images/2024/06/24/radio_pcb.jpg)
 
 The component quality is _fine_.  The acrylic pieces are well cut, the electronics components are mid-quality, and the 
 mounting hardware is missing some plating.  This is a mass manufactured kit to a price point.  There are significantly 
