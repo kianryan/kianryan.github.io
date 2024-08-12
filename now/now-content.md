@@ -13,8 +13,8 @@ I have a number of client projects on the go, but if you've got interesting proj
 
 I'm doing some interesting work with .NET, React, NodeJs, Typescript, and a whole host of Azure and AWS services.  We're having fun.
 
-I'm doing lots of image processing at the minute, and a fair bit of work with AI services.
+I'm doing lots of image processing at the minute, and a fair bit of work with ML.  I'm not interested in generative AI.
 
 ## Play
 
-When I can, I'm helping out with at [Leigh Hackspace](https://en-gb.facebook.com/LeighHackspace/), and tinkering with electronics projects.  I've just finished the Psion Sidecar, and just finishing InTheDark.  Next on my desk is a vision based IOT project.
+When I can, I'm helping out with at [Leigh Hackspace](https://en-gb.facebook.com/LeighHackspace/), and tinkering with electronics projects.  I'm currently building a Proton Pack, and enclosures for two of my RC2014s.
