@@ -281,3 +281,14 @@ footer {
 }
 }
 
+@media (max-width: 500px) {
+  .posts-list .post-preview .post-image {
+    width: 10rem;
+    height: 10rem;
+
+    img {
+      max-width: 10rem;
+      max-height: 10rem;
+    }
+  }
+}
