@@ -48,7 +48,7 @@ allow us to now set up a metalworking space, and add more private space.
 ![CNC with Boop Sensor](/assets/images/2026/03/boop.jpg)
 
 If you're in the Leigh, Wigan, Bolton or Manchester areas, please feel free 
-to [drop in and see us](https://www.leighhack.org/visit/).  We run tours on Saturday afternoons from 1PM.  If 
+to [drop in and see us](https://www.leighhack.org/visit/).  We run tours on Saturday from 12PM til 1PM.  If 
 you're looking for a space to run a local user group meeting, or have a 
 project you would like to run, [please feel free to get in touch](mailto:info@leighhack.org).
 
