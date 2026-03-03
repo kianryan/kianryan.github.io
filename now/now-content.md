@@ -11,10 +11,17 @@ Sport is a little slow atm.  I'm on rehab after being in an RTA in March 2022.
 
 I have a number of client projects on the go, but if you've got interesting projects you would like to discuss please [get in touch](http://www.orangetentacle.co.uk/).
 
-I'm doing some interesting work with .NET, React, NodeJs, Typescript, and a whole host of Azure and AWS services.  We're having fun.
+I'm doing some interesting work with .NET, React, NodeJs, Typescript, 
+and a whole host of Azure and AWS services.  We're having fun.
 
-I'm doing lots of image processing at the minute, and a fair bit of work with ML.  I'm not interested in generative AI.
+I'm doing lots of image processing at the minute, and a fair bit of 
+work with ML.  I'm not interested in generative AI.
 
 ## Play
 
-When I can, I'm helping out with at [Leigh Hackspace](https://en-gb.facebook.com/LeighHackspace/), and tinkering with electronics projects.  I'm currently building a Proton Pack, and enclosures for two of my RC2014s.
+When I can, I'm helping out with at 
+[Leigh Hackspace](https://en-gb.facebook.com/LeighHackspace/), and 
+tinkering with electronics projects.  I'm currently building a 
+Proton Pack, and enclosures for two of my RC2014s.
+
+I should probably create a project list...
