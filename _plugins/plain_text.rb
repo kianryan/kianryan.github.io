@@ -3,7 +3,7 @@ module PlainTextPlugin
     safe true
 
     def generate(site)
-      site.posts.each do |post|
+      site.posts.docs.each do |post|
         # Does this need to generate a page on pages?
         site.pages << PlainTextPage.new(site, post)
       end
