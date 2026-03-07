@@ -6,10 +6,11 @@
 # --- Required options --- #
 
 # Name of website
-title: Kian Ryan
-
-# Your name to show in the footer
 author: Kian Ryan
+title: Kian Ryan
+email: kian@orangetentacle.co.uk
+baseurl: ""
+url: "https://www.kianryan.co.uk"
 
 # --- List of links in the navigation bar --- #
 
