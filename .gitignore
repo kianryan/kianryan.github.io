@@ -4,3 +4,4 @@ _site
 _drafts
 .*swp
 .vscode/
+Gemfile.lock
