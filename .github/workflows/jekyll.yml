@@ -38,7 +38,7 @@ jobs:
         env:
           JEKYLL_ENV: production
       - name: Push files
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
         with:
           local-dir: './_site/'
           server-dir: 'www/www.kianryan.co.uk/'
