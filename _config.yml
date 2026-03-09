@@ -224,6 +224,9 @@ defaults:
     values:
       layout: "page"
 
+include:
+  .htaccess
+
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
