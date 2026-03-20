@@ -31,7 +31,7 @@ fantastic substitute at a fraction of the footprint, and breadboard compatible.
 Two of the seven segments are inverted to allow for the dot remain aligned irrespective of 
 orientation.  There's some additional code in the project to allow for the mapping.
 
-The code is available on GitHub, and works on either a board such as the Uno/Mini 
+[The code is available on GitHub](https://github.com/kianryan/pomodoro_clock/), and works on either a board such as the Uno/Mini 
 or on an microcontroller such as the AtTiny84.
 
 ![Prototype Board](/assets/images/2020/12/10/prototype_board.jpg)
