@@ -10,6 +10,15 @@ tags:
   - debian
 ---
 
+
+> [Lucie (from MNT)](https://mastodon.social/@mntmn/116574287426637295) has found a better way to run PrusaSlicer on the Pocket Reform with full GL rather than using GL ES.
+> I'm leaving this post up in case this is useful for other platforms.
+> But for the Pocket Reform, try:
+> 
+> LD_PRELOAD=/usr/lib/aarch64-linux-gnu/libGLEW.so.2.2 prusa-slicer --opengl-compatibility
+> 
+> (I found I was using libGLEW 2.3, so adjusted accordingly).
+
 My current portable machine is a [MNT Pocket Reform](https://shop.mntre.com/products/mnt-pocket-reform) 
 with a RK3588 ARM processor.  The Pocket Reform ships with Debian 
 Sid which has PrusaSlicer available in the repos, but the current 
