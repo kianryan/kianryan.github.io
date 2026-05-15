@@ -1,0 +1,21 @@
+---
+layout: page
+permalink: /infocom/
+full-width: true
+---
+
+<div class="row">
+  <div class="offset-xl-1 col-xl-7">
+
+    <div>
+      {% capture infocom_content %}{% include_relative infocom-content.md %}{% endcapture %}
+      {{ infocom_content | markdownify }}
+    </div>
+</div>
+
+  <!-- <div class="col-xl-3"> -->
+  <!--   <div> -->
+  <!--       <div class="mt-3 alert alert-secondary"> -->
+  <!--   </div> -->
+  <!-- </div> -->
+</div>
