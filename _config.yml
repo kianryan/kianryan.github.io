@@ -227,6 +227,7 @@ defaults:
 
 include:
   .htaccess
+  human.json
 
 # Exclude these files from production site
 exclude:
