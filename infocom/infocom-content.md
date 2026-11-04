@@ -6,6 +6,7 @@ Smol.
 
 When I get a chance, I stream them on [Twitch](https://www.twitch.tv/betsyandsamantha/) and archive the gameplay on [Youtube](https://www.youtube.com/@betsyandsamantha).
 
+* A Mind Forever Voyaging
 * Ballyhoo
 * Beyond Zork
 * Bureaucracy
@@ -18,6 +19,7 @@ When I get a chance, I stream them on [Twitch](https://www.twitch.tv/betsyandsam
 * Sorcerer
 * Starcross
 * Trinity
+* The Lurking Horror
 * Wishbringer
 * Zork I
 * Zork II
@@ -30,8 +32,6 @@ and would be willing to part with them (pennies paid), please [drop me a line](m
 * Deadline
 * Enchanter
 * Infidel
-* The Lurking Horror
-* A Mind Forever Voyaging
 * Plundered Hearts
 * Seastalker
 * Spellbreaker
@@ -40,4 +40,3 @@ and would be willing to part with them (pennies paid), please [drop me a line](m
 * Suspended
 * The Witness
 * Zork III
-
