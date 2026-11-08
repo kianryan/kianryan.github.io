@@ -292,3 +292,14 @@ footer {
     }
   }
 }
+
+figcaption {
+  font-weight: bold;
+  display: block;
+  margin-top: .5em;
+  margin-left: 2em;
+  padding: 1em;
+  background: $sunrise_middle;
+  color: $sunrise_white;
+  border-bottom: 3px solid $sunrise_grey;
+}
